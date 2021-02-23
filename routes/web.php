@@ -33,8 +33,34 @@ Route::get("/contact-us",function(){
     return view("contact-us");
 });
 
+
+
 Route::get("/public-cloud-pricing",function(){
     return view("public-cloud.pricing");
+});
+
+Route::get("/public-cloud-compute",function(){
+    return view("public-cloud.compute");
+});
+
+Route::get("/public-cloud-storage",function(){
+    return view("public-cloud.storage");
+});
+
+Route::get("/public-cloud-network",function(){
+    return view("public-cloud.network");
+});
+
+Route::get("/public-cloud-orchestration",function(){
+    return view("public-cloud.orchestration");
+});
+
+Route::get("/public-cloud-data-analytics",function(){
+    return view("public-cloud.data-analytics");
+});
+
+Route::get("/public-cloud-ai-machine-learning",function(){
+    return view("public-cloud.ai-machine-learning");
 });
 
 Route::get("/services",function(){

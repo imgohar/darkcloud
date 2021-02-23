@@ -7,7 +7,8 @@
                 <img src="revslider/assets/shape.png" alt="qloud" title="shape" width="1600" height="707" data-bg="p:center bottom;" data-parallax="off" class="rev-slidebg" data-no-retina>
                 <!--
                 -->
-                <rs-layer id="slider-1-slide-1-layer-0" class="textgyreadventor" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:132px;y:c;yo:-69px;" data-text="w:normal;s:70;l:90;fw:700;" data-frame_0="x:-50;" data-frame_1="st:600;sp:1000;sR:600;" data-frame_999="o:0;st:w;sR:7400;" style="z-index:8;">Dark Cloud
+                <rs-layer id="slider-1-slide-1-layer-0" class="textgyreadventor" data-type="text" data-color="#ffffff" data-rsp_ch="on" data-xy="x:132px;y:c;yo:-69px;" data-text="w:normal;s:70;l:90;fw:700;" data-frame_0="x:-50;" data-frame_1="st:600;sp:1000;sR:600;" data-frame_999="o:0;st:w;sR:7400;" style="z-index:8;">DarkCloud.io
+                    
                     <br> Service
                 </rs-layer>
                 <!--

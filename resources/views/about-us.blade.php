@@ -12,9 +12,9 @@
                     <div class="col-sm-12">
                        <nav aria-label="breadcrumb" class="text-center iq-breadcrumb-two">
                           <h2 class="title">
-                          About Us 1                       </h2>
+                          About Us                      </h2>
                           <ol class="breadcrumb main-bg">
-                             <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Home</a></li> <li class="breadcrumb-item active"> About Us 1</li>
+                             <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Home</a></li> <li class="breadcrumb-item active"> About Us</li>
                           </ol>
                        </nav>
                     </div>

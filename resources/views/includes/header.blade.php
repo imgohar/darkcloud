@@ -5,8 +5,9 @@
         <div class="row">
             <div class="col-sm-12">
                 <nav class="navbar navbar-expand-lg navbar-light">
-                    <a class="navbar-brand" href="index.html">
-                        <img class="img-fluid" src="images/logo.png" alt="img">
+                    <a class="navbar-brand text-light" href="/">
+                        {{-- <img class="img-fluid" src="{{URL::asset("images/darkcloud.io.png")}}" width="120px" height="59px" alt="img"> --}}
+                        DarkCloud.io
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="menu-btn d-inline-block" id="menu-btn">
@@ -37,10 +38,22 @@
                                     <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">FAQ</a>
                                 </div>
                             </li>
-                            <li class="nav-item {{Request::is('public-cloud-pricing')? 'active' : ''}} dropdown">
-                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pricing</a>
+                            <li class="nav-item {{Request::is('public-cloud-pricing')||Request::is('public-cloud-compute')||Request::is('public-cloud-storage')||Request::is('public-cloud-network')||Request::is('public-cloud-data-analytics')||Request::is('public-cloud-data-ai-machine-learning')? 'active' : ''}} dropdown">
+                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Public Cloud</a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown-3">
-                                    <a class="dropdown-item {{Request::is('public-cloud-pricing')? 'active' : ''}}" href="/public-cloud-pricing">Public Cloud</a>
+                                    <a class="dropdown-item {{Request::is('public-cloud-compute') ? 'active' : ''}}" href="/public-cloud-compute">Compute</a>
+                                    
+                                    <a class="dropdown-item {{Request::is('public-cloud-storage')? 'active' : ''}}" href="/public-cloud-storage">Storage</a>
+
+                                    <a class="dropdown-item {{Request::is('public-cloud-network')? 'active' : ''}}" href="/public-cloud-network">Network</a>
+
+                                    <a class="dropdown-item {{Request::is('public-cloud-orchestration')? 'active' : ''}}" href="/public-cloud-orchestration">Containers & Orchestration</a>
+
+                                    <a class="dropdown-item {{Request::is('public-cloud-data-analytics')? 'active' : ''}}" href="/public-cloud-data-analytics">Data Analytics</a>
+
+                                    <a class="dropdown-item {{Request::is('public-cloud-ai-machine-learning')? 'active' : ''}}" href="/public-cloud-ai-machine-learning">AI & Machine Learning</a>
+
+                                    <a class="dropdown-item {{Request::is('public-cloud-pricing')? 'active' : ''}}" href="/public-cloud-pricing">Public Cloud Pricing</a>
                                 </div>
                             </li>
                             <li class="nav-item dropdown">

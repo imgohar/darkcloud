@@ -42,11 +42,11 @@
                         <h4 class="footer-title">Menu</h4>
                         <div>
                             <ul class="menu">
-                                <li><a href="index.html" aria-current="page">Home</a></li>
-                                <li><a href="about-us-1.html">About Us</a></li>
-                                <li><a href="service-1.html">Service</a></li>
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="contact-us-1.html">Contact Us</a></li>
+                                <li><a href="/" aria-current="page">Home</a></li>
+                                <li><a href="/about-us">About Us</a></li>
+                                <li><a href="/services">Service</a></li>
+                                {{-- <li><a href="blog.html">Blog</a></li> --}}
+                                <li><a href="/contact-us">Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -56,11 +56,11 @@
                         <h4 class="footer-title ">About Us</h4>
                         <div class="menu-about">
                             <ul id="menu-about-menu" class="menu">
-                                <li><a href="about-us-2.html">About Us</a></li>
-                                <li><a href="service-2.html">Service</a></li>
-                                <li><a href="contact-us-2.html">Contact Us</a></li>
-                                <li><a href="pricing-plan.html">Pricing Plan</a></li>
-                                <li><a href="clients.html">Clients</a></li>
+                                {{-- <li><a href="about-us-2.html">About Us</a></li> --}}
+                                <li><a href="/services">Service</a></li>
+                                <li><a href="/contact-us">Contact Us</a></li>
+                                <li><a href="/pricing">Pricing Plan</a></li>
+                                <li><a href="/clients">Clients</a></li>
                             </ul>
                         </div>
                     </div>
@@ -70,11 +70,11 @@
                         <h4 class="footer-title ">Useful links</h4>
                         <div class="menu-link">
                             <ul id="menu-link-menu" class="menu">
-                                <li> <a href="our-team.html">Our Team</a></li>
-                                <li><a href="pricing-plan.html">Pricing Plan</a></li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="clients.html">Clients</a></li>
-                                <li><a href="contact-us-1.html">Contact Us</a></li>
+                                <li> <a href="/team">Our Team</a></li>
+                                <li><a href="/pricing">Pricing Plan</a></li>
+                                <li><a href="/faq">FAQ</a></li>
+                                <li><a href="/clients">Clients</a></li>
+                                {{-- <li><a href="contact-us-1.html">Contact Us</a></li> --}}
                             </ul>
                         </div>
                     </div>

@@ -68,7 +68,7 @@
                     <p>Deploy cloud instances with fully-guaranteed resources that cover a very wide range of uses</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="250px" src="/images/dark-cloud/guranteed-resources.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <h2>General Purpose</h2>
@@ -264,7 +264,7 @@
                     <p>Deploy cloud instances with fully-guaranteed resources that cover a very wide range of uses</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="250px" src="/images/dark-cloud/sandbox.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -322,7 +322,7 @@
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="250px" src="/images/dark-cloud/block-storage.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -352,7 +352,7 @@
                     <p>Enjoy unlimited on-demand storage, accessible via API</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="250px" src="/images/dark-cloud/object-storage.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">

@@ -7,17 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Dark Cloud- Cloud Computing, Apps & Server</title>
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="{{URL::asset("images/darkcloud-logo-black.png")}}" />
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{URL::asset("css/bootstrap.min.css")}}">
     <!-- REVOLUTION STYLE SHEETS -->
-    <link rel="stylesheet" href="revslider/css/rs6.css">
+    <link rel="stylesheet" href="{{URL::asset("revslider/css/rs6.css")}}">
     <!-- Typography CSS -->
-    <link rel="stylesheet" href="css/typography.css">
+    <link rel="stylesheet" href="{{URL::asset("css/typography.css")}}">
     <!-- Style CSS -->
-    <link rel='stylesheet' href='css/qloud-style.css' />
+    <link rel='stylesheet' href='{{URL::asset("css/qloud-style.css")}}' />
     <!-- Responsive CSS -->
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="{{URL::asset("css/responsive.css")}}">
 </head>
 
 <body>
@@ -25,7 +25,7 @@
     <div id="loading">
         <div id="loading-center">
             <div class="load-img">
-                <img src="images/loader.gif" alt="loader">
+                <img src="{{URL::asset("images/loader.gif")}}" alt="loader">
             </div>
         </div>
     </div>
@@ -49,49 +49,49 @@
     </div>
     <!-- === back-to-top End === -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="js/jquery-3.4.1.js"></script>
+    <script src="{{URL::asset("js/jquery-3.4.1.js")}}"></script>
     <!-- jQuery  for scroll me js -->
-    <script src='js/jquery-min.js'></script>
+    <script src='{{URL::asset("js/jquery-min.js")}}'></script>
     <!-- popper  -->
-    <script src="js/popper.min.js"></script>
+    <script src="{{URL::asset("js/popper.min.js")}}"></script>
     <!--  bootstrap -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="{{URL::asset("js/bootstrap.min.js")}}"></script>
     <!-- Appear JavaScript -->
-    <script src="js/appear.js"></script>
+    <script src="{{URL::asset("js/appear.js")}}"></script>
 
     <!-- Jquery-migrate JavaScript -->
-    <script src='js/jquery-migrate.min.js'></script>
+    <script src='{{URL::asset("js/jquery-migrate.min.js")}}'></script>
     <!-- Scripts JavaScript -->
-    <script src='js/scripts.js'></script>
+    <script src='{{URL::asset("js/scripts.js")}}'></script>
     <!-- countdownTimer JavaScript -->
-    <script src='js/jQuery.countdownTimer.min.js'></script>
+    <script src='{{URL::asset("js/jQuery.countdownTimer.min.js")}}'></script>
     <!-- Tox-progress JavaScript -->
-    <script src='js/tox-progress.min.js'></script>
+    <script src='{{URL::asset("js/tox-progress.min.js")}}'></script>
     <!-- Timeline JavaScript -->
-    <script src='js/timeline.js'></script>
+    <script src='{{URL::asset("js/timeline.js")}}'></script>
     <!-- Timeline min JavaScript -->
-    <script src='js/timeline.min.js'></script>
+    <script src='{{URL::asset("js/timeline.min.js")}}'></script>
     <!-- Slick JavaScript -->
-    <script src='js/slick.min.js'></script>
+    <script src='{{URL::asset("js/slick.min.js")}}'></script>
     <!-- Popper JavaScript -->
-    <script src='js/popper.min.js'></script>
+    <script src='{{URL::asset("js/popper.min.js")}}'></script>
     <!-- Owl.carousel JavaScript -->
-    <script src='js/owl.carousel.min.js'></script>
+    <script src='{{URL::asset("js/owl.carousel.min.js")}}'></script>
     <!-- Countdown JavaScript -->
-    <script src='js/countdown.js'></script>
+    <script src='{{URL::asset("js/countdown.js")}}'></script>
     <!-- Jquery.countTo JavaScript -->
-    <script src='js/jquery.countTo.js'></script>
+    <script src='{{URL::asset("js/jquery.countTo.js")}}'></script>
     <!-- Magnific-popup JavaScript -->
-    <script src='js/jquery.magnific-popup.min.js'></script>
+    <script src='{{URL::asset("js/jquery.magnific-popup.min.js")}}'></script>
     <!-- Isotope.pkgd.min JavaScript -->
-    <script src='js/isotope.pkgd.min.js'></script>
+    <script src='{{URL::asset("js/isotope.pkgd.min.js")}}'></script>
     <!-- Wow JavaScript -->
-    <script src='js/wow.min.js'></script>
+    <script src='{{URL::asset("js/wow.min.js")}}'></script>
     <!--  Custom JavaScript -->
-    <script src="js/custom.js"></script>
+    <script src="{{URL::asset("js/custom.js")}}"></script>
     <!-- REVOLUTION JS FILES -->
-    <script src="revslider/js/revolution.tools.min.js"></script>
-    <script src="revslider/js/rs6.min.js"></script>
+    <script src="{{URL::asset("revslider/js/revolution.tools.min.js")}}"></script>
+    <script src="{{URL::asset("revslider/js/rs6.min.js")}}"></script>
     <script>
         var revapi1,
             tpj;
