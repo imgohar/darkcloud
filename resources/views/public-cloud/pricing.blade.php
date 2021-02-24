@@ -59,7 +59,35 @@
         </div>
     </section>
     <!-- About Us End -->
-    <!-- Counter Start -->
+
+    {{-- SCROLL SPY --}}
+    <style>
+        .scrollspy-example {
+    /* margin-top: 20px; */
+  position: relative;
+  height: 550px;
+  overflow: auto;
+}
+
+    </style>
+    <div>
+        <div class="row">
+            <div class="col-sm-3" id="spy">
+              <ul class="nav p-2 nav-pills flex-column">
+                <li class="nav-item"><a class="nav-link active" href="#scroll1">Compute</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll2">Storage</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll3">Network</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll4">Container And Orchestration</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll5">Data Analytics</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll6">AI & Machine Learning</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll7">Management Interfaces</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll8">Project Management</a></li>
+                <li class="nav-item"><a class="nav-link" href="#scroll9">Price Model</a></li>
+              </ul>
+            </div>
+            <div class="col-sm-9 scrollspy-example" data-spy="scroll" data-target="#spy">
+              <div id="scroll1">
+                <!-- Counter Start -->
     <section class="iq-counter-section pt-0 iq-pb-70">
         <div class="container">
             <div class="row">
@@ -311,7 +339,7 @@
                 
                 </div>
 
-                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                <div id="scroll2" class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <h2>DarkCloud cloud storage</h2>
                     <br><br>
                     
@@ -378,10 +406,816 @@
                 
                 </div>
 
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Cloud Archive
+                    </h2>
+                    <p>Archive your data over the long term in a cloud storage space, accessible via standard protocols.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/06.jpg" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Incoming traffic</td>
+                                <td>$0.011 /GB</td>
+                            </tr>
+                            <tr>
+                                <td>Outgoing traffic</td>
+                                <td>$0.011 /GB</td>
+                            </tr>
+                            <tr>
+                                <td>Secured cold storage</td>
+                                <td>$0.0023 /month/GB</td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                
+                </div>
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Volume Snapshot
+                    </h2>
+                    <p>Trigger a snapshot on your Block Storage volumes</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/07.jpg" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>Storage replicated x3</td>
+                                <td>$0.0112 /month/GB</td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Instance Backup
+                    </h2>
+                    <p>Get a backup service for your instances</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/08.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>Storage replicated x3</td>
+                                <td>$0.0112 /month/GB</td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                
+                </div>
+
+                <div id="scroll3" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Network</h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">Load Balancer
+                    </h2>
+                    <p>Manage variations in activity by distributing traffic across multiple resources</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Network Load Balancer</td>
+                                <td>$12.00 /month</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>   
+                    <p>A Load Balancer corresponds to a single front-end. A front-end distributes traffic to a group of nodes, and is attached to a single IP address.
+                        To use the service, it must be linked to a customer's Public Cloud project, along with a Managed Kubernetes Service cluster. Please note that this solution should only be used with a Managed Kubernetes Service cluster. Other use cases are not currently supported.</p> 
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Private Network
+                        
+                    </h2>
+                    <p>Deploy private networks, supported by the OVHcloud vRack, to connect your instances across the globe</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/08.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>Incoming traffic</td>
+                                <td>Included</td>
+                            </tr>
+                            <tr>
+                                <td>Outgoing traffic</td>
+                                <td>Included</td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                    <p>Private networks are free to create and use.</p>
+                
+                </div>
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Anti-DDoS
+                    </h2>
+                    <p>Enjoy permanent protection across all your cloud resources, to ensure an optimal level of service</p>
+                    <p>Standard DDoS protection is included in all Public Cloud products.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+
+
+                
+                </div>
+                <br><br>
+
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Instance Public Traffic
+                        
+                    </h2>
+                    <p>Outbound public network traffic is included in the price of instances on all locations, except the Asia-Pacific region (Singapore and Sydney). In both regions, 1 TB/month of outbound public traffic is included for each Public Cloud project. Beyond this quota, each additional GB of traffic is charged. Inbound network traffic from the public network is included in all cases and in all regions.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>Incoming traffic</td>
+                                <td>Included</td>
+                            </tr>
+                            <tr>
+                                <td>Outgoing traffic</td>
+                                <td>Included</td>
+                            </tr>
+                        </tbody>
+                    </table>    
+                    
+                
+                </div>
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Floating IP
+                    </h2>
+                    <p>Assign and move your public IP from one instance to another</p>
+                    <p>IP Floating is free during the beta period. Currently, only the Gravelines and Strasbourg locations are available.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Virtual Router
+                    </h2>
+                    <p>Route private networks to each other and/or to the Internet</p>
+                    <p>Virtual Routers are free during the beta period. Currently, only the Gravelines and Strasbourg locations are available.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                
+                </div>
+
+
+                <div id="scroll4" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Orchestration and industrialisation</h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">Managed Kubernetes Service
+                    </h2>
+                    <p>Orchestrate your containerised applications with a CNCF-certified Kubernetes cluster</p>
+                    <p>The Managed Kubernetes® service is free.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Master nodes</td>
+                                <td>Included</td>
+                            </tr>
+                            <tr>
+                                <td>Worker nodes</td>
+                                <td>Depending on the model (excluding Sandbox and GPU instances), see Compute.</td>
+                            </tr>
+                            <tr>
+                                <td>Volumes</td>
+                                <td>Depending on the model, see Storage.</td>
+                            </tr>
+                            <tr>
+                                <td>Load Balancer</td>
+                                <td>See Network</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>   
+                    
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Managed Private Registry
+                        
+                    </h2>
+                    <p>Manage a repository for your software building blocks, in the form of Docker images or Helm charts</p>
+                    <p>You can migrate from your current plan to a higher level plan at any time. The new limits become effective within a few tens of seconds, with no loss of data and no changes to the configuration required. If you create, modify or remove a service part way through the month, you will be billed only for the actual hours used in your plan. Traffic is unlimited, no matter what its destination.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Storage</th>
+                            <th>Public Network</th>
+                            <th>Concurrent connections</th>
+                            <th>Vulnerability scanning</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>S</td>
+                                <td>200 GB</td>
+                                <td>Included</td>
+                                <td>15 connections (3x5)*</td>
+                                <td>No</td>
+                                <td>$18.24 /month</td>
+                            </tr>
+                            <tr>
+                                <td>M</td>
+                                <td>	600 GB</td>
+                                <td>Included</td>
+                                <td>45 connections (9x5)*</td>
+                                <td>Yes</td>
+                                <td>$45.60 /month</td>
+                            </tr>
+                            <tr>
+                                <td>L</td>
+                                <td>5 TB</td>
+                                <td>Included</td>
+                                <td>	90 connections (18x5)*</td>
+                                <td>Yes</td>
+                                <td>	$216.60 /month</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>    
+                    <p>*Most client software is configured to use five simultaneous http connections when accessing a registry.
+
+                        Each plan includes a guaranteed level of service, as specified in our public cloud general terms and conditions.</p>
+                
+                </div>
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Private Image Catalog
+                    </h2>
+                    <p>Maintain and store personalised images of your virtual servers within your private catalog.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/03.png" alt="Guranteed Resources">
+
+
+                
+                </div>
+
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Storage replicated x3</td>
+                                <td>$0.0112 /month/GB</td>
+                            </tr>
+                        </tbody>
+                    </table>   
+                    
+                
+                </div>
+
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Public Image Catalog
+                        
+                    </h2>
+                    <p>Get dozens of cloud images, provided and managed by OVHcloud, ranging from simple system images to pre-installed applications</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
+                </div>
+                
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Workflow Management
+                    </h2>
+                    <p>Automate your tasks to operate cloud resources based on your business logic, and adapt them to suit any situation</p>
+                    <p>Workflows and executions are free. Only the cloud resources generated (instances, volumes, etc.) are billed at their standard pricing.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+OpenStack Orchestration
+                    </h2>
+                    <p>Model and deploy your infrastructure in code form to accelerate your deployments and other pre-established scenarios</p>
+                    
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                
+                </div>
+
+
+
+
+                <div id="scroll5" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Data Analytics
+                    </h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">
+                        Big Data Cluster
+                    </h2>
+                    <p>Deploy your fully-secure Hadoop big data cluster in under an hour</p>
+                    <p>The Big Data Cluster solution is based on the use of instances (see "Compute" section) and volumes (see "Storage" section). The same billing methods are then set up according to the instances you choose: the model, and hourly or monthly billing method.
+
+                        Additional instance fees are added for service management. You can estimate your invoice very easily via the OVHcloud Control Panel, before launching a Big Data Cluster.
+                        
+                        Currently, only the Gravelines regions is available.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Instances</td>
+                                <td>Price of instances in the “Compute" section + 20%.</td>
+                            </tr>
+                            <tr>
+                                <td>Volumes</td>
+                                <td>Price of Block Storage in the "Storage" section.</td>
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>   
+                    
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        Data Processing
+                        
+                    </h2>
+                    <p>Launch your Apache Spark processing quickly and easily</p>
+                    <p>Data Processing uses nodes — an orchestrator node (driver), which manages processing tasks, and worker nodes (executors). 
+                        Each of these nodes is made up of processors and memory, which are billed per minute. This means that the driver and executors are billed for the duration of your processing task. 
+                        You can estimate your billing easily via the OVHcloud Control Panel, before you begin a Data Processing task.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Node Resources</th>
+                            
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>Memory (RAM)</td>
+                                <td>$13.54 /month/GB</td>
+                             
+                            </tr>
+                            <tr>
+                                <td>Processor (vCore)</td>
+                                <td>$50.13 /month/vCore</td>
+                               
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>    
+                    <p>For simplification purposes, the price displayed is per hour. However, the billing granularity is per minute. 
+                        Please note that Data Processing is based on data stored by the Object Storage service. This information is billed for the storage duration and the associated traffic, as explained in the ‘Storage’ section.</p>
+                
+                </div>
+
+
+                <div id="scroll6" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>AI & Machine Learning
+                    </h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">
+                        
+OVHcloud AI Training
+                    </h2>
+                    <p>Train your AI, machine learning and deep learning models efficiently and easily, and optimise your GPU usage.</p>
+                    <p>For each training task you launch, you pay per minute for the computing resources used, depending on their lifespan and power.
+
+                        AI Training is based on a Docker image, so you may need to containerise your training process. A catalogue of public images is available for Jupyter Notebook, TensorFlow, MXNet, PyTorch, FastAI and much more. These images do not require any specialised containerisation skills.
+                        
+                        You can manage your data directly via the OVHcloud Control Panel, or via the command line (object storage).
+
+                        </p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Node</th>
+                            <th>Memory</th>
+                            <th>	vCore</th>
+                            <th>		GPU</th>
+                            <th>	Public network</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>ai1-standard</td>
+                                <td>	45 GB</td>
+                                <td>14</td>
+                                <td>	V100S 32 GB 16.4 TFLOPS</td>
+                                <td>6 Gbps max.</td>
+                                <td>$1.9653 /hour</td>
+                            </tr>
+                           
+                            
+                            
+                        </tbody>
+                    </table>   
+                    <p>For simplification purposes, the price displayed is per hour. However, the billing granularity is per minute.
+                        <p>
+                        The pricing includes computing power, excluding:
+
+                        </p>
+                        <ul>
+                            <li>container registry costs to host container images deployed on your cluster (this service is billed as described in the “Container and Orchestration” section)</li>
+                            <li>data storage costs</li>
+                        </ul>
+                        
+                        </p>
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        ML Serving
+                        
+                    </h2>
+                    <p>Deploy machine learning models easily, and get quick results</p>
+                    <p>ML Serving deploys a model on a cluster, which then boots computing nodes. Each deployment is defined by a minimum and maximum number of nodes, which you choose. The cluster adapts automatically to the load, and follows your specifications. For each node you launch, you are billed per minute for its lifespan and power. To deploy a model into production, you can get an estimation of the pricing in the OVHcloud Control Panel.</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Node</th>
+                            <th>Memory</th>
+                            <th>vCore</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                           
+                            <tr>
+                                <td>ml1-1-standard</td>
+                                <td>1 GB</td>
+                                <td>1</td>
+                                <td>$8.98 /month</td>
+                             
+                            </tr>
+                            <tr>
+                                <td>ml1-2-standard</td>
+                                <td>	2 GB</td>
+                                <td>1</td>
+                                <td>$14.60 /month</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>ml1-4-standard</td>
+                                <td>	4 GB</td>
+                                <td>2</td>
+                                <td>$28.07 /month</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>ml1-8-standardtd>
+                                <td>	8 GB</td>
+                                <td>4</td>
+                                <td>$52.78 /month</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>ml1-16-standard</td>
+                                <td>	16 GB</td>
+                                <td>8</td>
+                                <td>$101.07 /month</td>
+                               
+                            </tr>
+                            <tr>
+                                <td>ml1-32-standard</td>
+                                <td>	32 GB</td>
+                                <td>8</td>
+                                <td>$168.45 /month</td>
+                               
+                            </tr>
+                            
+                            
+                        </tbody>
+                    </table>    
+                    <p>For simplification purposes, the price displayed is per hour. However, the billing granularity is per minute. Please note that ML Serving is based on data stored by the Object Storage service. This information is billed for the storage duration and the associated traffic, as explained in the ‘Storage’ section. For custom models, ML Serving is also supported by Private Registry to host images of containers deployed on your cluster. This service is billed in accordance with the conditions listed in the “Containers & Orchestration” section.</p>
+                
+                </div>
+
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+NVIDIA NGC Platform
+                    </h2>
+                    <p>Launch applications that leverage the power of NVIDIA GPUs, in a few clicks</p>
+                    <p>The NGC platform is free, you only pay for the GPU instances.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                <div id="scroll7" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Management interfaces
+                    </h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">
+                        
+
+                        Horizon
+                    </h2>
+                    <p>Use the original OpenStack web interface to effortlessly manage your cloud resources</p>
+                    <p>Access to the OpenStack Horizon management console is free.
+
+                        </p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                </div>
+                
+                
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        Physical remote control
+                    </h2>
+                    <p>Use KVM consoles to connect directly to your cloud servers</p>
+                    <p>Access to the KVM console for instances is free.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        OpenStack API
+                    </h2>
+                    <p>Utilise the standard OpenStack API, which is fully compatible with a wide range of tools on the market</p>
+                    <p>API queries are not invoiced. You will only be billed for the resources used.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                
+                
+
+                <div id="scroll8" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Project Management
+                    </h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">
+                        
+
+                        
+User and Role Management
+                    </h2>
+                    <p>Manage your access and users to manage your cloud resources</p>
+                    <p>User creation is free and unlimited.
+
+                        </p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                </div>
+                
+                
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        Quota and Region Management
+                    </h2>
+                    <p>Manage your quotas and the regions accessible from your project</p>
+                    <p>Activation of new regions or increase of quota are free.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        Billing Control
+                    </h2>
+                    <p>Estimate your consumption and create alerts to secure your budget</p>
+                    <p>Generating threshold alerts for your billing is free.</p>
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div>
+
+                
+            
+                <div id="scroll9" class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <h2>Pricing model
+
+                    </h2>
+                    <br><br>
+                    
+
+                    <h2 class="mt-5">
+                        
+
+                        
+                        Pay-as-you-go
+                    </h2>
+                    <p>All of our Public Cloud solutions are billed based on actual usage, which means you only pay for what you use. You launch the resources you need, when you need them, with no hidden costs. At the end of the month, we calculate your final bill, based on the resources you have used over that period, and deliver it as a single, clear invoice.</p>
+                    
+                </div>
+                <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <br><br><br><br>
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                </div>
+                
+                
+
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        Contract duration
+                    </h2>
+                    <p>On-demand resources are non-binding. You can remove a resource at any time, after which you will not be billed for it.
+                        Likewise, instances with monthly billing can be stopped at any time, and only the months you use are billed (calculated on the basis of an instance existing on the 1st day of the month, at 00:00).</p>
+                    
+                </div>
+                {{-- <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div> --}}
+
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        Segmentation by project
+                    </h2>
+                    <p>For simplified administration of your operations, you can compartmentalise your Public Cloud solutions by project.</p>
+                </div>
+                {{-- <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                
+                </div> --}}
+
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    <h2>
+                        
+                        One invoice
+                    </h2>
+                    <p>You will receive only one invoice per project. This is sent at the beginning of each month, based on the previous month’s usage.</p>
+                </div>
+                
+   
+
+                
+
+
+
+
+
+
+
+
+
+
             </div>
         </div>
     </section>
     <!-- Counter End -->
+              </div>
+              <div>
+                
+            </div>
+            </div>
+    </div>
+
     <!-- Counter Start -->
     <section class="main-bg" style="background: url(images/others/06.jpg) no-repeat 0 0; background-attachment: fixed; background-size:cover;">
         <div class="container">

@@ -22,15 +22,21 @@
                             <li class="nav-item dropdown">
                                 <a class="nav-link  {{Request::is('/')? 'active' : ''}}" href="/">Home</a>
                             </li>
-                            <li class="nav-item  {{Request::is('about-us')? 'active' : ''}} dropdown">
-                                <a class="nav-link  {{Request::is('about-us')? 'active' : ''}} " href="/about-us">About Us</a>
-                                {{-- <div class="dropdown-menu" aria-labelledby="navbarDropdown-1">
-                                    <a class="dropdown-item active" href="/about-us">About Us</a>
-                                </div> --}}
-                            </li>
-                            <li class="nav-item {{Request::is('services')||Request::is('team')||Request::is('pricing')||Request::is('clients')||Request::is('faq')? 'active' : ''}} dropdown">
-                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
+                            <li class="nav-item {{Request::is('services')||Request::is('team')||Request::is('pricing')||Request::is('about-us')||Request::is('clients')||Request::is('faq')? 'active' : ''}} dropdown">
+                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-2" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">About Us</a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown-2">
+                                    <a class="dropdown-item {{Request::is('about-us')? 'active' : ''}}" href="/about-us">About Us</a>
+                                    <a class="dropdown-item {{Request::is('services')? 'active' : ''}}" href="/services">Services</a>
+                                    <a class="dropdown-item {{Request::is('team')? 'active' : ''}}" href="/team">Team</a>
+                                    <a class="dropdown-item {{Request::is('pricing')? 'active' : ''}}" href="/pricing">Pricing Plan</a>
+                                    <a class="dropdown-item {{Request::is('clients')? 'active' : ''}}" href="/clients">Clients</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">FAQ</a>
+                                </div>
+                            </li>
+                            <li class="nav-item {{Request::is('services')||Request::is('team')||Request::is('pricing')||Request::is('about-us')||Request::is('clients')||Request::is('faq')? 'active' : ''}} dropdown">
+                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bare Metal Cloud</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown-3">
+                                    <a class="dropdown-item " href="javascript:void(0)" class="dropdown-item {{Request::is('about-us')? 'active' : ''}}" href="/about-us">About Us</a>
                                     <a class="dropdown-item {{Request::is('services')? 'active' : ''}}" href="/services">Services</a>
                                     <a class="dropdown-item {{Request::is('team')? 'active' : ''}}" href="/team">Team</a>
                                     <a class="dropdown-item {{Request::is('pricing')? 'active' : ''}}" href="/pricing">Pricing Plan</a>
@@ -39,8 +45,8 @@
                                 </div>
                             </li>
                             <li class="nav-item {{Request::is('public-cloud-pricing')||Request::is('public-cloud-compute')||Request::is('public-cloud-storage')||Request::is('public-cloud-network')||Request::is('public-cloud-data-analytics')||Request::is('public-cloud-data-ai-machine-learning')? 'active' : ''}} dropdown">
-                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Public Cloud</a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown-3">
+                                <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Public Cloud</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown-4">
                                     <a class="dropdown-item {{Request::is('public-cloud-compute') ? 'active' : ''}}" href="/public-cloud-compute">Compute</a>
                                     
                                     <a class="dropdown-item {{Request::is('public-cloud-storage')? 'active' : ''}}" href="/public-cloud-storage">Storage</a>
@@ -57,8 +63,8 @@
                                 </div>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link  {{Request::is('web-hosting')||Request::is('domain-names')? 'active' : ''}} dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-4" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Web Cloud</a>
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown-4">
+                                <a class="nav-link  {{Request::is('web-hosting')||Request::is('domain-names')? 'active' : ''}} dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-5" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Web Cloud</a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown-5">
                                     <a class="dropdown-item  {{Request::is('domain-names')? 'active' : ''}}" href="/domain-names">Domain Names</a>
                                     <a class="dropdown-item  {{Request::is('web-hosting')? 'active' : ''}}" href="/web-hosting">Web Hosting</a>
                                 </div>

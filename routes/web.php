@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PagesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,25 +14,34 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', [PagesController::class,"home"]);
 
-Route::get("/about-us",function(){
-    return view("about-us");
-});
+Route::get("/about-us",[PagesController::class,"aboutUs"]);
+
+Route::get("/contact-us",[PagesController::class,"contactUs"]);
+
+Route::get("/services",[PagesController::class,"services"]);
+
+Route::get("/team",[PagesController::class,"team"]);
+
+Route::get("/pricing",[PagesController::class,"pricing"]);
+
+Route::get("/clients",[PagesController::class,"clients"]);
+
+Route::get("/faq",[PagesController::class,"faq"]);
+
+
 
 Route::get("/domain-names",function(){
     return view("domain.domain-names");
 });
 
+
 Route::get("/web-hosting",function(){
     return view("web-hosting.web-hosting");
 });
 
-Route::get("/contact-us",function(){
-    return view("contact-us");
-});
+
 
 
 
@@ -61,24 +71,4 @@ Route::get("/public-cloud-data-analytics",function(){
 
 Route::get("/public-cloud-ai-machine-learning",function(){
     return view("public-cloud.ai-machine-learning");
-});
-
-Route::get("/services",function(){
-    return view("services");
-});
-
-Route::get("/team",function(){
-    return view("team");
-});
-
-Route::get("/pricing",function(){
-    return view("pricing");
-});
-
-Route::get("/clients",function(){
-    return view("clients");
-});
-
-Route::get("/faq",function(){
-    return view("faq");
 });
