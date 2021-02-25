@@ -33,12 +33,12 @@
                                     <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">FAQ</a>
                                 </div>
                             </li>
-                            <li class="nav-item {{Request::is('services')||Request::is('team')||Request::is('pricing')||Request::is('about-us')||Request::is('clients')||Request::is('faq')? 'active' : ''}} dropdown">
+                            <li class="nav-item {{Request::is('bare-metal-game')||Request::is('team')||Request::is('pricing')||Request::is('about-us')||Request::is('clients')||Request::is('faq')? 'active' : ''}} dropdown">
                                 <a class="nav-link dropdown-toggle" href="javascript:void(0)" id="navbarDropdown-3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Bare Metal Cloud</a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown-3">
-                                    <a class="dropdown-item " href="javascript:void(0)" class="dropdown-item {{Request::is('about-us')? 'active' : ''}}" href="/about-us">About Us</a>
-                                    <a class="dropdown-item {{Request::is('services')? 'active' : ''}}" href="/services">Services</a>
-                                    <a class="dropdown-item {{Request::is('team')? 'active' : ''}}" href="/team">Team</a>
+                                    <a class="dropdown-item {{Request::is('bare-metal-game')? 'active' : ''}}" href="/bare-metal-game">Dedicated Servers - Game Servers</a>
+                                    <a class="dropdown-item {{Request::is('services')? 'active' : ''}}" href="/services">Dedicated Servers - Rise Servers</a>
+                                    <a class="dropdown-item {{Request::is('team')? 'active' : ''}}" href="/team">Dedicated Servers - Storage Servers</a>
                                     <a class="dropdown-item {{Request::is('pricing')? 'active' : ''}}" href="/pricing">Pricing Plan</a>
                                     <a class="dropdown-item {{Request::is('clients')? 'active' : ''}}" href="/clients">Clients</a>
                                     <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">FAQ</a>

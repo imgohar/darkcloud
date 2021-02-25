@@ -41,7 +41,28 @@ Route::get("/web-hosting",function(){
     return view("web-hosting.web-hosting");
 });
 
+Route::get("/bare-metal-game",function(){
+    return view("bare-metal.game.game");
+});
 
+Route::get("/bare-metal-game-services-included",function(){
+    return view("bare-metal.game.services-included");
+});
+Route::get("/bare-metal-game-options",function(){
+    return view("bare-metal.game.options");
+});
+
+Route::get("/bare-metal-ip",function(){
+    return view("bare-metal.ip.ip");
+});
+
+Route::get("/bare-metal-backup-storage",function(){
+    return view("bare-metal.backup-storage.backup-storage");
+});
+
+Route::get("/anti-ddos",function(){
+    return view("anti-ddos.anti-ddos");
+});
 
 
 
