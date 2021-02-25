@@ -149,6 +149,8 @@
                                 <div class="special-content">
                                     <p class="fancy-box-content">Each server has a public IPv4 address and an IPv6 address range. As an option, you can rent additional IPv4 addresses for your dedicated server (up to 256 per machine).
                                     </p>
+                                    <br>
+                                    <p><a href="/bare-metal-ip">Find Out more</a></p>
                                 </div>
 
                             </div>
@@ -165,6 +167,8 @@
                                 <div class="special-content">
                                     <p class="fancy-box-content"> To guarantee maximum security for your infrastructures, an anti-DDoS system is included with all OVHcloud dedicated servers. It ensures service continuity for your applications, in the event of an attack.
                                     </p>
+                                    <br>
+                                    <p><a href="/anti-ddos">Find Out more</a></p>
                                 </div>
 
                                 
@@ -183,6 +187,8 @@
                                 <div class="special-content">
                                     <p class="fancy-box-content">All of the servers in this range have a 99.90% SLA, ensuring the best availability for your business applications.
                                     </p>
+                                    <br>
+                                    
                                 </div>
 
                                
@@ -201,6 +207,7 @@
                                 <div class="special-content">
                                     <p class="fancy-box-content">Each dedicated server comes with a 500GB storage space, dedicated to backups. This space is completely separate from the server, and is designed for you to store your data and configuration files. The storage capacity can be increased, if needed.
                                     </p>
+                                    <p><a href="/bare-metal-backup-storage">Find Out more</a></p>
                                 </div>
 
                                
@@ -319,7 +326,7 @@
                             
                             <div class="iq-portfolio">
 
-                                <a href="javascript:void(0)" class="iq-portfolio-img">
+                                <a href="/bare-metal-ip" class="iq-portfolio-img">
                                     <img src="images/portfolio/01.png" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
@@ -331,7 +338,7 @@
                                 <div class="iq-portfolio-content">
                                     <div class="details-box clearfix">
                                         <div class="consult-details">
-                                            <a href="portfolio-details.html">
+                                            <a href="/bare-metal-ip">
                                                 <h5 class="link-color">
                                        Floating IP Address           </h5>
                                                 <p class="mb-0 iq-portfolio-desc">Manage Your Service Availablity</p>
@@ -344,7 +351,7 @@
                         <div class="iq-masonry-item creative design">
                             <div class="iq-portfolio">
 
-                                <a href="javascript:void(0)" class="iq-portfolio-img">
+                                <a href="/bare-metal-backup-storage" class="iq-portfolio-img">
                                     <img src="images/portfolio/02.png" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
@@ -356,7 +363,7 @@
                                 <div class="iq-portfolio-content">
                                     <div class="details-box clearfix">
                                         <div class="consult-details">
-                                            <a href="portfolio-details.html">
+                                            <a href="/bare-metal-backup-storage">
                                                 <h5 class="link-color">
                                        Additional Backup Space            </h5>
                                                 <p class="mb-0 iq-portfolio-desc">Store upto 10 TB of data</p>
