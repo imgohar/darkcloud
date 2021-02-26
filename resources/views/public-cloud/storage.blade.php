@@ -73,7 +73,7 @@
                                 <img src="images/icon-box/01.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a>Block Storaget</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/block-storage">Block Storage</a>
           </h5>
                                 <p class="icon-box-desc"> Create storage volumes, which can be used as additional disks and secured </p>
                             </div>
@@ -85,7 +85,7 @@
                                 <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Object Storage</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/object-storage">Object Storage</a>
           </h5>
                                 <p class="icon-box-desc"> Get unlimited on-demand storage, accessible via API and S3-compatible </p>
                             </div>
@@ -96,7 +96,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/03.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Cloud Archive</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/cloud-archive">Cloud Archive</a>
           </h5>
                                 <p class="icon-box-desc"> Archive your data over the long term in a cloud storage space, accessible via standard protocols. </p>
                             </div>
@@ -107,7 +107,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/04.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Volume Snapshot</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/volume-snapshot">Volume Snapshot</a>
           </h5>
                                 <p class="icon-box-desc"> Trigger a snapshot on your Block Storage volumes</p>
                             </div>
@@ -118,7 +118,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/05.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Instance Backup</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/instance-backup">Instance Backup</a>
           </h5>
     
                                 <p class="icon-box-desc"> Get a backup service for your instances</p>

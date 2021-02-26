@@ -42,7 +42,7 @@
            </div>
            <div class="col-lg-6 col-md-6">
             <form>
-                <div class="form-row">
+                <div class="form-row mt-5">
                     
                     <div class="col-lg-4">
                         <label for="n-1"><input type="radio" style="width:15px" id="n-1" class="form-control" name="month"> <span class="d-inline-block mt-2" style="font-size: 18px">Without commitment</span> </label>
@@ -75,6 +75,25 @@
                                     <option value="">Change Datacenter</option>
                                 </select>
                             </div>
+
+                            <div class="col-lg-12">
+                                <strong>Processor:</strong>
+                                <p>AMD Ryzen 5 3600X - 6c/ 12t - 3.8GHz/ 4.4GHz</p>
+                            </div>
+                            <div class="col-lg-12">
+                                <strong>Memory:</strong>
+                               
+                                    <div class="col-lg-12">
+                                        <label for="n-4"><input id="n-4" type="radio" style="width:15px" class="form-control" name="month"> <span class="d-inline-block ml-1 mt-2" style="font-size: 18px">32 GB DDR4 ECC 2666MHz
+                                        </span> </label>
+                                        <span class="d-inline-block ">0</span>
+                                    </div>
+                                    
+                              
+                            </div>
+
+
+
                         </div>
                         
 

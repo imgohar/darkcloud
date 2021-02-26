@@ -416,7 +416,7 @@
                         </div>
                         <div class="iq-btn-container">
     
-                            <a class="iq-button iq-btn-round iq-btn-outline d-inline" href="about-us-2.html">  
+                            <a class="iq-button iq-btn-round iq-btn-outline d-inline" href="/dedicated-servers/guide">  
     
              Get Started
     

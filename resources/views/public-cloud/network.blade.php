@@ -69,7 +69,7 @@
                             <img src="images/icon-box/01.png" class="img-fluid" alt="QLOUD">
                         </div>
                         <div class="icon-box-content">
-                            <h5 class="icon-box-title"> <a>Load Balancer</a>
+                            <h5 class="icon-box-title"> <a href="/public-cloud/load-balancer">Load Balancer</a>
       </h5>
                             <p class="icon-box-desc"> Manage variations in activity by distributing traffic across multiple resources</p>
                         </div>
@@ -81,7 +81,7 @@
                             <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
                         </div>
                         <div class="icon-box-content">
-                            <h5 class="icon-box-title"> <a href="javascript:void(0)">Private Network</a>
+                            <h5 class="icon-box-title"> <a href="/public-cloud/private-network">Private Network</a>
       </h5>
                             <p class="icon-box-desc">Deploy private networks, supported by DarkCloud vRack, to connect your instances across the globe </p>
                         </div>
@@ -126,6 +126,23 @@
         </div>
     </section>
     <!-- Icon-box End -->
+
+
+    <section>
+        <div class="container">
+            <h2>How to</h2>
+            <br>
+            <p>Create a private network</p>
+            <code class="bg-dark d-block p-3 text-white rounded">openstack network create net01</code>
+            <br>
+            <p>Activate the DHCP</p>
+            <code class="bg-dark d-block p-3 text-white rounded">openstack subnet create --dhcp --network net01 10.0.0.0/8</code>
+            <br>
+            
+            
+        </div>
+    </section>
+
 
 
     <!-- Icon-box Start -->

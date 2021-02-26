@@ -83,7 +83,7 @@
                                 <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">GPU</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/gpu">GPU</a>
           </h5>
                                 <p class="icon-box-desc"> Get our most powerful public cloud instances, up to 1,000 times faster than a CPU for parallel processing</p>
                             </div>
@@ -94,7 +94,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/03.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">IOPS </a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/iops">IOPS </a>
           </h5>
                                 <p class="icon-box-desc"> Get ultra-fast IOPS, with NVMe drives specially designed for databases and big data applications </p>
                             </div>
@@ -105,7 +105,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/04.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Sand Box</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/sandbox">Sand Box</a>
           </h5>
                                 <p class="icon-box-desc"> Access small instances at a low cost with shared resources, perfect for test and development environments</p>
                             </div>

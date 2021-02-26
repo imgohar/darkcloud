@@ -123,6 +123,50 @@ Route::get("/public-cloud/guranteed-resources",function(){
     return view("public-cloud.guranteed-resources");
 });
 
+
+Route::get("/public-cloud/gpu",function(){
+    return view("public-cloud.gpu");
+});
+
+Route::get("/public-cloud/iops",function(){
+    return view("public-cloud.iops");
+});
+
+Route::get("/public-cloud/block-storage",function(){
+    return view("public-cloud.block-storage");
+});
+
+Route::get("/public-cloud/object-storage",function(){
+    return view("public-cloud.object-storage");
+});
+
+Route::get("/public-cloud/cloud-archive",function(){
+    return view("public-cloud.cloud-archive");
+});
+
+Route::get("/public-cloud/volume-snapshot",function(){
+    return view("public-cloud.volume-snapshot");
+});
+
+Route::get("/public-cloud/instance-backup",function(){
+    return view("public-cloud.instance-backup");
+});
+
+Route::get("/public-cloud/load-balancer",function(){
+    return view("public-cloud.load-balancer");
+});
+
+Route::get("/public-cloud/private-network",function(){
+    return view("public-cloud.private-network");
+});
+
+
+
+
+Route::get("/public-cloud/sandbox",function(){
+    return view("public-cloud.sandbox");
+});
+
 Route::get("/public-cloud-storage",function(){
     return view("public-cloud.storage");
 });
@@ -144,10 +188,13 @@ Route::get("/public-cloud-ai-machine-learning",function(){
 });
 
 
+// public-cloud/ai-training
+
+
 
 
 // ROUTES FOR GUIDES
 
-Route::get("/dedicated-servers-guide",function(){
+Route::get("/dedicated-servers/guide",function(){
     return view("guides.dedicated-servers.dedicated");
 });
