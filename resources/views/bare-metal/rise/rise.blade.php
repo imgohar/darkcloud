@@ -12,10 +12,10 @@
                         <div class="col-sm-12">
                             <nav aria-label="breadcrumb" class="text-center iq-breadcrumb-two">
                                 <h2 class="title">
-                           Game Dedicated Servers                       </h2>
+                           Rise Dedicated Servers                       </h2>
                                 <ol class="breadcrumb main-bg">
                                     <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Bare Metal Cloud</a></li>
-                                    <li class="breadcrumb-item active"> Dedicated Servers - Game Servers</li>
+                                    <li class="breadcrumb-item active"> Dedicated Servers - Rise Servers</li>
                                 </ol>
                             </nav>
                         </div>
@@ -28,32 +28,34 @@
 
      <!-- About Us Start -->
      <section>
-        <img src="images/others/shape1.png" class="img-fluid shape-right" alt="QLOUD">
+        <img src="{{URL::asset('images/others/shape1.png')}}" class="img-fluid shape-right" alt="QLOUD">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-sm-12 mb-lg-0 mb-5">
-                    <img src="images/others/04.png" class="img-fluid" alt="qloud">
+                    <img src="{{URL::asset('images/others/04.png')}}" class="img-fluid" alt="qloud">
                 </div>
                 <div class="col-lg-6 col-sm-12 ">
                     <div class="iq-title-box iq-title-default iq-title-box-2">
                         <div class="iq-title-icon">
                         </div>
-                        <span class="iq-subtitle">Game Servers</span>
-                        <h2 class="iq-title">The best performance for online gaming</h2>
-                        <p class="iq-title-desc">The Game dedicated server range emphasises performance for both video game designers and companies who host streaming platforms.
+                        <span class="iq-subtitle">Rise Servers</span>
+                        <h2 class="iq-title">Get started with your first server</h2>
+                        <p class="iq-title-desc">Dedicated servers in the Rise range are the most affordable bare-metal servers offered by DarkCloud, and are based on a groundbreaking Intel® platform. Intel® Xeon® processors seamlessly combine affordable prices with high performance for servers. They are suited to a wide variety of uses for standalone servers, with a simple range of optimised configurations.
                         </p>
                         <p>
-                            Based on a third-generation AMD Ryzen platform, our servers are designed to offer users a lag-free gaming experience. Gamers can play their favourite online games without any limits in terms of performance and stability. Our anti-DDoS protection system is optimised to adapt to the very latest video games.
+                            They are also perfect for hosting websites, streaming platforms and business activity, and offer 500Mbit/s of bandwidth, which is well-suited to the standard uses for this server type.
                         </p>
                         <p> 
                             AMD Ryzen processors, based on ZEN 2 architecture, offer the best performance on the market. They are specially designed to manage parallel tasks, image and video processing, and online multi-player game hosting.
 
-                            Our cloud storage solutions offer outstanding performance, security and data security, making them perfect for professional cloud storage. And to ensure that you keep full control over your data, DarkCloud guarantees reversibility — you can retrieve it at any time, without any hassle.</p>
+                            Our anti-DDoS protection is included by default on all DarkCloud servers, giving you optimal protection. These servers will give you the best quality/price ratio, and fully-dedicated resources. The Rise range is available in several regions worldwide, so we can be closest to where you do business. This optimises latency (loading speed) for your end-users as a result.
+
+</p>
 
                             <a class="btn btn-primary" href="/bare-metal/game/price">View Prices</a>
                             <br> <br>
                             <a href="/bare-metal-game-services-included" class="btn btn-outline-primary">Included with your server</a>
-                            <a href="/bare-metal-game-options" class="btn btn-outline-primary">Optional With game server</a>
+                            <a href="/bare-metal-game-options" class="btn btn-outline-primary">Optional With rise server</a>
                     </div>
                     
                     </div>
@@ -73,7 +75,7 @@
                             <div class="iq-title-icon">
                             </div>
                             <span class="iq-subtitle">Advantages</span>
-                            <h2 class="iq-title">The advantages of a Game server</h2>
+                            <h2 class="iq-title">The advantages of a Rise server</h2>
                         </div>
                     </div>
                 </div>
@@ -81,37 +83,41 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="iq-icon-box iq-icon-box-style-1">
                             <div class="icon-box-img">
-                                <img src="images/icon-box/01.png" class="img-fluid" alt="QLOUD">
+                                <img src="{{URL::asset('images/icon-box/01.png')}}" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a>Anti-DDoS Game</a>
+                                <h5 class="icon-box-title"> <a>A solution with no extra costs</a>
           </h5>
-                                <p class="icon-box-desc"> The Anti-DDoS Game solution, included with all of our Game dedicated servers, is the most efficient and robust on the market. Its purpose is to avoid any downtime for your services. Unlike standard solutions, it is adapted to UDP traffic (used for video, audio and video games), with ingress and egress traffic reviewed. Game-specific profiles can also be applied, to further optimise the protection. In the event of a distributed denial of service (DDoS) attack, players will not notice a thing. </p>
+                                <p class="icon-box-desc">All OVH dedicated servers offer a number of services included by default for professional usage, such as bandwidth for an unlimited volume of data, anti-DDoS protection and 24/7 technical support at no extra cost.
+
+                                </p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="iq-icon-box iq-icon-box-style-1">
                             <div class="icon-box-img">
-                                <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
+                                <img src="{{URL::asset('images/icon-box/02.png')}}" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">The ultimate gaming experience
+                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Simplified administration
                                 </a>
           </h5>
-                                <p class="icon-box-desc"> Our Game servers have up to 1Gbit/s bandwidth, to process traffic without compromising service availability. With datacentres based across the globe, you can rent servers closest to where your gamers are based, for the lowest latency possible. It is a perfect solution for professional resellers and publishers, with optimal performance at an affordable price.</p>
+                                <p class="icon-box-desc"> Choose from more than 30 pre-installed operating systems via the OVH Control Panel. In just a few clicks, your server is set up with your choice of operating system.
+
+                                    With management interfaces such as Plesk and cPanel, you can simplify deployment and administration for a website, email server or database.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="iq-icon-box iq-icon-box-style-1">
                             <div class="icon-box-img">
-                                <img src="images/icon-box/03.png" class="img-fluid" alt="QLOUD"> </div>
+                                <img src="{{URL::asset('images/icon-box/03.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Raw power for gaming
+                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Backup storage space
                                 </a>
           </h5>
-                                <p class="icon-box-desc">The latest generation of AMD Ryzen processors, based on ZEN 2 architecture, offers significant architectural changes that are reflected through optimal performance. At DarkCloud, you can harness the full power of these processors, with water-cooling to ensure constant optimal performance. And with this 3rd generation of Ryzen processors, you get up to 30% higher performance compared to previous generations. </p>
+                                <p class="icon-box-desc">Backups are critical for keeping your business up and running under all circumstances. Rise servers include 500GB external storage space, which is designed to store backups of your data and configuration files. This backup space is secure, free, and can be shared between your servers. </p>
                             </div>
                         </div>
                     </div>
@@ -130,7 +136,7 @@
                               </div>
                   
                   <h2 class="iq-title text-capitalize">
-                    View prices for the Game dedicated server range   </h2>
+                    View prices for the Rise dedicated server range  </h2>
                         </div>
                </div>
             </div>
@@ -163,7 +169,7 @@
                     <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
                         <div class="iq-fancy-box-content">
                             <div class="iq-img-area">
-                                <img src="images/fancy-list/01.png" class="img-fluid" alt="QLOUD"> </div>
+                                <img src="{{URL::asset('images/fancy-list/01.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> IPv4 and IPv6 addresses</h4>
                                 <div class="special-content">
@@ -181,7 +187,7 @@
                     <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
                         <div class="iq-fancy-box-content">
                             <div class="iq-img-area">
-                                <img src="images/fancy-list/02.png" class="img-fluid" alt="QLOUD"> </div>
+                                <img src="{{URL::asset('images/fancy-list/02.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Anti-DDoS protection</h4>
                                 <div class="special-content">
@@ -201,7 +207,7 @@
                     <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
                         <div class="iq-fancy-box-content">
                             <div class="iq-img-area">
-                                <img src="images/fancy-list/03.png" class="img-fluid" alt="QLOUD"> </div>
+                                <img src="{{URL::asset('images/fancy-list/03.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Service Level Agreement — 99.90%</h4>
                                 <div class="special-content">
@@ -221,7 +227,7 @@
                     <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
                         <div class="iq-fancy-box-content">
                             <div class="iq-img-area">
-                                <img src="images/fancy-list/04.png" class="img-fluid" alt="QLOUD"> </div>
+                                <img src="{{URL::asset('images/fancy-list/04.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> 500GB of backup space</h4>
                                 <div class="special-content">
@@ -275,9 +281,9 @@
                         <div class="iq-fancy-box-content">
                             
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title"> Resellers</h4>
+                                <h4 class="iq-fancy-title"> Hosting websites, blogs and forums</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Offer your users the very best gaming experience, and efficient protection against DDoS attacks. Achieve economies of scale by hosting your gaming servers at the best price. Get peace of mind with DarkCloud.
+                                    <p class="fancy-box-content"> Host a website, blog or forum on a Rise dedicated server for low latency and a high load capacity.
                                     </p>
                                 </div>
 
@@ -292,9 +298,9 @@
                         <div class="iq-fancy-box-content">
                             
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title"> Publishers</h4>
+                                <h4 class="iq-fancy-title"> File and multimedia servers</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Delegate hosting to a specialist, and focus on your work. Whether you are looking to host gaming server clusters, cloud gaming, or anything else, DarkCloud solutions can be adapted to suit your needs.
+                                    <p class="fancy-box-content"> Share your files, photos and videos internally with your employees, or externally with your customers.
                                     </p>
                                 </div>
 
@@ -309,9 +315,9 @@
                         <div class="iq-fancy-box-content">
                             
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title"> Gamers</h4>
+                                <h4 class="iq-fancy-title"> Business applications</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Get specially designed gaming servers, with the best performance/price ratio on the market, and Anti-DDoS Game included at no extra cost. There are no limits to following your passion.
+                                    <p class="fancy-box-content"> In just a few minutes, you can deploy a business application on a server with dedicated resources, for reliable and consistent performance.
                                     </p>
                                 </div>
 
@@ -333,13 +339,35 @@
             <div class="row">
                 <div class="iq-masonry-block w-100 ">
                     <div class="isotope-filters isotope-tooltip">
-                        <h2>Optional with Game servers</h2> <br>
+                        <h2>Optional with Rise servers</h2> <br>
                         <a href="/bare-metal-game-options" class="btn btn-outline-primary">Explore your options</a>
                     </div>
-                    <div class="iq-masonry iq-columns-4">
+                    <div class="iq-masonry iq-columns-3">
                         {{-- LEFT BLACK FOR ALIGNMENT --}}
                         <div class="iq-masonry-item creative design print-branding">
+                            <div class="iq-portfolio">
 
+                                <a href="/bare-metal-ip" class="iq-portfolio-img">
+                                    <img src="{{URL::asset('images/portfolio/01.png')}}" class="img-fluid" alt="qloud-portfolio" />
+                                    <div class="portfolio-link">
+                                        <div class="icon">
+                                            <i class="fa fa-link" aria-hidden="true"></i>
+                                        </div>
+                                    </div>
+                                </a>
+
+                                <div class="iq-portfolio-content">
+                                    <div class="details-box clearfix">
+                                        <div class="consult-details">
+                                            <a href="/bare-metal-ip">
+                                                <h5 class="link-color">
+                                       Floating IP Address           </h5>
+                                                <p class="mb-0 iq-portfolio-desc">Manage Your Service Availablity</p>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="iq-masonry-item creative design print-branding">
@@ -347,7 +375,7 @@
                             <div class="iq-portfolio">
 
                                 <a href="/bare-metal-ip" class="iq-portfolio-img">
-                                    <img src="images/portfolio/01.png" class="img-fluid" alt="qloud-portfolio" />
+                                    <img src="{{URL::asset('images/portfolio/01.png')}}" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
                                             <i class="fa fa-link" aria-hidden="true"></i>
@@ -372,7 +400,7 @@
                             <div class="iq-portfolio">
 
                                 <a href="/bare-metal-backup-storage" class="iq-portfolio-img">
-                                    <img src="images/portfolio/02.png" class="img-fluid" alt="qloud-portfolio" />
+                                    <img src="{{URL::asset('images/portfolio/02.png')}}" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
                                             <i class="fa fa-link" aria-hidden="true"></i>
@@ -403,7 +431,7 @@
 
 
          <!-- Icon-box End -->
-         <section class="wow fadeInUp iq-application" style="background: url(images/others/07.jpg) no-repeat 0 0; background-attachment: fixed; background-size:cover;">
+         <section class="wow fadeInUp iq-application" style="background: url({{URL::asset('images/others/07.jpg')}}) no-repeat 0 0; background-attachment: fixed; background-size:cover;">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 text-center">
@@ -494,39 +522,19 @@
 
 <section>
     <div class="container">
-        <h3>Which games or software programs do you need to rent a Game server for?</h3>
+        <h3>How do I create a basic web server?</h3>
         <br>
-        <h4>Mumble</h4>
-        <p>Install this free VoIP software on your dedicated server to enjoy its features during your games. It is widely used on Minecraft servers, for exchanges between players.</p>
+        <h4>Choice of distribution</h4>
+        <p>To get started using your dedicated server, you need to install an OS. DarkCloud offers a range of operating systems that are available to install automatically, and they all operate on an optimised platform. This includes Windows Server, Linux and UNIX operating systems, as well as Plesk and cPanel control panels, not to mention SQL Server for databases. Your server adapts to your needs.</p>
     
-        <h4>TeamSpeak
+        <h4>With root access, you control your server
         </h4>
-        <p>Win against your opponents when you play multiplayer games, in training or competitions, with TeamSpeak voice chat. Create chat channels for each game your community plays.</p>
+        <p>You are free to utilise the full power of your dedicated server. In addition to the choice of operating system, you have root access to your machine. Manage, configure, and secure your server on the command line, or through your choice of control panel, without technical constraints, as required. You can take advantage of our expertise and our datacentres, while remaining the sole administrator of your server!</p>
         
-        <h4>CS: GO / CSS</h4>
-        <p>Run private games of Counter-Strike: Global Offensive and Counter-Strike Source on a Game dedicated server. Performance and fluidity are optimised for your tournaments.</p>
+        <h4>Fully-dedicated resources for your projects</h4>
+        <p>The most significant advantage of a dedicated server is the power it offers in terms of computing, data processing, and storage capacity. Compared to a shared hosting or cloud solution, all your server’s resources are allocated to you. Because there is no virtualisation layer, you can rest assured that your applications are fully benefiting from dedicated resources.</p>
         
-        <h4>Rust</h4>
-        <p>Host Rust on a Game dedicated server to enjoy all the power of this range. Survive as long as possible!</p>
-        
-        <h4>Minecraft</h4>
-        <p>The most popular sandbox multi-player game on the market. Manage your Minecraft servers, and add all the mods you want.</p>
-        
-        <h4>Ark</h4>
-        <p>Explore maps filled with dinosaurs, ready to eat you up! Domesticate them, then train them to protect you and collect resources — without having to worry about whether your server is working properly.</p>
-        
-        <h4>Arma</h4>
-        <p>Become the most popular Arma community with a Game dedicated server, ready to host hundreds of hours of activity.</p>
 
-        <h4>Garry's Mod</h4>
-        <p>Get the most out of the Garry's Mod source engine, with the Game range of servers. Build "mods" freely, for memorable gameplay.</p>
-
-        <h4>Team Fortress</h4>
-        <p>For private online gaming sessions, you can offer your customers private Team Fortress servers.</p>
-
-        <h4>L4D2</h4>
-        <p>Play Left 4 Dead 2’s different gaming modes in private mode, on a server specially designed for online gaming.</p>
-       
 
     </div>
 </section>

@@ -321,7 +321,7 @@
                             <div class="iq-accordion-title" style="">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud guarantee for a Guaranteed Resources instance?
+                                    What SLA does DarkCloud guarantee for a Guaranteed Resources instance?
 
                     </h5>
                             </div>
@@ -409,7 +409,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all OVHcloud solutions at no extra cost. </p>
+                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all DarkCloud solutions at no extra cost. </p>
 
                             </div>
                         </div>
@@ -498,14 +498,14 @@
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    Can a Guaranteed Resources instance be integrated into the OVHcloud virtual private network (vRack)?
+                                    Can a Guaranteed Resources instance be integrated into the DarkCloud virtual private network (vRack)?
 
                     </h5>
                             </div>
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Yes, Public Cloud private networks are a direct part of the vRack network, and connect different OVHcloud solutions to one another.</p>
+                                <p class="iq-content-text">Yes, Public Cloud private networks are a direct part of the vRack network, and connect different DarkCloud solutions to one another.</p>
 
                             </div>
                         </div>

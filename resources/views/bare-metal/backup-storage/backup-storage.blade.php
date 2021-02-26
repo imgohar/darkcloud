@@ -40,7 +40,7 @@
                         </div>
                         <span class="iq-subtitle">Backup Storage</span>
                         <h2 class="iq-title">A secure highway to your administrative data</h2>
-                        <p class="iq-title-desc">OVHcloud offer 500GB of free backup storage with every dedicated server. This space allows you to store data securely, and independently of the main server. Storage can be increased up to 10TB and is entirely managed by OVHcloud – giving you a quality service without the technical challenges.</p>
+                        <p class="iq-title-desc">DarkCloud offer 500GB of free backup storage with every dedicated server. This space allows you to store data securely, and independently of the main server. Storage can be increased up to 10TB and is entirely managed by DarkCloud – giving you a quality service without the technical challenges.</p>
 
                            
                     </div>
@@ -78,7 +78,7 @@
                             <div class="icon-box-content">
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">Simple to use</a>
           </h5>
-                                <p class="icon-box-desc"> Backup storage gives you direct access to your data. Simply login to your backup server from a protocol of your choice, upload your files and explore or retrieve your content. OVHcloud are the only provider to offer 500 GB of backup space while supporting FTP, FTPS, NFS and CIFS protocols.</p>
+                                <p class="icon-box-desc"> Backup storage gives you direct access to your data. Simply login to your backup server from a protocol of your choice, upload your files and explore or retrieve your content. DarkCloud are the only provider to offer 500 GB of backup space while supporting FTP, FTPS, NFS and CIFS protocols.</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
             </div>
             <div class="col-lg-12 text-center align-self-center">
                 <div class="iq-btn-container d-inline-block mr-4">
-                      <p class="text-light mt-4">Simply login to your OVHcloud Control Panel to enable and use your free 500GB backup storage today</p>
+                      <p class="text-light mt-4">Simply login to your DarkCloud Control Panel to enable and use your free 500GB backup storage today</p>
                  <a class="iq-button iq-hover d-inline" href="#">  
                     Control Panel     
                 </a>
@@ -157,11 +157,11 @@
                  <div class="container">
                      <h2>Backup Storage for dedicated servers</h2>
                      <h4>What is a backup storage?</h4>
-                     <p>A backup storage is an NFS-based storage space designed for your backups that offers 500GB space for free with all OVHcloud dedicated servers. The facility is useful for storing large amounts of data and configuration files. It also provides a space for preserving data when you need to reinstall the server. With FTP backup protocols such as NFS/CIFS you can mount your backup space locally on the server, so you are able to manipulate files as if they were on a local disk. It is also possible to automatize backups with simple scripts, pushing data to the backup storage.</p>
+                     <p>A backup storage is an NFS-based storage space designed for your backups that offers 500GB space for free with all DarkCloud dedicated servers. The facility is useful for storing large amounts of data and configuration files. It also provides a space for preserving data when you need to reinstall the server. With FTP backup protocols such as NFS/CIFS you can mount your backup space locally on the server, so you are able to manipulate files as if they were on a local disk. It is also possible to automatize backups with simple scripts, pushing data to the backup storage.</p>
                      <h4>What is the difference between a backup storage and a backup server?</h4>
-                     <p>Backup servers share some features with our backup storage option, but there are many key differences. With backup storage, for example, you get free 500GB of storage and the space is managed entirely by OVHcloud. You can access your backup storage files over a chosen protocol (FTP, FTPS, NFS, or CIFS) and easily upgrade up to 10TB. Access to your storage is limited to the IP address of your server, which can be one your main IP addresses or a floating IP.</p>
+                     <p>Backup servers share some features with our backup storage option, but there are many key differences. With backup storage, for example, you get free 500GB of storage and the space is managed entirely by DarkCloud. You can access your backup storage files over a chosen protocol (FTP, FTPS, NFS, or CIFS) and easily upgrade up to 10TB. Access to your storage is limited to the IP address of your server, which can be one your main IP addresses or a floating IP.</p>
                      
-                    <p>While they offer more backup options, backup servers require administration just like your main server. This allows you to choose how and from where you want to access your backup files and configure it to suit your needs. It's also possible to centralise data from several servers and from several datacentres. Unlike backup storage, backup servers can be accessed both from the internet and OVHcloud private network. They can also be customised for additional space, and offer guaranteed and unlimited bandwidth for your regular backups.
+                    <p>While they offer more backup options, backup servers require administration just like your main server. This allows you to choose how and from where you want to access your backup files and configure it to suit your needs. It's also possible to centralise data from several servers and from several datacentres. Unlike backup storage, backup servers can be accessed both from the internet and DarkCloud private network. They can also be customised for additional space, and offer guaranteed and unlimited bandwidth for your regular backups.
                     </p>
                     
 

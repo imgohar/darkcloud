@@ -107,7 +107,7 @@
                             <div class="icon-box-content">
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">Public Image Catalog</a>
           </h5>
-                                <p class="icon-box-desc">Get dozens of cloud images, provided and managed by OVHcloud, ranging from simple system images to pre-installed applications </p>
+                                <p class="icon-box-desc">Get dozens of cloud images, provided and managed by DarkCloud, ranging from simple system images to pre-installed applications </p>
                             </div>
                         </div>
                     </div>

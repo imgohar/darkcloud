@@ -40,7 +40,7 @@
                         </div>
                         <span class="iq-subtitle">AI & Machine Learning</span>
                         <h2 class="iq-title">The power of artificial intelligence to empower everyone</h2>
-                        <p class="iq-title-desc">Artificial intelligence (AI) is often seen as an aspect of data science reserved only for those who are experienced in the field. At OVHcloud, we believe in the outstanding potential of this practice in all business sectors. And we believe that the complexity of it should not be an obstacle in the usage of big data and machine learning. This is why we focus our efforts on delivering tools that can help tackle the challenges faced by businesses, like predictive analysis of data sets, and making tools easier to use for all user profiles.
+                        <p class="iq-title-desc">Artificial intelligence (AI) is often seen as an aspect of data science reserved only for those who are experienced in the field. At DarkCloud, we believe in the outstanding potential of this practice in all business sectors. And we believe that the complexity of it should not be an obstacle in the usage of big data and machine learning. This is why we focus our efforts on delivering tools that can help tackle the challenges faced by businesses, like predictive analysis of data sets, and making tools easier to use for all user profiles.
 
                         </p>
                     </div>
@@ -266,7 +266,7 @@
       <div class="icon-box-content">
          <h5 class="icon-box-title"><a href="#">Open-source</a>
          </h5>
-         <p class="icon-box-desc">In the world of data, open-source solutions are now the most mature, high-performance offerings. OVHcloud values the importance of basing its solutions on open-source software, like the Apache Hadoop and Apache Spark suites.
+         <p class="icon-box-desc">In the world of data, open-source solutions are now the most mature, high-performance offerings. DarkCloud values the importance of basing its solutions on open-source software, like the Apache Hadoop and Apache Spark suites.
          </p>
          <div class="iq-btn-container">
             <a class="iq-button iq-btn-link has-icon btn-icon-right d-inline" href="services.html">

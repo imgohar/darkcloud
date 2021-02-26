@@ -47,7 +47,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Additional IP addresses</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">You can attach up to 256 IP addresses to your server, with no monthly costs. You just pay a small setup fee of $2.24 /IP . IP addresses and/or IP blocks can be transferred between OVHcloud servers, so you can keep them if you choose to change the servers you use. Additional IPs can be geolocated in 14 countries.
+                                    <p class="fancy-box-content">You can attach up to 256 IP addresses to your server, with no monthly costs. You just pay a small setup fee of $2.24 /IP . IP addresses and/or IP blocks can be transferred between DarkCloud servers, so you can keep them if you choose to change the servers you use. Additional IPs can be geolocated in 14 countries.
 
 
                                     </p>

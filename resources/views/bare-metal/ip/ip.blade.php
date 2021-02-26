@@ -40,7 +40,7 @@
                         </div>
                         <span class="iq-subtitle">IP</span>
                         <h2 class="iq-title">Floating IPs for added flexibility to develop your applications</h2>
-                        <p class="iq-title-desc">OVHcloud dedicated servers, VPS and Public Cloud instances include an IPv4 (/32) pre-configured and IPv6 IP block (/64).
+                        <p class="iq-title-desc">DarkCloud dedicated servers, VPS and Public Cloud instances include an IPv4 (/32) pre-configured and IPv6 IP block (/64).
 
                             For outstanding flexibility, users can attach up to 256 additional IPs.
                             
@@ -97,7 +97,7 @@
                             <div class="icon-box-content">
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">IP Geolocation </a>
           </h5>
-                                <p class="icon-box-desc">With our announcement IP service, you can expand your project for a global audience. With OVHcloud, you can link to additional geolocated IPs. Additional IPs can be geolocated in 14 available destinations. This considerably improves the ranking of your projects in popular search engines, radically improving your webpage SEO status.    </p>
+                                <p class="icon-box-desc">With our announcement IP service, you can expand your project for a global audience. With DarkCloud, you can link to additional geolocated IPs. Additional IPs can be geolocated in 14 available destinations. This considerably improves the ranking of your projects in popular search engines, radically improving your webpage SEO status.    </p>
                             </div>
                         </div>
                     </div>
@@ -119,7 +119,7 @@
                               </div>
                   
                   <h2 class="iq-title text-capitalize">
-                    To purchase additional IP addresses and make the most of floating IPs, go to OVHcloud control panel   </h2>
+                    To purchase additional IP addresses and make the most of floating IPs, go to DarkCloud control panel   </h2>
                 </div>
             </div>
             <div class="col-lg-12 text-center align-self-center">
@@ -218,12 +218,12 @@
                      <h4>What is a failover IP?</h4>
                      <p>A failover IP, also called a floating IP, enhances service continuity (“failover”) for your applications and systems. With failover IP technology, you can switch the IP addresses from one service to another in less than a minute, with almost no service interruption for your users. This mechanism can be used during service migrations, moving projects from development to production environments, and switching services to a backup server in the event of an incident.</p>
                      <h4>How do I get an IP address?</h4>
-                     <p>To use both a failover IP setup and RIPE IP, you will need to know how to get an IP address. With OVHcloud, getting an IP address is simple — log in to the OVHcloud Control Panel, and follow the appropriate steps. With a dedicated server, IPs can be configured in alias or bridge mode for virtualisation purposes.</p>
+                     <p>To use both a failover IP setup and RIPE IP, you will need to know how to get an IP address. With DarkCloud, getting an IP address is simple — log in to the DarkCloud Control Panel, and follow the appropriate steps. With a dedicated server, IPs can be configured in alias or bridge mode for virtualisation purposes.</p>
                      <h4>What is a RIPE IP address?</h4>
                     <p>A RIPE IP address is a European IP address managed and distributed by European IP Networks (Réseaux IP Européens in French). It is an open community that ensures administrative and technical conditions to maintain and develop the Internet. One of the main activities of RIPE is to allocate the IP blocks to ISPs (Internet Service Providers) and register the data in a public database, including information such as a country’s IP block ranges, current IP allocation and IP geolocation.
                     </p>
                     <p>
-                        At OVHcloud you can choose the geolocation of your RIPE IP block, and choose between 14 European countries: France, Ireland, Portugal, the United Kingdom, Italy, Switzerland, Spain, Poland, Czech Republic, the Netherlands, Finland, Lithuania, Germany and Belgium. With RIPE IP blocks, you can tailor your addressing plan to fit your needs, choosing blocks from 4 to 256 IPs and managing their reverse DNS (PTR) in the OVHcloud Control Panel.
+                        At DarkCloud you can choose the geolocation of your RIPE IP block, and choose between 14 European countries: France, Ireland, Portugal, the United Kingdom, Italy, Switzerland, Spain, Poland, Czech Republic, the Netherlands, Finland, Lithuania, Germany and Belgium. With RIPE IP blocks, you can tailor your addressing plan to fit your needs, choosing blocks from 4 to 256 IPs and managing their reverse DNS (PTR) in the DarkCloud Control Panel.
                     </p>
                     <p>
                         For IPs geolocated in Canada or the United States, ARIN – the American Registry for Internet Numbers – oversees the management and distribution of IP addresses. ARIN IP addresses can be used in the same way as other RIPE IPs, and can be assigned to IP blocks or used as failover IPs.</p>

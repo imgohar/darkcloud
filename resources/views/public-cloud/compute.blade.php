@@ -230,7 +230,7 @@
                     <div class="row">
                         <div class="col-sm-6">
                             <h4>Anti-DDoS</h4>
-                            <p>The network is protected by OVHcloud’s powerful anti-DDoS system. All your instances benefit from this protection at no extra cost.</p>
+                            <p>The network is protected by DarkCloud’s powerful anti-DDoS system. All your instances benefit from this protection at no extra cost.</p>
                         </div>
                         <div class="col-sm-6">
                             <h4>Access the KVM console</h4>
@@ -324,7 +324,7 @@
 
 
 <div class="container">
-    <h2>Public Cloud by OVHcloud</h2>
+    <h2>Public Cloud by DarkCloud</h2>
     <br>
     <br>
     
@@ -338,7 +338,7 @@
         <div class="col-lg-6 col-md-12">
             <h3>An open, reversible and transparent cloud</h3>
             <br>
-            <p>Migrating to the cloud should not result in dependence on any specific type of infrastructure or data retention. Our Public Cloud is based on OpenStack, as well as a set of standard and open APIs and services to make it easier for you to orchestrate. This ensures global interoperability of your infrastructures, both with other OVHcloud solutions and with your existing cloud services and infrastructures. Your data also remains accessible, transferable and exploitable at any time, without retention or technical barriers. This is why our cloud solution is standard, open, accessible, transparent and multi-local.</p>
+            <p>Migrating to the cloud should not result in dependence on any specific type of infrastructure or data retention. Our Public Cloud is based on OpenStack, as well as a set of standard and open APIs and services to make it easier for you to orchestrate. This ensures global interoperability of your infrastructures, both with other DarkCloud solutions and with your existing cloud services and infrastructures. Your data also remains accessible, transferable and exploitable at any time, without retention or technical barriers. This is why our cloud solution is standard, open, accessible, transparent and multi-local.</p>
         </div>
     </div>
 </div>

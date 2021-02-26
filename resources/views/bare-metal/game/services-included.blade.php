@@ -87,7 +87,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Anti-DDoS protection</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">To guarantee maximum security for your infrastructures, an anti-DDoS system is included with all OVHcloud dedicated servers. It ensures service continuity for your applications, in the event of an attack.
+                                    <p class="fancy-box-content">To guarantee maximum security for your infrastructures, an anti-DDoS system is included with all DarkCloud dedicated servers. It ensures service continuity for your applications, in the event of an attack.
                                     </p>
                                     <br>
                                     <a href="/anti-ddos">Find Out more</a>
@@ -122,7 +122,7 @@
                                 <h4 class="iq-fancy-title"> Distributions
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> You can install a number of operating systems automatically via the OVHcloud Control Panel. This includes various operating systems (Windows Server, Debian, Ubuntu or CentOS), Plesk and cPanel web management interfaces, and also Microsoft SQL Server for databases. Virtualisation solutions, like VMware, CoreOS and Windows Hyper-V, are also available.
+                                    <p class="fancy-box-content"> You can install a number of operating systems automatically via the DarkCloud Control Panel. This includes various operating systems (Windows Server, Debian, Ubuntu or CentOS), Plesk and cPanel web management interfaces, and also Microsoft SQL Server for databases. Virtualisation solutions, like VMware, CoreOS and Windows Hyper-V, are also available.
                                     </p>
                                     <br>
                                     <a href="">Find Out more</a>
@@ -141,7 +141,7 @@
                                 <h4 class="iq-fancy-title">IPMI and KVM on IP
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> The IPMI (Intelligent Platform Management Interface) console can be accessed via the OVHcloud Control Panel or API, and provides you with a direct connection to your dedicated server. If your server becomes unavailable, you can keep control of it via its public IP address. You can also use this administration system to monitor your server’s hardware components.
+                                    <p class="fancy-box-content"> The IPMI (Intelligent Platform Management Interface) console can be accessed via the DarkCloud Control Panel or API, and provides you with a direct connection to your dedicated server. If your server becomes unavailable, you can keep control of it via its public IP address. You can also use this administration system to monitor your server’s hardware components.
 
                                         Two display methods are available: internet browser (HTML 5) or Java applet.
                                     </p>
@@ -161,7 +161,7 @@
                                 <h4 class="iq-fancy-title">Assistance and support
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">By renting servers from OVHcloud, you get technical support via telephone and email. You can also chat to our advisors, who are ready to help. We also offer a range of guides and an online help centre to assist you in installing and managing your services.
+                                    <p class="fancy-box-content">By renting servers from DarkCloud, you get technical support via telephone and email. You can also chat to our advisors, who are ready to help. We also offer a range of guides and an online help centre to assist you in installing and managing your services.
                                     </p>
                                 </div>
 

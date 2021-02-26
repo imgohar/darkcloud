@@ -14,6 +14,9 @@ use App\Http\Controllers\PagesController;
 |
 */
 
+
+
+// SIMPLE PAGES
 Route::get('/', [PagesController::class,"home"]);
 
 Route::get("/about-us",[PagesController::class,"aboutUs"]);
@@ -41,6 +44,9 @@ Route::get("/web-hosting",function(){
     return view("web-hosting.web-hosting");
 });
 
+
+// BARE METAL
+
 Route::get("/bare-metal-game",function(){
     return view("bare-metal.game.game");
 });
@@ -53,9 +59,41 @@ Route::get("/bare-metal-game-options",function(){
     return view("bare-metal.game.options");
 });
 
-Route::get("/bare-metal-game-price",function(){
+Route::get("/bare-metal/game/price",function(){
     return view("bare-metal.game.price");
 });
+
+Route::get("/bare-metal/game/game-1",function(){
+    return view("bare-metal.game.configure.game-1");
+});
+
+Route::get("/bare-metal/rise",function(){
+    return view("bare-metal.rise.rise");
+});
+
+
+
+Route::get("/bare-metal/storage",function(){
+    return view("bare-metal.storage.storage");
+});
+
+
+
+
+Route::get("/bare-metal/advance",function(){
+    return view("bare-metal.advance.advance");
+});
+
+
+
+
+Route::get("managed-bare-metal",function(){
+    return view("bare-metal.managed.managed");
+});
+
+
+
+
 
 Route::get("/bare-metal-ip",function(){
     return view("bare-metal.ip.ip");
@@ -70,6 +108,8 @@ Route::get("/anti-ddos",function(){
 });
 
 
+
+// PUBLIC CLOUD
 
 Route::get("/public-cloud-pricing",function(){
     return view("public-cloud.pricing");

@@ -40,9 +40,9 @@
                         </div>
                         <span class="iq-subtitle">Storage</span>
                         <h2 class="iq-title">A comprehensive range of solutions to store your data</h2>
-                        <p class="iq-title-desc">The data stored and its different uses have specific constraints, and require an adapted solution. Whether you need a solution for object storage, block storage, a long-term archiving space, or a backup solution for volumes and Public Cloud instances, OVHcloud offers cloud storage solutions to fit all of your needs.
+                        <p class="iq-title-desc">The data stored and its different uses have specific constraints, and require an adapted solution. Whether you need a solution for object storage, block storage, a long-term archiving space, or a backup solution for volumes and Public Cloud instances, DarkCloud offers cloud storage solutions to fit all of your needs.
 
-                            Our cloud storage solutions offer outstanding performance, security and data security, making them perfect for professional cloud storage. And to ensure that you keep full control over your data, OVHcloud guarantees reversibility — you can retrieve it at any time, without any hassle.</p>
+                            Our cloud storage solutions offer outstanding performance, security and data security, making them perfect for professional cloud storage. And to ensure that you keep full control over your data, DarkCloud guarantees reversibility — you can retrieve it at any time, without any hassle.</p>
                     </div>
                     
                     </div>
@@ -172,7 +172,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Security</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Depending on the solution you choose, our service level commitment may vary. Please note that in all cases, OVHcloud does everything possible to guarantee the replication of your data and anticipate hardware malfunctions.
+                                    <p class="fancy-box-content"> Depending on the solution you choose, our service level commitment may vary. Please note that in all cases, DarkCloud does everything possible to guarantee the replication of your data and anticipate hardware malfunctions.
                                     </p>
                                 </div>
 
@@ -224,7 +224,7 @@
                         <p>
                             <strong>Block</strong> Storage will help you increase the storage space available on your Public Cloud instances, by creating storage volumes with guaranteed redundancy. This type of storage also exists in high-speed mode, when the storage must also come with high read-write performance. <br>
 
-                            <strong>Object Storage</strong> is designed to store static files in a scalable, unlimited space, and share the files online so that they can be accessed by your applications or web users. It is compatible with the S3 API, which is standard on the market — which simplifies the process of migrating to OVHcloud.
+                            <strong>Object Storage</strong> is designed to store static files in a scalable, unlimited space, and share the files online so that they can be accessed by your applications or web users. It is compatible with the S3 API, which is standard on the market — which simplifies the process of migrating to DarkCloud.
                             <br>
 
                             <strong>Cloud Archive</strong> enables you to upload more rarely-used files to a cloud storage space, where they can be stored on a long-term basis.</p>

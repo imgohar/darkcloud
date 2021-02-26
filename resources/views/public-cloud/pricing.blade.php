@@ -526,7 +526,7 @@
                         Private Network
                         
                     </h2>
-                    <p>Deploy private networks, supported by the OVHcloud vRack, to connect your instances across the globe</p>
+                    <p>Deploy private networks, supported by the DarkCloud vRack, to connect your instances across the globe</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
                     <img class="img-fluid" width="350px" src="/images/others/08.png" alt="Guranteed Resources">
@@ -764,7 +764,7 @@
                         Public Image Catalog
                         
                     </h2>
-                    <p>Get dozens of cloud images, provided and managed by OVHcloud, ranging from simple system images to pre-installed applications</p>
+                    <p>Get dozens of cloud images, provided and managed by DarkCloud, ranging from simple system images to pre-installed applications</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
@@ -812,7 +812,7 @@ OpenStack Orchestration
                     <p>Deploy your fully-secure Hadoop big data cluster in under an hour</p>
                     <p>The Big Data Cluster solution is based on the use of instances (see "Compute" section) and volumes (see "Storage" section). The same billing methods are then set up according to the instances you choose: the model, and hourly or monthly billing method.
 
-                        Additional instance fees are added for service management. You can estimate your invoice very easily via the OVHcloud Control Panel, before launching a Big Data Cluster.
+                        Additional instance fees are added for service management. You can estimate your invoice very easily via the DarkCloud Control Panel, before launching a Big Data Cluster.
                         
                         Currently, only the Gravelines regions is available.</p>
                 </div>
@@ -851,7 +851,7 @@ OpenStack Orchestration
                     <p>Launch your Apache Spark processing quickly and easily</p>
                     <p>Data Processing uses nodes — an orchestrator node (driver), which manages processing tasks, and worker nodes (executors). 
                         Each of these nodes is made up of processors and memory, which are billed per minute. This means that the driver and executors are billed for the duration of your processing task. 
-                        You can estimate your billing easily via the OVHcloud Control Panel, before you begin a Data Processing task.</p>
+                        You can estimate your billing easily via the DarkCloud Control Panel, before you begin a Data Processing task.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
                     <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
@@ -893,14 +893,14 @@ OpenStack Orchestration
 
                     <h2 class="mt-5">
                         
-OVHcloud AI Training
+DarkCloud AI Training
                     </h2>
                     <p>Train your AI, machine learning and deep learning models efficiently and easily, and optimise your GPU usage.</p>
                     <p>For each training task you launch, you pay per minute for the computing resources used, depending on their lifespan and power.
 
                         AI Training is based on a Docker image, so you may need to containerise your training process. A catalogue of public images is available for Jupyter Notebook, TensorFlow, MXNet, PyTorch, FastAI and much more. These images do not require any specialised containerisation skills.
                         
-                        You can manage your data directly via the OVHcloud Control Panel, or via the command line (object storage).
+                        You can manage your data directly via the DarkCloud Control Panel, or via the command line (object storage).
 
                         </p>
                 </div>
@@ -952,7 +952,7 @@ OVHcloud AI Training
                         
                     </h2>
                     <p>Deploy machine learning models easily, and get quick results</p>
-                    <p>ML Serving deploys a model on a cluster, which then boots computing nodes. Each deployment is defined by a minimum and maximum number of nodes, which you choose. The cluster adapts automatically to the load, and follows your specifications. For each node you launch, you are billed per minute for its lifespan and power. To deploy a model into production, you can get an estimation of the pricing in the OVHcloud Control Panel.</p>
+                    <p>ML Serving deploys a model on a cluster, which then boots computing nodes. Each deployment is defined by a minimum and maximum number of nodes, which you choose. The cluster adapts automatically to the load, and follows your specifications. For each node you launch, you are billed per minute for its lifespan and power. To deploy a model into production, you can get an estimation of the pricing in the DarkCloud Control Panel.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
                     <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">

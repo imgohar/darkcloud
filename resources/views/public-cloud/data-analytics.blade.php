@@ -40,7 +40,7 @@
                         </div>
                         <span class="iq-subtitle">Data Analytics</span>
                         <h2 class="iq-title">A full portfolio of services to leverage your data</h2>
-                        <p class="iq-title-desc">In addition to our range of storage and machine learning solutions, OVHcloud offers a portfolio of data analytics services to effortlessly analyse your data. From data ingestion to usage, we have built clear solutions that help you control your costs and get started quickly.
+                        <p class="iq-title-desc">In addition to our range of storage and machine learning solutions, DarkCloud offers a portfolio of data analytics services to effortlessly analyse your data. From data ingestion to usage, we have built clear solutions that help you control your costs and get started quickly.
 
                         </p>
                     </div>
@@ -218,7 +218,7 @@
       <div class="icon-box-content">
          <h5 class="icon-box-title"><a href="#">Open-source</a>
          </h5>
-         <p class="icon-box-desc"> In the world of data, open-source solutions are now the most mature, high-performance offerings. OVHcloud values the importance of basing its solutions on open-source software, like the Apache Hadoop and Apache Spark suites. Our own developments are also open source, so that the tech community can benefit from them.
+         <p class="icon-box-desc"> In the world of data, open-source solutions are now the most mature, high-performance offerings. DarkCloud values the importance of basing its solutions on open-source software, like the Apache Hadoop and Apache Spark suites. Our own developments are also open source, so that the tech community can benefit from them.
          </p>
          <div class="iq-btn-container">
             <a class="iq-button iq-btn-link has-icon btn-icon-right d-inline" href="services.html">
@@ -269,7 +269,7 @@
       <div class="icon-box-content">
          <h5 class="icon-box-title"><a href="#">Reversibility</a>
          </h5>
-         <p class="icon-box-desc"> OVHcloud takes sovereignty and freedom for personal data very seriously. You can retrieve your data at any time, using standard protocols.
+         <p class="icon-box-desc"> DarkCloud takes sovereignty and freedom for personal data very seriously. You can retrieve your data at any time, using standard protocols.
          </p>
          <div class="iq-btn-container">
             <a class="iq-button iq-btn-link has-icon btn-icon-right d-inline" href="services.html">
@@ -286,7 +286,7 @@
       <div class="icon-box-content">
          <h5 class="icon-box-title"><a href="#">Simple, predictable pricing</a>
          </h5>
-         <p class="icon-box-desc"> Unlike other providers, OVHcloud works hard to offer simple pricing — and to achieve this, traffic is not billed for computing resources.
+         <p class="icon-box-desc"> Unlike other providers, DarkCloud works hard to offer simple pricing — and to achieve this, traffic is not billed for computing resources.
          </p>
          <div class="iq-btn-container">
             <a class="iq-button iq-btn-link has-icon btn-icon-right d-inline" href="services.html">

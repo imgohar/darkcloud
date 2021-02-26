@@ -35,7 +35,7 @@
                         </div>
                         <span class="iq-subtitle">Guides</span>
                         <h2 class="iq-title">
-                            How to use your OVHcloud dedicated server </h2>
+                            How to use your DarkCloud dedicated server </h2>
 
                     </div>
                 </div>
@@ -103,17 +103,17 @@
 
                     <h2>Advanced use</h2>
                     <br>
-                    <p class="bg-light p-2"><a href="">Configuring OVHcloud Secondary DNS on a dedicated server</a></p>
+                    <p class="bg-light p-2"><a href="">Configuring DarkCloud Secondary DNS on a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Upgrading your Cisco ASA firewall</a></p>
                     <p class="bg-light p-2"><a href="">How to use the Bring Your Own Image feature</a></p>
                     <p class="bg-light p-2"><a href="">Installing CUDA on a dedicated GPU server</a></p>
                     <p class="bg-light p-2"><a href="">Choosing the disk group to install an operating system</a></p>
                     <p class="bg-light p-2"><a href="">Updating the kernel on a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Securing a server with a Memcached service</a></p>
-                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for OVHcloud Link Aggregation in CentOS 7</a></p>
-                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for OVHcloud Link Aggregation in Debian 9</a></p>
-                    <p class="bg-light p-2"><a href="">Configuring OVHcloud Link Aggregation in the OVHcloud Control Panel</a></p>
-                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for OVHcloud Link Aggregation in Windows Server 2019</a></p>
+                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for DarkCloud Link Aggregation in CentOS 7</a></p>
+                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for DarkCloud Link Aggregation in Debian 9</a></p>
+                    <p class="bg-light p-2"><a href="">Configuring DarkCloud Link Aggregation in the DarkCloud Control Panel</a></p>
+                    <p class="bg-light p-2"><a href="">How to Configure Your NIC for DarkCloud Link Aggregation in Windows Server 2019</a></p>
                     <p class="bg-light p-2"><a href="">How to Configure Managing Intel SGX on an Infrastructure server</a></p>
                     <p class="bg-light p-2"><a href="">AMD SME/SEV on Ubuntu 20</a></p>
 
