@@ -32,7 +32,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 ">
                     <div class="widget">
                         <div class="textwidget ">
-                            <p><img class="mb-4 img-fluid" src="images/logo.png" alt="qloud">
+                            <p><img class="mb-4 img-fluid" src="{{URL::asset('images/logo.png')}}" alt="qloud">
                                 <br> It is a long established fact that a reader will be distracted by the readable content.</p>
                         </div>
                     </div>

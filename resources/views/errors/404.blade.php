@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-sm-12 text-center">
                     <div class="fourzero-image mb-5">
-                        <img src="images/others/03.png" class="img-fluid" alt="404" />
+                        <img src="{{URL::asset('images/others/03.png')}}" class="img-fluid" alt="404" />
                     </div>
 
                     <h4> 404 Error</h4>

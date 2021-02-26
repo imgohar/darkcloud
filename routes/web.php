@@ -48,8 +48,13 @@ Route::get("/bare-metal-game",function(){
 Route::get("/bare-metal-game-services-included",function(){
     return view("bare-metal.game.services-included");
 });
+
 Route::get("/bare-metal-game-options",function(){
     return view("bare-metal.game.options");
+});
+
+Route::get("/bare-metal-game-price",function(){
+    return view("bare-metal.game.price");
 });
 
 Route::get("/bare-metal-ip",function(){
@@ -74,6 +79,10 @@ Route::get("/public-cloud-compute",function(){
     return view("public-cloud.compute");
 });
 
+Route::get("/public-cloud/guranteed-resources",function(){
+    return view("public-cloud.guranteed-resources");
+});
+
 Route::get("/public-cloud-storage",function(){
     return view("public-cloud.storage");
 });
@@ -92,4 +101,13 @@ Route::get("/public-cloud-data-analytics",function(){
 
 Route::get("/public-cloud-ai-machine-learning",function(){
     return view("public-cloud.ai-machine-learning");
+});
+
+
+
+
+// ROUTES FOR GUIDES
+
+Route::get("/dedicated-servers-guide",function(){
+    return view("guides.dedicated-servers.dedicated");
 });
