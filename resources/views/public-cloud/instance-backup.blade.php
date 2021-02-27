@@ -103,10 +103,10 @@
             <h2>How to</h2>
             <br>
             <p>Create a single instance backup</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server image create --name inst01-bkp01 inst01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server image create --name inst01-bkp01 inst01</code>
             <br>
             <p>Create a rolling backup, with a log of seven entries </p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server backup create --rotate 7 inst01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server backup create --rotate 7 inst01</code>
             <br>
             
             

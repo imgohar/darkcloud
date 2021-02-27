@@ -133,10 +133,10 @@
             <h2>How to</h2>
             <br>
             <p>Create a private network</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack network create net01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack network create net01</code>
             <br>
             <p>Activate the DHCP</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack subnet create --dhcp --network net01 10.0.0.0/8</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack subnet create --dhcp --network net01 10.0.0.0/8</code>
             <br>
             
             

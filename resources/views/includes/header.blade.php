@@ -41,7 +41,18 @@
                                     <a class="dropdown-item {{Request::is('bare-metal/storage')? 'active' : ''}}" href="/bare-metal/storage">Dedicated Servers - Storage Servers</a>
                                     <a class="dropdown-item {{Request::is('bare-metal/advance')? 'active' : ''}}" href="/bare-metal/advance">Dedicated Servers - Advance Servers</a>
                                     <a class="dropdown-item {{Request::is('managed-bare-metal')? 'active' : ''}}" href="/managed-bare-metal">Managed Bare Metal</a>
-                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">FAQ</a>
+                                    <a class="dropdown-item {{Request::is('managed-bare-metal')? 'active' : ''}}" href="/managed-bare-metal">VPS</a>
+                                    <a class="dropdown-item {{Request::is('managed-bare-metal')? 'active' : ''}}" href="/managed-bare-metal">Network and security solutions</a>
+                                    {{-- <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">All VPS</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Plesk-as-a-service</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Distributions et lisence</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">VPS help</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Network Solution</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Failover IP</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">vRack</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Bandwidth</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Load Balancers</a>
+                                    <a class="dropdown-item {{Request::is('faq')? 'active' : ''}}" href="/faq">Anti ddos</a> --}}
                                 </div>
                             </li>
                             <li class="nav-item {{Request::is('public-cloud-pricing')||Request::is('public-cloud-compute')||Request::is('public-cloud-storage')||Request::is('public-cloud-network')||Request::is('public-cloud-data-analytics')||Request::is('public-cloud-data-ai-machine-learning')? 'active' : ''}} dropdown">

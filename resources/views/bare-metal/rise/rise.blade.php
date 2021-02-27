@@ -54,8 +54,8 @@
 
                             <a class="btn btn-primary" href="/bare-metal/game/price">View Prices</a>
                             <br> <br>
-                            <a href="/bare-metal-game-services-included" class="btn btn-outline-primary">Included with your server</a>
-                            <a href="/bare-metal-game-options" class="btn btn-outline-primary">Optional With rise server</a>
+                            <a href="/bare-metal/rise/services-included" class="btn btn-outline-primary">Included with your server</a>
+                            <a href="/bare-metal/rise/options" class="btn btn-outline-primary">Optional With rise server</a>
                     </div>
                     
                     </div>
@@ -347,7 +347,7 @@
                         <div class="iq-masonry-item creative design print-branding">
                             <div class="iq-portfolio">
 
-                                <a href="/bare-metal-ip" class="iq-portfolio-img">
+                                <a href="/bare-metal/bandwidth" class="iq-portfolio-img">
                                     <img src="{{URL::asset('images/portfolio/01.png')}}" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
@@ -359,10 +359,10 @@
                                 <div class="iq-portfolio-content">
                                     <div class="details-box clearfix">
                                         <div class="consult-details">
-                                            <a href="/bare-metal-ip">
+                                            <a href="/bare-metal/bandwidth">
                                                 <h5 class="link-color">
-                                       Floating IP Address           </h5>
-                                                <p class="mb-0 iq-portfolio-desc">Manage Your Service Availablity</p>
+                                       Additional Public Bandwidth          </h5>
+                                                <p class="mb-0 iq-portfolio-desc">Anticipate peaky of activity</p>
                                             </a>
                                         </div>
                                     </div>

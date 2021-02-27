@@ -123,13 +123,13 @@
             <h2>Usage</h2>
             <br>
             <p>Create a volume</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack volume create --type high-speed --size 300 logsdb01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack volume create --type high-speed --size 300 logsdb01</code>
             <br>
             <p>Resize a volume</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack volume set logdb01 --size 1024</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack volume set logdb01 --size 1024</code>
             <br>
             <p>Attach a volume to an instance</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server add volume inst01 logdb01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server add volume inst01 logdb01</code>
             <br>
             
         </div>

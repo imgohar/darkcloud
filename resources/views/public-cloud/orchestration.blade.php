@@ -71,7 +71,7 @@
                                 <img src="images/icon-box/01.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a>Manage Kubernetes Service</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/kubernetes">Manage Kubernetes Service</a>
           </h5>
                                 <p class="icon-box-desc"> Orchestrate your containerised applications with a CNCF-certified Kubernetes cluster </p>
                             </div>
@@ -83,7 +83,7 @@
                                 <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Manage Private Registery</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/managed-private-registery">Manage Private Registery</a>
           </h5>
                                 <p class="icon-box-desc"> Manage a repository for your software building blocks, in the form of Docker images or Helm charts</p>
                             </div>
@@ -94,7 +94,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/03.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Private Image Catalog</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/private-image-catalog">Private Image Catalog</a>
           </h5>
                                 <p class="icon-box-desc"> Maintain and store personalised images of your virtual servers within your private catalog.</p>
                             </div>
@@ -105,7 +105,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/04.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Public Image Catalog</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/public-image-catalog">Public Image Catalog</a>
           </h5>
                                 <p class="icon-box-desc">Get dozens of cloud images, provided and managed by DarkCloud, ranging from simple system images to pre-installed applications </p>
                             </div>
@@ -116,7 +116,7 @@
                             <div class="icon-box-img">
                                 <img src="images/icon-box/05.png" class="img-fluid" alt="QLOUD"> </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Workflow Management</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/workflow-management">Workflow Management</a>
           </h5>
     
                                 <p class="icon-box-desc"> Automate your tasks to operate cloud resources based on your business logic, and adapt them to suit any situation</p>

@@ -116,10 +116,10 @@
             <h2>How To</h2>
             <br>
             <p>Boot an instance</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server create --flavor s1-4 --image debian server01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server create --flavor s1-4 --image debian server01</code>
             <br>
             <p>Boot 100 instances of the same type</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server create --flavor s1-4 --image debian</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server create --flavor s1-4 --image debian</code>
             <br>
             
         </div>

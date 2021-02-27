@@ -123,13 +123,13 @@
                 <h2>Usage</h2>
                 <br>
                 <p>Choose your instance type</p>
-                <code class="bg-dark d-block p-3 text-white rounded">openstack flavor list</code>
+                <code class="lead bg-dark d-block p-3 text-white rounded">openstack flavor list</code>
                 <br>
                 <p>Select your operating system</p>
-                <code class="bg-dark d-block p-3 text-white rounded">openstack image list</code>
+                <code class="lead bg-dark d-block p-3 text-white rounded">openstack image list</code>
                 <br>
                 <p>Create your instance</p>
-                <code class="bg-dark d-block p-3 text-white rounded">openstack server create --flavor c2-60 --image debian server01</code>
+                <code class="lead bg-dark d-block p-3 text-white rounded">openstack server create --flavor c2-60 --image debian server01</code>
             </div>
         </section>
 

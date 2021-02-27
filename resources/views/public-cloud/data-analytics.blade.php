@@ -73,7 +73,7 @@
                                 <img src="images/icon-box/01.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a>Big Data Cluster</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/big-data-hadoop">Big Data Cluster</a>
           </h5>
                                 <p class="icon-box-desc"> Deploy your fully-secure Hadoop big data cluster in under an hour </p>
                             </div>
@@ -85,7 +85,7 @@
                                 <img src="images/icon-box/02.png" class="img-fluid" alt="QLOUD">
                             </div>
                             <div class="icon-box-content">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Data Processing</a>
+                                <h5 class="icon-box-title"> <a href="/public-cloud/data-processing">Data Processing</a>
           </h5>
                                 <p class="icon-box-desc"> Launch your Apache Spark processing quickly and easily. </p>
                             </div>

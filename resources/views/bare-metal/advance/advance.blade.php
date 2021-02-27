@@ -55,8 +55,8 @@
 
                             <a class="btn btn-primary" href="/bare-metal/game/price">View Prices</a>
                             <br> <br>
-                            <a href="/bare-metal-game-services-included" class="btn btn-outline-primary">Included with your server</a>
-                            <a href="/bare-metal-game-options" class="btn btn-outline-primary">Optional with advance server</a>
+                            <a href="/bare-metal/advance/services-included" class="btn btn-outline-primary">Included with your server</a>
+                            <a href="/bare-metal/advance/options" class="btn btn-outline-primary">Optional with advance server</a>
                     </div>
                     
                     </div>

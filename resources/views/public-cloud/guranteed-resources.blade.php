@@ -250,10 +250,10 @@
             <h2>How To</h2>
             <br>
             <p>Boot an instance</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server create --flavor b2-60-flex --image debian server01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server create --flavor b2-60-flex --image debian server01</code>
             <br>
             <p>Resize an instance</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack server resize --flavor c2-120-flex --confirm server01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack server resize --flavor c2-120-flex --confirm server01</code>
             <br>
             
         </div>

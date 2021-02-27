@@ -64,11 +64,19 @@ Route::get("/bare-metal/game/price",function(){
 });
 
 Route::get("/bare-metal/game/game-1",function(){
-    return view("bare-metal.game.configure.game-1");
+    return view("bare-metal.game.configure");
 });
 
 Route::get("/bare-metal/rise",function(){
     return view("bare-metal.rise.rise");
+});
+
+Route::get("/bare-metal/rise/services-included",function(){
+    return view("bare-metal.rise.services-included");
+});
+
+Route::get("/bare-metal/rise/options",function(){
+    return view("bare-metal.rise.options");
 });
 
 
@@ -77,11 +85,30 @@ Route::get("/bare-metal/storage",function(){
     return view("bare-metal.storage.storage");
 });
 
+Route::get("/bare-metal/storage/services-included",function(){
+    return view("bare-metal.storage.services-included");
+});
 
+Route::get("/bare-metal/storage/options",function(){
+    return view("bare-metal.storage.options");
+});
 
 
 Route::get("/bare-metal/advance",function(){
     return view("bare-metal.advance.advance");
+});
+
+
+Route::get("/bare-metal/advance/services-included",function(){
+    return view("bare-metal.advance.services-included");
+});
+
+Route::get("/bare-metal/advance/options",function(){
+    return view("bare-metal.advance.options");
+});
+
+Route::get("/bare-metal/os",function(){
+    return view("bare-metal.os.os");
 });
 
 
@@ -101,6 +128,10 @@ Route::get("/bare-metal-ip",function(){
 
 Route::get("/bare-metal-backup-storage",function(){
     return view("bare-metal.backup-storage.backup-storage");
+});
+
+Route::get("/bare-metal/bandwidth",function(){
+    return view("bare-metal.bandwidth.bandwidth");
 });
 
 Route::get("/anti-ddos",function(){
@@ -160,7 +191,33 @@ Route::get("/public-cloud/private-network",function(){
     return view("public-cloud.private-network");
 });
 
+Route::get("/public-cloud/kubernetes",function(){
+    return view("public-cloud.kubernetes");
+});
 
+Route::get("/public-cloud/managed-private-registery",function(){
+    return view("public-cloud.managed-private-registery");
+});
+
+Route::get("/public-cloud/private-image-catalog",function(){
+    return view("public-cloud.private-image-catalog");
+});
+
+Route::get("/public-cloud/public-image-catalog",function(){
+    return view("public-cloud.public-image-catalog");
+});
+
+Route::get("/public-cloud/workflow-management",function(){
+    return view("public-cloud.workflow-management");
+});
+
+Route::get("/public-cloud/big-data-hadoop",function(){
+    return view("public-cloud.big-data-hadoop");
+});
+
+Route::get("/public-cloud/data-processing",function(){
+    return view("public-cloud.data-processing");
+});
 
 
 Route::get("/public-cloud/sandbox",function(){

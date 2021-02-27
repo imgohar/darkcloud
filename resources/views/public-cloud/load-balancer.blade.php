@@ -210,10 +210,10 @@
             <h2>Usage</h2>
             <br>
             <p>Create a Load Balancer</p>
-            <code class="bg-dark d-block p-3 text-white rounded">kubectl -f apply load_balancer.yaml</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">kubectl -f apply load_balancer.yaml</code>
             <br>
             <p>Delete a Load Balancer </p>
-            <code class="bg-dark d-block p-3 text-white rounded">kubectl delete service load-balancer</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">kubectl delete service load-balancer</code>
             <br>
             
             

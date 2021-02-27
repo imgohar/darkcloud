@@ -121,10 +121,10 @@
             <h2>How to</h2>
             <br>
             <p>Create a snapshot</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack volume snapshot create --volume vol01 snap01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack volume snapshot create --volume vol01 snap01</code>
             <br>
             <p>Restore a snapshot on a new volume</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack volume create --snapshot snap01 vol02</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack volume create --snapshot snap01 vol02</code>
             <br>
             
             

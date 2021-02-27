@@ -213,13 +213,13 @@
             <h2>Usage</h2>
             <br>
             <p>Create an object container (or bucket)</p>
-            <code class="bg-dark d-block p-3 text-white rounded">swift post repo01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">swift post repo01</code>
             <br>
             <p>Configure access permissions to make the container public</p>
-            <code class="bg-dark d-block p-3 text-white rounded">swift post repo01 --read-acl ".r:*"</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">swift post repo01 --read-acl ".r:*"</code>
             <br>
             <p>Push a file into Object Storage</p>
-            <code class="bg-dark d-block p-3 text-white rounded">swift upload repo01 image.jpg</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">swift upload repo01 image.jpg</code>
             <br>
             
         </div>

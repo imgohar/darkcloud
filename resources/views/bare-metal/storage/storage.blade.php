@@ -51,8 +51,8 @@
 
                             <a class="btn btn-primary" href="/bare-metal/game/price">View Prices</a>
                             <br> <br>
-                            <a href="/bare-metal-game-services-included" class="btn btn-outline-primary">Included with your server</a>
-                            <a href="/bare-metal-game-options" class="btn btn-outline-primary">Optional with storage server</a>
+                            <a href="/bare-metal/storage/services-included" class="btn btn-outline-primary">Included with your server</a>
+                            <a href="/bare-metal/storage/options" class="btn btn-outline-primary">Optional with storage server</a>
                     </div>
                     
                     </div>
@@ -210,7 +210,7 @@
                                     <p class="fancy-box-content">You can install a number of operating systems automatically via the DarkCloud Control Panel. This includes various operating systems (Windows Server, Debian, Ubuntu or CentOS), Plesk and cPanel web management interfaces, and also Microsoft SQL Server for databases. Virtualisation solutions, like VMware, CoreOS and Windows Hyper-V, are also available.
                                     </p>
                                     <br>
-                                    <p><a href="/bare-metal-backup-storage">Find Out more</a></p>
+                                    <p><a href="/bare-metal/os">Find Out more</a></p>
                                     
                                 </div>
 
@@ -384,7 +384,7 @@
                         <div class="iq-masonry-item creative design print-branding">
                             <div class="iq-portfolio">
 
-                                <a href="/bare-metal-ip" class="iq-portfolio-img">
+                                <a href="/bare-metal/bandwidth" class="iq-portfolio-img">
                                     <img src="{{URL::asset('images/portfolio/01.png')}}" class="img-fluid" alt="qloud-portfolio" />
                                     <div class="portfolio-link">
                                         <div class="icon">
@@ -396,7 +396,7 @@
                                 <div class="iq-portfolio-content">
                                     <div class="details-box clearfix">
                                         <div class="consult-details">
-                                            <a href="/bare-metal-ip">
+                                            <a href="/bare-metal/bandwidth">
                                                 <h5 class="link-color">
                                        Additional Public Bandwidth          </h5>
                                                 <p class="mb-0 iq-portfolio-desc">Anticipate peaky of activity</p>

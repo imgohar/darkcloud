@@ -196,10 +196,10 @@
             <h2>Usage</h2>
             <br>
             <p>Create a Private Network</p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack network create net01</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack network create net01</code>
             <br>
             <p>Create a subnet with DHCP </p>
-            <code class="bg-dark d-block p-3 text-white rounded">openstack subnet create subnet01 --network net01 --subnet-range 10.0.0.0/8</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">openstack subnet create subnet01 --network net01 --subnet-range 10.0.0.0/8</code>
             <br>
             
             

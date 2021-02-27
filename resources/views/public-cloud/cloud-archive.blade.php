@@ -190,10 +190,10 @@
             <h2>Usage</h2>
             <br>
             <p>Load an archive</p>
-            <code class="bg-dark d-block p-3 text-white rounded">rsync -av archive.tar.gz pca@ovh:repo/</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av archive.tar.gz pca@ovh:repo/</code>
             <br>
             <p>Retrieve an archive</p>
-            <code class="bg-dark d-block p-3 text-white rounded">rsync -av pca@ovh:repo/archive.tar.gz.</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av pca@ovh:repo/archive.tar.gz.</code>
             <br>
             
             

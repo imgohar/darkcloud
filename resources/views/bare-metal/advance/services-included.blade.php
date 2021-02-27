@@ -12,10 +12,10 @@
                         <div class="col-sm-12">
                             <nav aria-label="breadcrumb" class="text-center iq-breadcrumb-two">
                                 <h2 class="title">
-                           Included With Game Server                      </h2>
+                           Included With Advance Server                      </h2>
                                 <ol class="breadcrumb main-bg">
-                                    <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Bare Metal Game</a></li>
-                                    <li class="breadcrumb-item active"> Included With Game Server </li>
+                                    <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Bare Metal Storage</a></li>
+                                    <li class="breadcrumb-item active"> Included With Advance Server </li>
                                 </ol>
                             </nav>
                         </div>
@@ -180,6 +180,40 @@
                                 </h4>
                                 <div class="special-content">
                                     <p class="fancy-box-content"> All of the servers in this range have a 99.90% SLA, ensuring the best availability for your business applications.
+                                    </p>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
+                        <div class="iq-fancy-box-content">
+                            
+                            <div class="iq-fancy-details">
+                                <h4 class="iq-fancy-title">Bandwidth
+                                </h4>
+                                <div class="special-content">
+                                    <p class="fancy-box-content"> Your server has a default minimum bandwidth of 500 Mbps. Incoming and outgoing traffic is unlimited and free.
+                                    </p>
+                                </div>
+
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
+                        <div class="iq-fancy-box-content">
+                            
+                            <div class="iq-fancy-details">
+                                <h4 class="iq-fancy-title">vRack private network
+                                </h4>
+                                <div class="special-content">
+                                    <p class="fancy-box-content"> Your server is provided with our private physical network — the vRack. This means you can create your own cluster, or include your server in an existing infrastructure. It is fully isolated from the internet, and delivered at no extra cost.
                                     </p>
                                 </div>
 
