@@ -111,6 +111,10 @@ Route::get("/bare-metal/os",function(){
     return view("bare-metal.os.os");
 });
 
+Route::get("/network-and-security",function(){
+    return view("network-and-security.network-and-security");
+});
+
 
 
 
