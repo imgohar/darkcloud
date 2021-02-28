@@ -138,6 +138,32 @@ Route::get("/anti-ddos",function(){
     return view("anti-ddos.anti-ddos");
 });
 
+Route::get("/vps",function(){
+    return view("vps.vps");
+});
+
+Route::get("/vps/uc-vps-minecraft",function(){
+    return view("vps.uc-vps-minecraft");
+});
+
+Route::get("/vps/uc-vps-multisite",function(){
+    return view("vps.uc-vps-multisite");
+});
+
+Route::get("/vps/uc-vps-sandbox",function(){
+    return view("vps.uc-vps-sandbox");
+});
+
+Route::get("/vps/options",function(){
+    return view('vps.options');
+});
+
+Route::get("/vps/compare",function(){
+    return view('vps.compare');
+});
+Route::get("/vps/plesk-as-a-service",function(){
+    return view('vps.plesk-as-a-service');
+});
 
 
 // PUBLIC CLOUD
