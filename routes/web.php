@@ -285,3 +285,7 @@ Route::get("/public-cloud-ai-machine-learning",function(){
 Route::get("/dedicated-servers/guide",function(){
     return view("guides.dedicated-servers.dedicated");
 });
+
+Route::get("/dedicated-servers/guide/getting-started-with-dedicated-server",function(){
+    return view("guides.dedicated-servers.getting-started-with-ds");
+});

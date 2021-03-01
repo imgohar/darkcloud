@@ -44,7 +44,7 @@
                 <div class="col-lg-6 col-md-12">
                     <h2>Getting Started</h2>
                     <br>
-                    <p class="bg-light p-2"><a href="">Getting Started with a dedicated server</a></p>
+                    <p class="bg-light p-2"><a href="/dedicated-servers/guide/getting-started-with-dedicated-server">Getting Started with a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Securing a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Getting started with SSH</a></p>
                     <p class="bg-light p-2"><a href="">Using the IPMI with dedicated servers</a></p>

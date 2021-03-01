@@ -96,7 +96,7 @@
                     <p>Deploy cloud instances with fully-guaranteed resources that cover a very wide range of uses</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('/images/dark-cloud/guranteed-resources.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <h2>General Purpose</h2>
@@ -286,13 +286,124 @@
                     </table>
 
                 </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <h2>GPU</h2>
+                    <p>Get our most powerful public cloud instances, up to 1,000 times faster than a CPU for parallel processing
+                    </p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('/images/dark-cloud/GPU.png')}}" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Memory</th>
+                            <th>vCore</th>
+                            <th>GPU</th>
+                            <th>Storage</th>
+                            <th>Public Network</th>
+                            <th>Private Network</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>b2-7</td>
+                                <td>7 GB </td>
+                                <td>2</td>
+                                <td>	Tesla V100 16 GB</td>
+                                <td>50 GB SSD</td>
+                                <td>250 Mbps guaranteed</td>
+                                <td>300 Mbps max.</td>
+                                <td>0.0739  /hour</td>
+                            </tr>
+                            <tr>
+                                <td>b2-15</td>
+                                <td>15 GB </td>
+                                <td>4</td>
+                                <td>	2×Tesla V100 16 GB</td>
+                                <td>100 GB SSD</td>
+                                <td>250 Mbps guaranteed</td>
+                                <td>1 Gbps max.</td>
+                                <td>$0.1399  /hour</td>
+                            </tr>
+                            <tr>
+                                <td>b2-30</td>
+                                <td>30 GB </td>
+                                <td>8</td>
+                                <td>4×Tesla V100 16 GB</td>
+                                <td>200 GB SSD</td>
+                                <td>500 Mbps guaranteed</td>
+                                <td>2 Gbps max.</td>
+                                <td>$0.2839  /hour</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <h2>IOPS</h2>
+                    <p>Get ultra-fast IOPS, with NVMe drives specially designed for databases and big data applications</p>
+                </div>
+                <div class="col-lg-6 mb-lg-0 mb-5">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('/images/dark-cloud/IOPS.png')}}" alt="Guranteed Resources">
+                </div>
+                <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
+                    
+                    <table class="table table-light table-striped">
+                        <thead class="bg-primary text-light">
+                            <th>Name</th>
+                            <th>Memory</th>
+                            <th>vCore</th>
+                            <th>Storage</th>
+                            <th>NVMe disks</th>
+                            <th>Public Network</th>
+                            <th>Private Network</th>
+                            <th>Price</th>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>b2-7</td>
+                                <td>7 GB </td>
+                                <td>2</td>
+                                <td>50 GB SSD</td>
+                                <td>1.9 TB</td>
+                                <td>250 Mbps guaranteed</td>
+                                <td>300 Mbps max.</td>
+                                <td>0.0739  /hour</td>
+                            </tr>
+                            <tr>
+                                <td>i1-90</td>
+                                <td>90 GB </td>
+                                <td>16</td>
+                                <td>50 GB SSD</td>
+                                <td>2 x 1.9 TB</td>
+                                <td>2 Gbps guaranteed</td>
+                                <td>4 Gbps max.</td>
+                                <td>$0.889 /hour</td>
+                            </tr>
+                            <tr>
+                                <td>i1-180</td>
+                                <td>180 </td>
+                                <td>32</td>
+                                <td>50 GB SSD</td>
+                                <td>4 x 1.9 TB</td>
+                                <td>8 Gbps guaranteed</td>
+                                <td>4 Gbps max.</td>
+                                <td>$1.779 /hour</td>
+                            </tr>
+                            
+                        </tbody>
+                    </table>
+                </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <h2>Sandbox
                     </h2>
                     <p>Deploy cloud instances with fully-guaranteed resources that cover a very wide range of uses</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/sandbox.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -349,8 +460,8 @@
                     <p>Create storage volumes, which can be used as additional disks and secured via triple replication of data</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <br><br><br><br><br><br>
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/block-storage.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -380,7 +491,7 @@
                     <p>Enjoy unlimited on-demand storage, accessible via API</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/object-storage.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -412,7 +523,7 @@
                     <p>Archive your data over the long term in a cloud storage space, accessible via standard protocols.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/06.jpg" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/cloud-archive.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -438,6 +549,7 @@
                 
                 </div>
 
+                <br>
 
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <h2>Volume Snapshot
@@ -445,7 +557,7 @@
                     <p>Trigger a snapshot on your Block Storage volumes</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/07.jpg" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/volume-snapshot.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -470,7 +582,7 @@
                     <p>Get a backup service for your instances</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/08.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/ib.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -500,7 +612,7 @@
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/lb.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -529,7 +641,7 @@
                     <p>Deploy private networks, supported by the DarkCloud vRack, to connect your instances across the globe</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/08.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/pri-n.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -561,7 +673,7 @@
                     <p>Standard DDoS protection is included in all Public Cloud products.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/ad.png')}}" alt="Guranteed Resources">
 
 
                 
@@ -578,7 +690,7 @@
                     <p>Outbound public network traffic is included in the price of instances on all locations, except the Asia-Pacific region (Singapore and Sydney). In both regions, 1 TB/month of outbound public traffic is included for each Public Cloud project. Beyond this quota, each additional GB of traffic is charged. Inbound network traffic from the public network is included in all cases and in all regions.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/ipt.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -601,7 +713,7 @@
                     
                 
                 </div>
-
+                <br>
 
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <h2>Floating IP
@@ -610,10 +722,11 @@
                     <p>IP Floating is free during the beta period. Currently, only the Gravelines and Strasbourg locations are available.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/fi.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
+                <br>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <h2>
                         Virtual Router
@@ -622,7 +735,7 @@
                     <p>Virtual Routers are free during the beta period. Currently, only the Gravelines and Strasbourg locations are available.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/vr.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -639,7 +752,7 @@
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/mks.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -680,7 +793,7 @@
                     <p>You can migrate from your current plan to a higher level plan at any time. The new limits become effective within a few tens of seconds, with no loss of data and no changes to the configuration required. If you create, modify or remove a service part way through the month, you will be billed only for the actual hours used in your plan. Traffic is unlimited, no matter what its destination.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/mpr.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -734,7 +847,7 @@
                     <p>Maintain and store personalised images of your virtual servers within your private catalog.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/03.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/pic.png')}}" alt="Guranteed Resources">
 
 
                 
@@ -767,7 +880,7 @@
                     <p>Get dozens of cloud images, provided and managed by DarkCloud, ranging from simple system images to pre-installed applications</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/05.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/puic.png')}}" alt="Guranteed Resources">
                 </div>
                 
 
@@ -780,7 +893,7 @@
                     <p>Workflows and executions are free. Only the cloud resources generated (instances, volumes, etc.) are billed at their standard pricing.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/wm.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -793,7 +906,7 @@ OpenStack Orchestration
                     
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/oo.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -818,7 +931,7 @@ OpenStack Orchestration
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/04.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/bdc.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -854,7 +967,7 @@ OpenStack Orchestration
                         You can estimate your billing easily via the DarkCloud Control Panel, before you begin a Data Processing task.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/dp.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -906,7 +1019,7 @@ DarkCloud AI Training
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/ai-t.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -955,7 +1068,7 @@ DarkCloud AI Training
                     <p>ML Serving deploys a model on a cluster, which then boots computing nodes. Each deployment is defined by a minimum and maximum number of nodes, which you choose. The cluster adapts automatically to the load, and follows your specifications. For each node you launch, you are billed per minute for its lifespan and power. To deploy a model into production, you can get an estimation of the pricing in the DarkCloud Control Panel.</p>
                 </div>
                 <div class="col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/02.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/ms.png')}}" alt="Guranteed Resources">
                 </div>
                 <div class="mt-5 col-lg-12 mb-lg-0 mb-5">
                     <table class="table table-light table-striped">
@@ -1027,7 +1140,7 @@ NVIDIA NGC Platform
                     <p>The NGC platform is free, you only pay for the GPU instances.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/nnp.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -1049,7 +1162,7 @@ NVIDIA NGC Platform
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/horizon.png')}}" alt="Guranteed Resources">
                 </div>
                 
                 
@@ -1063,7 +1176,7 @@ NVIDIA NGC Platform
                     <p>Access to the KVM console for instances is free.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/prc.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -1076,7 +1189,7 @@ NVIDIA NGC Platform
                     <p>API queries are not invoiced. You will only be billed for the resources used.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/osa.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -1102,7 +1215,7 @@ User and Role Management
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/urm.png')}}" alt="Guranteed Resources">
                 </div>
                 
                 
@@ -1116,7 +1229,7 @@ User and Role Management
                     <p>Activation of new regions or increase of quota are free.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/qrm.png')}}" alt="Guranteed Resources">
                 
                 </div>
 
@@ -1129,7 +1242,7 @@ User and Role Management
                     <p>Generating threshold alerts for your billing is free.</p>
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/bc.png')}}" alt="Guranteed Resoursces">
                 
                 </div>
 
@@ -1153,7 +1266,7 @@ User and Role Management
                 </div>
                 <div class="mt-5 col-lg-6 mb-lg-0 mb-5">
                     <br><br><br><br>
-                    <img class="img-fluid" width="350px" src="/images/others/01.png" alt="Guranteed Resources">
+                    <img class="img-fluid" width="350px" src="{{URL::asset('images/dark-cloud/pag.webp')}}" alt="Guranteed Resources">
                 </div>
                 
                 
@@ -1216,59 +1329,4 @@ User and Role Management
             </div>
     </div>
 
-    <!-- Counter Start -->
-    <section class="main-bg" style="background: url(images/others/06.jpg) no-repeat 0 0; background-attachment: fixed; background-size:cover;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 mb-lg-0 mb-5">
-                    <div class="iq-title-box iq-title-default iq-title-box-2"> <span class="iq-subtitle">Language</span>
-                        <h2 class="iq-title text-white">Work with the language you already love</h2>
-                        <p class="iq-title-desc text-white">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution.</p>
-                    </div>
-                    <div class="iq-list  iq-two-column">
-                        <ul class="iq-list-with-icon">
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Public Cloud </li>
-
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Private Cloud </li>
-
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Virtual Private Cloud </li>
-
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Tally-as-a-Service </li>
-
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Banking Community Cloud </li>
-
-                            <li class="text-white">
-                                <i class="ion ion-checkmark-round"></i> Load Balancing </li>
-
-                        </ul>
-                    </div>
-                    <div class="iq-btn-container mt-4">
-                        <a class="iq-button iq-btn-medium iq-btn-round iq-btn-flat d-inline" href="javascript:void(0)">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 align-self-stretch align-self-center">
-                    <div class="iq-popup-video">
-                        <div class="iq-video-img position-relative">
-
-                            <div class="iq-video-icon wow FadeIn">
-                                <a href="https://www.youtube.com/watch?v=XHOmBV4js_E" class="iq-video popup-youtube">
-                                    <i aria-hidden="true" class="ion ion-play"></i> </a>
-                                <div class="iq-waves">
-                                    <div class="waves wave-1"></div>
-                                    <div class="waves wave-2"></div>
-                                    <div class="waves wave-3"></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Counter End -->
 @endsection
