@@ -12,10 +12,12 @@
                         <div class="col-sm-12">
                             <nav aria-label="breadcrumb" class="text-center iq-breadcrumb-two">
                                 <h2 class="title">
-                           Network and security solutions                    </h2>
+                           Load balancer                   </h2>
                                 <ol class="breadcrumb main-bg">
-                                    <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Bare Metal Cloud</a></li>
-                                    <li class="breadcrumb-item active"> Network and security solutions</li>
+                                    <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Network and security solutions</a></li>
+                                    <li class="breadcrumb-item active"> 
+                                        Load Balancer
+                                    </li>
                                 </ol>
                             </nav>
                         </div>
@@ -39,9 +41,19 @@
                         <div class="iq-title-icon">
                         </div>
                         <span class="iq-subtitle">Network and security</span>
-                        <h2 class="iq-title">How can you make your cloud secure?</h2>
-                        <p class="iq-title-desc">Virtual private network, load balancer, anti-DDoS protection: choose the best options to improve and secure your infrastructure.
+                        <h2 class="iq-title">Load Balancers</h2>
+                        <p class="iq-title-desc">All our Cloud products can be scaled up or out with no constraints, in all our data centers.
+                            <br>
+                            The OVH Load Balancer distributes the workload among your various services across our data centers. It ensures the scaling of your infrastructure in the event of heavy traffic, with optimized fault tolerance and response time. All this with a service level aiming for Zero Downtime.
                         </p>
+                        <ul>
+                            <li>Failproof flexibility!</li>
+                            <li>Very high availability!</li>
+<li>Basic and advanced tech support 24/7</li>
+<li>Protection against Anti-DDoS attacks</li>
+<li>Free SSLs included</li>
+<li><a href="">A lot of features</a></li>
+                        </ul>
                        
                         
 
@@ -161,7 +173,7 @@
 
                                     </p>
                                     <br>
-                                    <p><a href="/solutions/load-balancers">Discover the OVH Load Balancer</a></p>
+                                    <p><a href="/bare-metal-ip">Discover the OVH Load Balancer</a></p>
                                 </div>
 
                             </div>

@@ -142,6 +142,15 @@ Route::get("/anti-ddos",function(){
     return view("anti-ddos.anti-ddos");
 });
 
+Route::get("/solutions/vrack",function(){
+    return view("network-and-security.solutions.vrack");
+});
+
+Route::get("/solutions/load-balancers",function(){
+    return view("load-balancers.load-balancer");
+});
+
+
 Route::get("/vps",function(){
     return view("vps.vps");
 });
@@ -168,6 +177,7 @@ Route::get("/vps/compare",function(){
 Route::get("/vps/plesk-as-a-service",function(){
     return view('vps.plesk-as-a-service');
 });
+
 
 
 // PUBLIC CLOUD
