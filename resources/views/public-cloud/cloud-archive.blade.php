@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         Long-term storage to securely archive your data </h2>
-                       <p class="iq-title-desc pr-lg-5">Whether it’s for business needs or other obligations, long-term data retention is often a necessity. Two points are important here: the cost of storage, which must be reduced, and data security and recovery, which must be guaranteed. The OVHcloud Cloud Archive solution has been designed with this in mind.</p></div>
+                       <p class="iq-title-desc pr-lg-5">Whether it’s for business needs or other obligations, long-term data retention is often a necessity. Two points are important here: the cost of storage, which must be reduced, and data security and recovery, which must be guaranteed. The DarkCloud Cloud Archive solution has been designed with this in mind.</p></div>
                        
                     </div>
                  </div>
@@ -79,7 +79,7 @@
                                 <h4 class="iq-fancy-title"> Reversible, based on industry standards
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">OVHcloud places great value in the freedom of its users. When you entrust us with your data, we guarantee you will always be able to recover it via standard, easy-to-use protocols, such as SCP or rsync.
+                                    <p class="fancy-box-content">DarkCloud places great value in the freedom of its users. When you entrust us with your data, we guarantee you will always be able to recover it via standard, easy-to-use protocols, such as SCP or rsync.
                                     </p>
                                 </div>
 
@@ -190,10 +190,10 @@
             <h2>Usage</h2>
             <br>
             <p>Load an archive</p>
-            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av archive.tar.gz pca@ovh:repo/</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av archive.tar.gz pca@DarkCloud:repo/</code>
             <br>
             <p>Retrieve an archive</p>
-            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av pca@ovh:repo/archive.tar.gz.</code>
+            <code class="lead bg-dark d-block p-3 text-white rounded">rsync -av pca@DarkCloud:repo/archive.tar.gz.</code>
             <br>
             
             
@@ -275,7 +275,7 @@ Cloud Archive allows you to store objects such as important files, without any s
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
                                     
-                                    What SLA does OVHcloud offer for accessing the Cloud Archive service?
+                                    What SLA does DarkCloud offer for accessing the Cloud Archive service?
 
                     </h5>
                             </div>

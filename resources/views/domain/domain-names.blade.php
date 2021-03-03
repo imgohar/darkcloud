@@ -305,7 +305,7 @@
                             <div class="item">
                                 <div class="iq-client-img iq-fancy-box iq-fancy-box-style-1 text-center iq-box-shadow wow fadeInUp">
                                     <div class="text-center">
-                                        <p>.ovh</p>
+                                        <p>.DarkCloud</p>
                                         <p>$2.39
                                         </p>
                                         <button class="btn btn-primary">Order Now</button>

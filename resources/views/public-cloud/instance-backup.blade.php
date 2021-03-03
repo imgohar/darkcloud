@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         On-demand system backups</h2>
-                       <p class="iq-title-desc pr-lg-5">As automated deployments and Infrastructure-as-Code (IaC) services become increasingly popular, a system backup is essential. That's why your instances at OVH can be backed up at any time. The server will export the instance’s disk, enabling you to industrialise your deployments.</p></div>
+                       <p class="iq-title-desc pr-lg-5">As automated deployments and Infrastructure-as-Code (IaC) services become increasingly popular, a system backup is essential. That's why your instances at DarkCloud can be backed up at any time. The server will export the instance’s disk, enabling you to industrialise your deployments.</p></div>
                        
                     </div>
                  </div>
@@ -182,7 +182,7 @@
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
                                     
-                                    What SLA does OVHcloud offer for accessing the Instance Backup service?
+                                    What SLA does DarkCloud offer for accessing the Instance Backup service?
                     </h5>
                             </div>
 
@@ -197,7 +197,7 @@
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for data resilience on the Instance Backup service?
+                                    What SLA does DarkCloud offer for data resilience on the Instance Backup service?
                     </h5>
                             </div>
 

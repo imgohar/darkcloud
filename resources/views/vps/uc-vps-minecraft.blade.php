@@ -46,13 +46,13 @@
 
 <div class="container">
 
-    <h3>Why choose an OVHcloud VPS rather than a dedicated server ?</h3>
-    <p>Smooth gameplay and flexibility are vital aspects of the ultimate gaming experience, and this is offered by dedicated computing resources — but often, dedicated servers can be too costly, and many users may not require all of the resources provided by bare-metal technology. This is where OVHcloud VPS server hosting solutions come in. If you are looking for a cost-effective way of hosting private Minecraft games with a group of other players, then a VPS will be the right solution for you.
+    <h3>Why choose an DarkCloud VPS rather than a dedicated server ?</h3>
+    <p>Smooth gameplay and flexibility are vital aspects of the ultimate gaming experience, and this is offered by dedicated computing resources — but often, dedicated servers can be too costly, and many users may not require all of the resources provided by bare-metal technology. This is where DarkCloud VPS server hosting solutions come in. If you are looking for a cost-effective way of hosting private Minecraft games with a group of other players, then a VPS will be the right solution for you.
         <br>
         Users can harness many of the advantages associated with dedicated servers, at just a fraction of the price. Like a bare metal server, the allocated resources of a VPS are dedicated solely to you— so you will get lightning-speed performance, quick landscape rendering and lag-free gameplay without any impact from neighbouring customers.</p>
         <h3>
             Tip 1: Keep an eye on your resource usage, users, and server location.</h3>
-            <p>As you expand your group of users, supplement your gameplay with mod packs and continue building your world, it is important to boost your resources accordingly. The OVHcloud Control Panel is designed to give you a detailed view of your resource usage, and offer both speed and simplicity when it comes to adding more resources. To ensure lag-free gameplay and minimal latency, add resources if you notice that you are coming close to hitting your resource usage threshold. It is also worth ensuring that you order your Minecraft VPS from a datacentre located as closely as possible to you and your users. For example, if your group is based in the UK, we recommend ordering from our London datacentre. If your group is spread across Europe, consider ordering from a datacentre located in a geographical half-way point.</p>
+            <p>As you expand your group of users, supplement your gameplay with mod packs and continue building your world, it is important to boost your resources accordingly. The DarkCloud Control Panel is designed to give you a detailed view of your resource usage, and offer both speed and simplicity when it comes to adding more resources. To ensure lag-free gameplay and minimal latency, add resources if you notice that you are coming close to hitting your resource usage threshold. It is also worth ensuring that you order your Minecraft VPS from a datacentre located as closely as possible to you and your users. For example, if your group is based in the UK, we recommend ordering from our London datacentre. If your group is spread across Europe, consider ordering from a datacentre located in a geographical half-way point.</p>
 </div>
 
 <section class="iq-pricing-section">
@@ -145,7 +145,7 @@
 
 <div class="container">
     <h3>Tip 2: Think about how you would like to scale up in future.</h3>
-    <p>OVHcloud Minecraft VPS hosting is a great way to get started hosting games. However, it is important to consider how you may want to scale up your infrastructure on a more long-term basis. If you are an enterprise or reseller seeking to provide your customer base with gaming services, we recommend considering a dedicated hosting service from our OVHcloud Game dedicated server range. Game dedicated servers are specially designed for larger-scale game hosting, and are equipped with OVHcloud’s very own Game Anti-DDoS protection.</p>
+    <p>DarkCloud Minecraft VPS hosting is a great way to get started hosting games. However, it is important to consider how you may want to scale up your infrastructure on a more long-term basis. If you are an enterprise or reseller seeking to provide your customer base with gaming services, we recommend considering a dedicated hosting service from our DarkCloud Game dedicated server range. Game dedicated servers are specially designed for larger-scale game hosting, and are equipped with DarkCloud’s very own Game Anti-DDoS protection.</p>
     <h3>Tip 3: Look at plug-and-play options.</h3>
     <p>Whether you are not particularly confident with manually configuring Minecraft, or simply don’t want the hassle of manually setting up the game, Minecraft plug-and-play options are a great addition to your VPS, and with root access included as standard, they are easy to install. They add further options and functionality to your games, and offer you more freedom to enjoy the game itself.</p>
 </div>

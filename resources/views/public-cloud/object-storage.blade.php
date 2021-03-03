@@ -170,7 +170,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Migration from the S3 API</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Get the competitive price of our Object Storage solution, by migrating your data from any provider offering the S3 API to the OVHcloud platform.
+                                    <p class="fancy-box-content">Get the competitive price of our Object Storage solution, by migrating your data from any provider offering the S3 API to the DarkCloud platform.
                                     </p>
                                 </div>
 
@@ -186,7 +186,7 @@
     <!-- Icon-box End -->
 
     <div class="container">
-        <h2>Migrate from S3 to OVHcloud</h2>
+        <h2>Migrate from S3 to DarkCloud</h2>
         <br>
         <div class="row">
             <div class="col-lg-6">
@@ -252,7 +252,7 @@ Objects can have an expiration date as an attribute. In such cases, the object w
             </div>
             <div class="col-lg-6">
                 <h4> web content</h4>
-                <p>By configuring a container in static mode, OVHcloud's Object Storage will act as a standard web server by first serving "index.html". It can also present an HTML index of the objects' URLs if no "index.html" objects exist by default.</p>
+                <p>By configuring a container in static mode, DarkCloud's Object Storage will act as a standard web server by first serving "index.html". It can also present an HTML index of the objects' URLs if no "index.html" objects exist by default.</p>
                 
                 <h4>Large objects</h4>
                 With Object Storage, you can store small and very large objects, with no size limit. For example, you can store files of several TB.</p>
@@ -320,7 +320,7 @@ Objects can have an expiration date as an attribute. In such cases, the object w
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
                                     
-What SLA does OVHcloud offer for accessing the Object Storage service?
+What SLA does DarkCloud offer for accessing the Object Storage service?
 
                     </h5>
                             </div>
@@ -336,7 +336,7 @@ What SLA does OVHcloud offer for accessing the Object Storage service?
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for data resilience on the Object Storage service?
+                                    What SLA does DarkCloud offer for data resilience on the Object Storage service?
 
                     </h5>
                             </div>
@@ -426,7 +426,7 @@ What SLA does OVHcloud offer for accessing the Object Storage service?
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Virtually, there is no limit. In other words, OVHcloud manages the service, so that there is always space available. </p>
+                                <p class="iq-content-text">Virtually, there is no limit. In other words, DarkCloud manages the service, so that there is always space available. </p>
 
                             </div>
                         </div>

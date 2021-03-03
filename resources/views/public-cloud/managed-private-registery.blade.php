@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         Private registry managed service, compatible with the cloud native ecosystem</h2>
-                       <p class="iq-title-desc pr-lg-5">The OVHcloud Managed Private Registry service makes it easy to store, manage and access your container images and Helm charts, offering enterprise-grade features and predictable pricing.</p></div>
+                       <p class="iq-title-desc pr-lg-5">The DarkCloud Managed Private Registry service makes it easy to store, manage and access your container images and Helm charts, offering enterprise-grade features and predictable pricing.</p></div>
                        
                     </div>
                  </div>
@@ -142,7 +142,7 @@
                                 <h4 class="iq-fancy-title">Easily set up your CI/CD
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Managed Private Registry facilitates the entire integration with your CI/CD via API. Accelerate your software releases, from development to production, while OVHcloud administers your registry, ensuring the ready availability of images and a smooth, stress-free application deployment process.
+                                    <p class="fancy-box-content">Managed Private Registry facilitates the entire integration with your CI/CD via API. Accelerate your software releases, from development to production, while DarkCloud administers your registry, ensuring the ready availability of images and a smooth, stress-free application deployment process.
                                     </p>
                                 </div>
 

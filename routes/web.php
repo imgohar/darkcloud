@@ -150,6 +150,14 @@ Route::get("/solutions/load-balancers",function(){
     return view("load-balancers.load-balancer");
 });
 
+Route::get("/solutions/load-balancers/features",function(){
+    return view("load-balancers.features");
+});
+
+Route::get("/network-security/ovh-cloud",function(){
+    return view("ovh-cloud.ovh-cloud");
+});
+
 
 Route::get("/vps",function(){
     return view("vps.vps");

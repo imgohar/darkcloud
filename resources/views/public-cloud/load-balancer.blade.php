@@ -63,7 +63,7 @@
                                 <h4 class="iq-fancy-title">99.99% availability
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">The OVHcloud Load Balancer is designed to deliver a high level of availability and resilience, and is also based on its own distributed architecture.
+                                    <p class="fancy-box-content">The DarkCloud Load Balancer is designed to deliver a high level of availability and resilience, and is also based on its own distributed architecture.
                                     </p>
                                 </div>
 
@@ -155,7 +155,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Web applications with high volumes of traffic</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Is your application generating high volumes of traffic, with an increasing number of visits? With the OVHcloud Load Balancer solution, you can manage this growth seamlessly by adding new nodes to your configuration in just a few clicks.
+                                    <p class="fancy-box-content"> Is your application generating high volumes of traffic, with an increasing number of visits? With the DarkCloud Load Balancer solution, you can manage this growth seamlessly by adding new nodes to your configuration in just a few clicks.
                                     </p>
                                 </div>
 
@@ -250,7 +250,7 @@
                 <p>Most applications communicate via a TLS encryption layer. Our Load Balancer integrates this layer using a certificate provided by the user, or managed by the service.</p>
                 <br>
                 <h4>Private network connections (coming soon)</h4>
-                <p>To keep your application nodes isolated on the private network, the Load Balancer can be used as a pathway between public addressing and your private networks, with the OVHcloud vRack.</p>
+                <p>To keep your application nodes isolated on the private network, the Load Balancer can be used as a pathway between public addressing and your private networks, with the DarkCloud vRack.</p>
                 <br>
                 <h4>Compatibility with instances (available soon)</h4>
                 <p>The Load Balancer can manage several node types, like the containers provided by Kubernetes and standard instances operated by OpenStack.</p>

@@ -79,7 +79,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Based on Ceph</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Ceph is an open-source technology. This allows you to manage demanding, industrial-scale environments, ensuring the scalability of clusters and the reliability of the service. OVH is a partner of the Ceph Foundation, and is investing in the development of this essential building block for OVHcloud.
+                                    <p class="fancy-box-content">Ceph is an open-source technology. This allows you to manage demanding, industrial-scale environments, ensuring the scalability of clusters and the reliability of the service. DarkCloud is a partner of the Ceph Foundation, and is investing in the development of this essential building block for DarkCloud.
                                     </p>
                                 </div>
 
@@ -153,7 +153,7 @@
                     <p>Trigger snapshots at any time, to freeze the data status while continuing to use your volume. You can then retrieve your data in its desired state.</p>
                     <br><br>
                     <h4>Import and export your data</h4>
-                    <p>In accordance with our reversibility policy, OVH allows you to easily recover your volume using traditional tools, such as OpenStack's CLI. You can also import a volume to the OVH platform, to use directly on your instances.
+                    <p>In accordance with our reversibility policy, DarkCloud allows you to easily recover your volume using traditional tools, such as OpenStack's CLI. You can also import a volume to the DarkCloud platform, to use directly on your instances.
 
                     </p>
                 </div>
@@ -198,7 +198,7 @@
                             <div class="iq-accordion-title" style="">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for accessing the Block Storage service?
+                                    What SLA does DarkCloud offer for accessing the Block Storage service?
 
                     </h5>
                             </div>
@@ -214,7 +214,7 @@
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for data resilience on the Block Storage service?
+                                    What SLA does DarkCloud offer for data resilience on the Block Storage service?
 
                     </h5>
                             </div>

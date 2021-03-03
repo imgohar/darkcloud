@@ -81,7 +81,7 @@
           </h5>
                                 <p class="icon-box-desc">Your physical private network will make it possible to securely interconnect and isolate your servers. With the vRack, build a global cloud infrastructure, no matter where your machines are located.
                                     <br>
-                                    Included with a range of OVH services
+                                    Included with a range of DarkCloud services
 
                                 </p>
                                 <br>
@@ -94,16 +94,16 @@
                             
                             <div class="icon-box-content">
                                 <img src="{{URL::asset('images/dark-cloud/n-a-s-2.png')}}" alt="QLOUD">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">OVHCloud Connect
+                                <h5 class="icon-box-title"> <a href="javascript:void(0)">DarkCloud Connect
 
                                 </a>
           </h5>
-                                <p class="icon-box-desc"> As a true hybrid solution, OVHCloud Connect allows you to interconnect your own network to your infrastructures hosted in our data centers. Deploy your cloud through a private, secure and high-performance network.
+                                <p class="icon-box-desc"> As a true hybrid solution, DarkCloud Connect allows you to interconnect your own network to your infrastructures hosted in our data centers. Deploy your cloud through a private, secure and high-performance network.
                                     <br> <br>
                                     From: $479.00/month
                                 </p>
                                 <br>
-                                <a href="">Discover the OVHCloud Connect solution</a>
+                                <a href="/network-security/ovh-cloud">Discover the DarkCloud Connect solution</a>
                             </div>
                         </div>
                     </div>
@@ -155,13 +155,13 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Load balancing</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Ensure flexibility and high availability for your products with the OVH Load Balancer. The traffic load of your services is distributed among your different IP addresses for optimal response time and performance.
+                                    <p class="fancy-box-content">Ensure flexibility and high availability for your products with the DarkCloud Load Balancer. The traffic load of your services is distributed among your different IP addresses for optimal response time and performance.
                                         <br><br>
                                         From: $22.99/month
 
                                     </p>
                                     <br>
-                                    <p><a href="/solutions/load-balancers">Discover the OVH Load Balancer</a></p>
+                                    <p><a href="/solutions/load-balancers">Discover the DarkCloud Load Balancer</a></p>
                                 </div>
 
                             </div>
@@ -176,13 +176,13 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Anti-DDoS</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Included with all our services, the OVH Anti-DDoS offers powerful permanent protection against distributed denial of service attacks. In the event of an attack, your activities won’t be affected.
+                                    <p class="fancy-box-content"> Included with all our services, the DarkCloud Anti-DDoS offers powerful permanent protection against distributed denial of service attacks. In the event of an attack, your activities won’t be affected.
                                     <br><br>
-                                    Included with our OVH services
+                                    Included with our DarkCloud services
 
                                     </p>
                                     <br>
-                                    <p><a href="/anti-ddos">Discover the OVH Anti-DDoS</a></p>
+                                    <p><a href="/anti-ddos">Discover the DarkCloud Anti-DDoS</a></p>
                                 </div>
 
                                 

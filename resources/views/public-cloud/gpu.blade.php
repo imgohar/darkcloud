@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         Cloud servers specially designed for processing massively parallel tasks  </h2>
-                       <p class="iq-title-desc pr-lg-5">GPU instances integrate NVIDIA Tesla V100 graphic processors to meet the requirements of massively parallel processing. Since they are integrated into the OVHcloud solution, you get the advantages of on-demand resources and hourly billing. These cloud servers are adapted to the needs of machine learning and deep learning.</p></div>
+                       <p class="iq-title-desc pr-lg-5">GPU instances integrate NVIDIA Tesla V100 graphic processors to meet the requirements of massively parallel processing. Since they are integrated into the DarkCloud solution, you get the advantages of on-demand resources and hourly billing. These cloud servers are adapted to the needs of machine learning and deep learning.</p></div>
                        
                     </div>
                  </div>
@@ -78,7 +78,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> NVIDIA GPU Cloud</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> To provide the best user experience, OVH and NVIDIA have partnered up to offer a best-in-class GPU-accelerated platform, for deep learning and high-performance computing and ​artificial intelligence (AI). It is the simplest way to deploy and maintain GPU-accelerated containers, via a full catalogue.
+                                    <p class="fancy-box-content"> To provide the best user experience, DarkCloud and NVIDIA have partnered up to offer a best-in-class GPU-accelerated platform, for deep learning and high-performance computing and ​artificial intelligence (AI). It is the simplest way to deploy and maintain GPU-accelerated containers, via a full catalogue.
                                     </p>
                                 </div>
 
@@ -222,7 +222,7 @@
             Need to train your artificial intelligence with GPUs?</h3>
             <p>With our AI Training solution, you can train your AI models efficiently and easily, and optimise your GPU computing resources. <br>
             Focus on your business instead of the infrastructure that supports it. Launch your training tasks via a command line, and pay for the resources used by the minute.</p>
-            <p><a href="/public-cloud/ai-training">Get started with OVHcloud AI Training</a></p>
+            <p><a href="/public-cloud/ai-training">Get started with DarkCloud AI Training</a></p>
     </div>
 
     <div class="container">
@@ -280,7 +280,7 @@
                             <div class="iq-accordion-title" style="">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud guarantee for a GPU instance?
+                                    What SLA does DarkCloud guarantee for a GPU instance?
 
                     </h5>
                             </div>
@@ -351,7 +351,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all OVHcloud solutions at no extra cost.</p>
+                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all DarkCloud solutions at no extra cost.</p>
 
                             </div>
                         </div>

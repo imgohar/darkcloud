@@ -39,8 +39,8 @@
                         <div class="iq-title-icon">
                         </div>
                         <span class="iq-subtitle">Managed Bare Metal</span>
-                        <h2 class="iq-title">VMware virtualisation managed and operated by OVHcloud</h2>
-                        <p class="iq-title-desc">A fully-dedicated virtual infrastructure, hosted and managed by OVHcloud, and available in 90 minutes.
+                        <h2 class="iq-title">VMware virtualisation managed and operated by DarkCloud</h2>
+                        <p class="iq-title-desc">A fully-dedicated virtual infrastructure, hosted and managed by DarkCloud, and available in 90 minutes.
                         </p>
                         <p>
                             With the Managed Bare Metal Essentials range, opt for highly available VMware virtualisation, and stay focused on your business.
@@ -142,7 +142,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Unparalleled scalability</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Managed Bare Metal is designed to scale up in line with your needs. This solution is delivered with two hosts and two datastores. You can add and delete resources in a few minutes, from the vSphere interface or the OVHcloud Control Panel. Please note that new resources can be used on a monthly or hourly basis.
+                                    <p class="fancy-box-content"> Managed Bare Metal is designed to scale up in line with your needs. This solution is delivered with two hosts and two datastores. You can add and delete resources in a few minutes, from the vSphere interface or the DarkCloud Control Panel. Please note that new resources can be used on a monthly or hourly basis.
 
 
                                     </p>
@@ -184,7 +184,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Cost control</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Each pack from the Essentials range includes servers, storage, network and VMware licences. The platform is managed by OVHcloud teams, so you can reduce your costs for all IT operations (configuration, supervision and maintenance).
+                                    <p class="fancy-box-content">Each pack from the Essentials range includes servers, storage, network and VMware licences. The platform is managed by DarkCloud teams, so you can reduce your costs for all IT operations (configuration, supervision and maintenance).
                                     </p>
                                     
                                 </div>
@@ -331,7 +331,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text">Managed Bare Metal is a private infrastructure. It includes dedicated servers, storage, network and virtualisation licences, which are managed and operated by OVHcloud. </p>
+                            <p class="iq-content-text">Managed Bare Metal is a private infrastructure. It includes dedicated servers, storage, network and virtualisation licences, which are managed and operated by DarkCloud. </p>
 
                         </div>
                     </div>
@@ -347,7 +347,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text">The Essentials range combines the Managed Bare Metal solution with the VMware vSphere Enterprise Plus virtualisation licence. This means you get a high-performance infrastructure managed by OVHcloud, so you can focus on your business applications securely. </p>
+                            <p class="iq-content-text">The Essentials range combines the Managed Bare Metal solution with the VMware vSphere Enterprise Plus virtualisation licence. This means you get a high-performance infrastructure managed by DarkCloud, so you can focus on your business applications securely. </p>
 
                         </div>
                     </div>
@@ -356,7 +356,7 @@
                         <div class="iq-accordion-title">
                             <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                             <h5 class="mb-0 accordion-title">
-                                What are the advantages of a platform operated and managed by OVHcloud?
+                                What are the advantages of a platform operated and managed by DarkCloud?
 
                 </h5>
                         </div>
@@ -412,7 +412,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text">Your backup storage is included in the solution. This service is managed directly by OVHcloud. You can also enable the Veeam Managed Backup automatic backup option. Choose your backup level directly at the virtual machine (VM) level, to suit your needs. </p>
+                            <p class="iq-content-text">Your backup storage is included in the solution. This service is managed directly by DarkCloud. You can also enable the Veeam Managed Backup automatic backup option. Choose your backup level directly at the virtual machine (VM) level, to suit your needs. </p>
 
                         </div>
                     </div>
@@ -507,7 +507,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text">Both solutions are maintained and monitored by the service provider. The difference is that Managed Bare Metal Essentials is an OVHcloud solution, based in part on dedicated servers. We add network, storage, and virtualisation services into a single service. This means you can focus entirely on your business and developments — because we manage your servers, as well as the virtualisation system.</p>
+                            <p class="iq-content-text">Both solutions are maintained and monitored by the service provider. The difference is that Managed Bare Metal Essentials is an DarkCloud solution, based in part on dedicated servers. We add network, storage, and virtualisation services into a single service. This means you can focus entirely on your business and developments — because we manage your servers, as well as the virtualisation system.</p>
 
                         </div>
                     </div>

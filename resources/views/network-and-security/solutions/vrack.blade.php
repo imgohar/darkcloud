@@ -57,7 +57,7 @@
             <h3>What is the vRack?</h3>
             <p>
 
-                The vRack (virtual rack) technology enables your OVH services to be connected, isolated or spread across one or multiple private secure networks. Build complex private infrastructures on a global multi-datacenter scale using unique network technologies.
+                The vRack (virtual rack) technology enables your DarkCloud services to be connected, isolated or spread across one or multiple private secure networks. Build complex private infrastructures on a global multi-datacenter scale using unique network technologies.
                 
             </p>
 
@@ -109,7 +109,7 @@ The vRack adapts to the needs of your business. Build your infrastructure using 
 	
                             
 
-                            The vRack functions between the various OVH datacentres. From Europe to Canada, design your private redundant infrastructures distributed between multiple datacentres.</p>
+                            The vRack functions between the various DarkCloud datacentres. From Europe to Canada, design your private redundant infrastructures distributed between multiple datacentres.</p>
                 </div>
 
 
@@ -140,7 +140,7 @@ The vRack adapts to the needs of your business. Build your infrastructure using 
 
     <section>
         <h2>
-            Which OVH services can be connected using the vRack?</h2>
+            Which DarkCloud services can be connected using the vRack?</h2>
             
     </section>
 

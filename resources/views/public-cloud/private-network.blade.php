@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         A flexible, private connection between your instances</h2>
-                       <p class="iq-title-desc pr-lg-5">The emergence of software-defined networks (SDNs) in cloud infrastructures has given users increased flexibility when it comes to network management. In this spirit, the OVHcloud Public Cloud lets you design and build your network architecture on demand. By creating private networks, you implement virtual switches to connect your running project instances in real time, without any service interruptions.</p></div>
+                       <p class="iq-title-desc pr-lg-5">The emergence of software-defined networks (SDNs) in cloud infrastructures has given users increased flexibility when it comes to network management. In this spirit, the DarkCloud Public Cloud lets you design and build your network architecture on demand. By creating private networks, you implement virtual switches to connect your running project instances in real time, without any service interruptions.</p></div>
                        
                     </div>
                  </div>
@@ -62,7 +62,7 @@
 
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Our private network is built on OVHcloud vRack technology. With this solution, you can extend private networks between OVHcloud datacentres, to create secure and private connections between instances across the globe.
+                                    <p class="fancy-box-content">Our private network is built on DarkCloud vRack technology. With this solution, you can extend private networks between DarkCloud datacentres, to create secure and private connections between instances across the globe.
                                     </p>
                                 </div>
 
@@ -99,9 +99,9 @@
                             <div class="iq-img-area">
                                 <img src="{{URL::asset('images/fancy-list/03.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title">Extension to other OVHcloud services</h4>
+                                <h4 class="iq-fancy-title">Extension to other DarkCloud services</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">You can also use the vRack to connect different OVHcloud services to one another. For example, you can use your Private Network to connect your Public Cloud to Private Cloud or dedicated servers. This means you can create the hybrid infrastructures you need, while keeping your connections private.
+                                    <p class="fancy-box-content">You can also use the vRack to connect different DarkCloud services to one another. For example, you can use your Private Network to connect your Public Cloud to Private Cloud or dedicated servers. This means you can create the hybrid infrastructures you need, while keeping your connections private.
                                     </p>
                                 </div>
 
@@ -141,7 +141,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Multi-region disaster recovery plans (DRP)</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">The Public Cloud is available in most OVHcloud datacentres, which means that setting up a disaster recovery plan (DRP) is very viable. You can sync your data via a secure channel to organise a simple, efficient DRP.
+                                    <p class="fancy-box-content">The Public Cloud is available in most DarkCloud datacentres, which means that setting up a disaster recovery plan (DRP) is very viable. You can sync your data via a secure channel to organise a simple, efficient DRP.
                                     </p>
                                 </div>
 
@@ -158,7 +158,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Terraform deployment industrialisation</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content"> Terraform's OpenStack driver is used to manage the OVHcloud Public Cloud's Private Networks. If you are looking to deploy complex infrastructures that are difficult to industrialise, you can do so with resources like networks, subnets and ports via this Infrastructure-as-Code (IaC) tool.
+                                    <p class="fancy-box-content"> Terraform's OpenStack driver is used to manage the DarkCloud Public Cloud's Private Networks. If you are looking to deploy complex infrastructures that are difficult to industrialise, you can do so with resources like networks, subnets and ports via this Infrastructure-as-Code (IaC) tool.
                                     </p>
                                 </div>
 
@@ -293,7 +293,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">The technical limit is 4,000 private networks, but you may find that there is a quota limit for your project. You can request a quota increase via the OVHcloud Control Panel.</p>
+                                <p class="iq-content-text">The technical limit is 4,000 private networks, but you may find that there is a quota limit for your project. You can request a quota increase via the DarkCloud Control Panel.</p>
 
                             </div>
                         </div>
@@ -323,7 +323,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Yes, all OVHcloud private networks are managed by our vRack technology. This means you can extend private networks between different services. Simply attach the same vRack to each of the solutions.</p>
+                                <p class="iq-content-text">Yes, all DarkCloud private networks are managed by our vRack technology. This means you can extend private networks between different services. Simply attach the same vRack to each of the solutions.</p>
 
                             </div>
                         </div>

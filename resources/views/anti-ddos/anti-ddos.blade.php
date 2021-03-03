@@ -11,7 +11,7 @@
                             <div class="col-sm-12">
                                 <nav aria-label="breadcrumb" class="text-center iq-breadcrumb-two">
                                     <h2 class="title">
-                                        OVH anti-DDoS protection                    </h2>
+                                        DarkCloud anti-DDoS protection                    </h2>
                                         <p class="text-light">Keep your dedicated infrastructures protected against DDoS attacks</p>
                                     <ol class="breadcrumb main-bg">
                                         <li class="breadcrumb-item"><a href="javascript:void(0)"><i class="fa fa-home mr-2"></i>Anti DDOS</a></li>
@@ -32,7 +32,7 @@
                     <div class="row">
                         <div class="col-lg-6 offset-lg-3">
                             <p>Keep your dedicated infrastructures protected against DDoS attacks.</p>
-                            <p>OVH offers the most powerful anti-DDoS solution on the market.</p>
+                            <p>DarkCloud offers the most powerful anti-DDoS solution on the market.</p>
                             <p>It provides your services with round-the-clock protection against all types of DDoS attack, without any limitations in terms of volume or duration.</p>
                             <p><a href="">What is anti-DDoS protection?</a></p>
                             <p><a href="">Managing a DDoS attack</a></p>
@@ -153,7 +153,7 @@
                            <div class="icon-box-content">
                               <h5 class="icon-box-title"><a href="#">VAC</a>
                               </h5>
-                              <p class="icon-box-desc"> An infrastructure designed and deployed by OVH for all our services, to vacuum and mitigate traffic during a DDoS attack.
+                              <p class="icon-box-desc"> An infrastructure designed and deployed by DarkCloud for all our services, to vacuum and mitigate traffic during a DDoS attack.
                               </p>
                               
                            </div>

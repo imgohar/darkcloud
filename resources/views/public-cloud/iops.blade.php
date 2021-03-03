@@ -267,7 +267,7 @@
                             <div class="iq-accordion-title" style="">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud guarantee for an IOPS instance?
+                                    What SLA does DarkCloud guarantee for an IOPS instance?
 
                     </h5>
                             </div>
@@ -395,7 +395,7 @@
 
                             <div class="iq-accordion-details">
 
-                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all OVHcloud solutions at no extra cost. </p>
+                                <p class="iq-content-text">Yes, our anti-DDoS protection is included with all DarkCloud solutions at no extra cost. </p>
 
                             </div>
                         </div>

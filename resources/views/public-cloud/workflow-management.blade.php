@@ -64,7 +64,7 @@
 
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Backups are of vital importance, and are undoubtedly one of the first factors that should be taken into account when we consider automating an infrastructure. OVHcloud has simplified the setup of backup scenarios, by making them directly accessible via the OVHcloud Control Panel
+                                    <p class="fancy-box-content">Backups are of vital importance, and are undoubtedly one of the first factors that should be taken into account when we consider automating an infrastructure. DarkCloud has simplified the setup of backup scenarios, by making them directly accessible via the DarkCloud Control Panel
                                     </p>
                                 </div>
 

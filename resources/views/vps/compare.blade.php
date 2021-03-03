@@ -317,7 +317,7 @@
                         <div class="iq-accordion-title" style="">
                             <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                             <h5 class="mb-0 accordion-title">
-                                How do I choose my OVHcloud VPS?
+                                How do I choose my DarkCloud VPS?
 
                 </h5>
                         </div>
@@ -404,7 +404,7 @@
                         <div class="iq-accordion-details">
 
                             <p class="iq-content-text">Web hosting control panels are used to simplify the way you manage multiple websites and services hosted on a single server. Administration actions are managed by these applications. You just need knowledge of how to use and configure the web hosting control panel.
-                                We offer licences for these web hosting control panels when you purchase an OVHcloud VPS.</p>
+                                We offer licences for these web hosting control panels when you purchase an DarkCloud VPS.</p>
 
                         </div>
                     </div>
@@ -412,7 +412,7 @@
                         <div class="iq-accordion-title">
                             <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                             <h5 class="mb-0 accordion-title">
-                                What is OVHcloud Anti-DDoS protection, and what is it used for?
+                                What is DarkCloud Anti-DDoS protection, and what is it used for?
 
                 </h5>
                         </div>
@@ -421,9 +421,9 @@
 
                             <p class="iq-content-text">This is our system to protect against distributed denial-of-service (DDoS) attacks. The aim of these attacks is to compromise a number of servers, and force them to saturate others with requests. The targeted infrastructure is then overwhelmed with several thousands of connection requests per second, making it unavailable as a result.
 
-                                DDoS attacks are becoming more widely used by malicious parties, but OVHcloud is working hard to stop them from having an impact on services.
+                                DDoS attacks are becoming more widely used by malicious parties, but DarkCloud is working hard to stop them from having an impact on services.
                                 
-                                OVHcloud Anti-DDoS protection is not optional — it's included with all of our servers.</p>
+                                DarkCloud Anti-DDoS protection is not optional — it's included with all of our servers.</p>
 
                         </div>
                     </div>
@@ -459,7 +459,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text">OVHcloud does not take backups of the data hosted on your VPS. You are responsible for ensuring that your VPS is backed up.
+                            <p class="iq-content-text">DarkCloud does not take backups of the data hosted on your VPS. You are responsible for ensuring that your VPS is backed up.
                                 To take backups, you can use the following options: manual backup (snapshots), or automated backup.</p>
 
                         </div>

@@ -89,7 +89,7 @@
                             <div class="icon-box-content">
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">Network connectivity optimised to suit your needs</a>
           </h5>
-                                <p class="icon-box-desc">The OVHcloud network infrastructure adapts to the needs and location of your users in order to guarantee the quality of data transfer to your customers. Our bandwidth offerings enable you to take advantage of all or part of the global OVHcloud infrastructure; which includes datacentres across Europe, Asia and America. Optimised performance means decreased latency, a better user experience and improved traffic flow.    </p>
+                                <p class="icon-box-desc">The DarkCloud network infrastructure adapts to the needs and location of your users in order to guarantee the quality of data transfer to your customers. Our bandwidth offerings enable you to take advantage of all or part of the global DarkCloud infrastructure; which includes datacentres across Europe, Asia and America. Optimised performance means decreased latency, a better user experience and improved traffic flow.    </p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
             </div>
             <div class="col-lg-12 text-center align-self-center">
                 <div class="iq-btn-container d-inline-block mr-4">
-                      <p class="text-light mt-4">Login to the OVHcloud control panel to extend your Public Bandwidth capacity today</p>
+                      <p class="text-light mt-4">Login to the DarkCloud control panel to extend your Public Bandwidth capacity today</p>
                  <a class="iq-button iq-hover d-inline" href="#">  
                     Control Panel     
                 </a>
@@ -165,7 +165,7 @@
                          </div>
                          <h2 class="iq-title text-capitalize">
                             Be ready for upload requirements or mass distribution like software updates</h2>
-                         <p class="iq-title-desc pr-lg-5">Upload requirements are often blamed for ‘breaking the internet’, usually when thousands of users perform hefty software updates at the same time. With OVHcloud, you can increase the bandwidth included by default and make it guaranteed for specific upload requirements or mass distribution like software updates.</p></div>
+                         <p class="iq-title-desc pr-lg-5">Upload requirements are often blamed for ‘breaking the internet’, usually when thousands of users perform hefty software updates at the same time. With DarkCloud, you can increase the bandwidth included by default and make it guaranteed for specific upload requirements or mass distribution like software updates.</p></div>
                          
                       </div>
                       <div class="col-lg-6 col-sm-12 mb-lg-0 mb-4 wow fadeInLeft">
@@ -204,13 +204,13 @@
                      <h4>What is bandwidth?</h4>
                      <p>In computing, bandwidth is the amount of data that can be transferred across the network. It’s the transmission capacity of a connection, in other words the maximum rate of data transfer. When we talk about dedicated servers, bandwidth is the maximum amount of data transmitted to and from the server per second.
 
-                        Historically, the bandwidth was measured in bits per second (bps). However, today’s network connections provide much higher rates. For example, OVHcloud dedicated servers are equipped with 500Mbps bandwidth by default. Additional public bandwidth options allow you to increase that capacity, even to 10Gbps (gigabits per second).</p>
+                        Historically, the bandwidth was measured in bits per second (bps). However, today’s network connections provide much higher rates. For example, DarkCloud dedicated servers are equipped with 500Mbps bandwidth by default. Additional public bandwidth options allow you to increase that capacity, even to 10Gbps (gigabits per second).</p>
                      <h4>How to increase bandwidth?</h4>
-                     <p>To increase guaranteed bandwidth of your dedicated server at OVHcloud, login to your control panel using your ID and password credentials.
+                     <p>To increase guaranteed bandwidth of your dedicated server at DarkCloud, login to your control panel using your ID and password credentials.
 
-                        To optimise your OVHcloud bandwidth solution, evaluate how much data you might need to fulfill your bandwidth requirements in the future. This way, you avoid having to upgrade your bandwidth requirements at a later date.
+                        To optimise your DarkCloud bandwidth solution, evaluate how much data you might need to fulfill your bandwidth requirements in the future. This way, you avoid having to upgrade your bandwidth requirements at a later date.
                         
-                        All OVHcloud dedicated servers can access public network with a given, guaranteed and unmetered bandwidth. However, some digital projects, such as VOD (video on demand) or live streaming services, require intensive data transmission and additional network bandwidth to broadcast media.</p>
+                        All DarkCloud dedicated servers can access public network with a given, guaranteed and unmetered bandwidth. However, some digital projects, such as VOD (video on demand) or live streaming services, require intensive data transmission and additional network bandwidth to broadcast media.</p>
 
                  </div>
              </section>

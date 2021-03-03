@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         Quick, simple data analysis with Apache Spark</h2>
-                       <p class="iq-title-desc pr-lg-5">When you want to process your business data, you have a certain volume of data in one place, and a query in another, in the form of a few lines of code. With Data Processing, OVHcloud deploys an Apache Spark cluster in just a few minutes to respond to your query. </p></div>
+                       <p class="iq-title-desc pr-lg-5">When you want to process your business data, you have a certain volume of data in one place, and a query in another, in the form of a few lines of code. With Data Processing, DarkCloud deploys an Apache Spark cluster in just a few minutes to respond to your query. </p></div>
                        
                     </div>
                  </div>
@@ -117,7 +117,7 @@
 
         <div class="container">
             <h3>How does the Data Processing solution work?</h3>
-            <p>OVHcloud carefully optimises its deployments, and this has made it able to create and destroy Apache Spark clusters on demand, which are used to process high volumes of data. Once they are deployed, Spark will directly browse through the data and load it into the memory, then process it all at once before delivering the result and freeing up the resources.</p>
+            <p>DarkCloud carefully optimises its deployments, and this has made it able to create and destroy Apache Spark clusters on demand, which are used to process high volumes of data. Once they are deployed, Spark will directly browse through the data and load it into the memory, then process it all at once before delivering the result and freeing up the resources.</p>
             <div class="row">
                 <div class="col-lg-4">
                     <h3>1</h3>

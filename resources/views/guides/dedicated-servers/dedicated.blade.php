@@ -61,7 +61,7 @@
                     <p class="bg-light p-2"><a href="">Hot Swap - Raid Hard</a></p>
                     <p class="bg-light p-2"><a href="">Finding the serial number of a hard disk</a></p>
                     <p class="bg-light p-2"><a href="">Installing Real Time Monitoring (RTM)</a></p>
-                    <p class="bg-light p-2"><a href="">Installing an OVH SSH key</a></p>
+                    <p class="bg-light p-2"><a href="">Installing an DarkCloud SSH key</a></p>
 
                     <h2>RAID and disks</h2>
                     <br>
@@ -88,7 +88,7 @@
                     <br>
                     <p class="bg-light p-2"><a href="">Changing the root password on a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Changing the admin password on a Windows dedicated server</a></p>
-                    <p class="bg-light p-2"><a href="">Starting your server on an OVH kernel</a></p>
+                    <p class="bg-light p-2"><a href="">Starting your server on an DarkCloud kernel</a></p>
                     <p class="bg-light p-2"><a href="">Using backup storage on a dedicated server</a></p>
                     <p class="bg-light p-2"><a href="">Changing a Windows Server product key</a></p>
 
@@ -96,7 +96,7 @@
                     <br>
                     <p class="bg-light p-2"><a href="">Configuring the Network Firewall</a></p>
                     <p class="bg-light p-2"><a href="">Configuring a network bridge</a></p>
-                    <p class="bg-light p-2"><a href="">What are the IP addresses of the OVH monitoring ?</a></p>
+                    <p class="bg-light p-2"><a href="">What are the IP addresses of the DarkCloud monitoring ?</a></p>
                     <p class="bg-light p-2"><a href="">Configuring IP aliasing</a></p>
                     <p class="bg-light p-2"><a href="">Configuring IPv6 on dedicated servers</a></p>
                     <p class="bg-light p-2"><a href="">Assigning a Virtual MAC to a Failover IP</a></p>

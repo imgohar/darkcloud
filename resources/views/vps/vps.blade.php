@@ -251,7 +251,7 @@
             <img src="{{URL::asset('images/dark-cloud/vps-1.png')}}" alt="vps">
         </div>
         <div class="col-lg-9">
-            Our VPS solutions are designed to suit all of your needs, and scale up as your business grows. You do not need to provision resources — simply add what you need, when you need it, via the OVHcloud Control Panel. This means you only pay for what you use, helping you manage your budget.
+            Our VPS solutions are designed to suit all of your needs, and scale up as your business grows. You do not need to provision resources — simply add what you need, when you need it, via the DarkCloud Control Panel. This means you only pay for what you use, helping you manage your budget.
         </div>
     </div>
 </div>
@@ -278,7 +278,7 @@
             <div class="icon-box-content">
               <h5 class="icon-box-title"><a href="#">Increased performance</a>
               </h5>
-              <p class="icon-box-desc">Our servers are assembled and configured by OVHcloud, to deliver you optimal performance. Our VPS servers are powered by Intel next-generation architecture, NVMe SSD storage, and a highly resilient infrastructure, to meet your needs.
+              <p class="icon-box-desc">Our servers are assembled and configured by DarkCloud, to deliver you optimal performance. Our VPS servers are powered by Intel next-generation architecture, NVMe SSD storage, and a highly resilient infrastructure, to meet your needs.
               </p>
               
             </div>
@@ -334,7 +334,7 @@
               <div class="icon-box-content">
                 <h5 class="icon-box-title"><a href="#">Backup options</a>
                 </h5>
-                <p class="icon-box-desc"> Store and secure your data on an external storage space, using our VPS backup options. With the Snapshot option, you can take a snapshot of your virtual server in just a few clicks via the OVHcloud Control Panel.</p>
+                <p class="icon-box-desc"> Store and secure your data on an external storage space, using our VPS backup options. With the Snapshot option, you can take a snapshot of your virtual server in just a few clicks via the DarkCloud Control Panel.</p>
               </div>
             </div>
           </div>
@@ -403,7 +403,7 @@
                             
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> 
-                                    OVHcloud VPS for Minecraft
+                                    DarkCloud VPS for Minecraft
                                   </h4>
                                 <div class="special-content">
                                     <p class="fancy-box-content">A scalable, secure hosting solution for one of the world’s most popular online games, ideal for both gamers and hosting professionals.
@@ -551,7 +551,7 @@
 
                         <div class="iq-accordion-details">
 
-                            <p class="iq-content-text"> No, OVHcloud VPS solutions do not include a domain name or email service.</p>
+                            <p class="iq-content-text"> No, DarkCloud VPS solutions do not include a domain name or email service.</p>
 
                         </div>
                     </div>
@@ -585,7 +585,7 @@
                         <div class="iq-accordion-details">
 
                             <p class="iq-content-text">With a Plesk web hosting plan, you are provided with a storage space that has Plesk pre-installed. You can manage your websites, but you are not the administrator of the service. You can only use it for managing your projects.
-                                If you choose a VPS, you are the server admin, and OVHcloud has no access to its content. This way, you are free to configure it in whatever way you like.</p>
+                                If you choose a VPS, you are the server admin, and DarkCloud has no access to its content. This way, you are free to configure it in whatever way you like.</p>
 
                         </div>
                     </div>
@@ -602,7 +602,7 @@
                         <div class="iq-accordion-details">
 
                             <p class="iq-content-text"> A VPS is a solution adapted for pre-production and production environments that don’t need constant performance.
-                                The OVHcloud Public Cloud offers a multi-server infrastructure, with high availability for servers. vRack, a private network service, is also available with this service.</p>
+                                The DarkCloud Public Cloud offers a multi-server infrastructure, with high availability for servers. vRack, a private network service, is also available with this service.</p>
 
                         </div>
                     </div>

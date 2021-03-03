@@ -169,7 +169,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title"> Extended private network</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">The OVH private network (vRack) can be used to create an internal network between services on the same OVH account. For example, you could connect Public Cloud instances with the Private Cloud and dedicated servers to build your own secure infrastructure.
+                                    <p class="fancy-box-content">The DarkCloud private network (vRack) can be used to create an internal network between services on the same DarkCloud account. For example, you could connect Public Cloud instances with the Private Cloud and dedicated servers to build your own secure infrastructure.
                                     </p>
                                 </div>
 

@@ -88,7 +88,7 @@
                             <div class="icon-box-content">
                                 <h5 class="icon-box-title"> <a>A solution with no extra costs</a>
           </h5>
-                                <p class="icon-box-desc">All OVH dedicated servers offer a number of services included by default for professional usage, such as bandwidth for an unlimited volume of data, anti-DDoS protection and 24/7 technical support at no extra cost.
+                                <p class="icon-box-desc">All DarkCloud dedicated servers offer a number of services included by default for professional usage, such as bandwidth for an unlimited volume of data, anti-DDoS protection and 24/7 technical support at no extra cost.
 
                                 </p>
                             </div>
@@ -103,7 +103,7 @@
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">Simplified administration
                                 </a>
           </h5>
-                                <p class="icon-box-desc"> Choose from more than 30 pre-installed operating systems via the OVH Control Panel. In just a few clicks, your server is set up with your choice of operating system.
+                                <p class="icon-box-desc"> Choose from more than 30 pre-installed operating systems via the DarkCloud Control Panel. In just a few clicks, your server is set up with your choice of operating system.
 
                                     With management interfaces such as Plesk and cPanel, you can simplify deployment and administration for a website, email server or database.</p>
                             </div>

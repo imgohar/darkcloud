@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         A wide range of compatible operating systems</h2>
-                       <p class="iq-title-desc pr-lg-5">In addition to the Public Image Catalog, which provides system images maintained by OVH, you can build a Private Image Catalog. This means your instances can access operating systems specifically configured to you, or from other publishers. </p></div>
+                       <p class="iq-title-desc pr-lg-5">In addition to the Public Image Catalog, which provides system images maintained by DarkCloud, you can build a Private Image Catalog. This means your instances can access operating systems specifically configured to you, or from other publishers. </p></div>
                        
                     </div>
                  </div>
@@ -75,7 +75,7 @@
                 <h4>Multi-format
 
                 </h4>
-                <p>OVH can manage several types of virtual disk format, including QCOW2, RAW, VMDK, ISO, AMI/AKI/ARI, VDI and VHD.</p>
+                <p>DarkCloud can manage several types of virtual disk format, including QCOW2, RAW, VMDK, ISO, AMI/AKI/ARI, VDI and VHD.</p>
                 <br>
                 
                 <h4>Sharing between projects
@@ -153,7 +153,7 @@
                                     <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                     <h5 class="mb-0 accordion-title">
                                         
-                                        What SLA does OVHcloud offer for accessing the Private Image Catalog service?
+                                        What SLA does DarkCloud offer for accessing the Private Image Catalog service?
     
                         </h5>
                                 </div>
@@ -169,7 +169,7 @@
                                 <div class="iq-accordion-title">
                                     <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                     <h5 class="mb-0 accordion-title">
-                                        What SLA does OVHcloud offer for data resilience on the Private Image Catalog service?
+                                        What SLA does DarkCloud offer for data resilience on the Private Image Catalog service?
                         </h5>
                                 </div>
     

@@ -97,7 +97,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Triple replication</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Volume snapshots are not backups. However, they still benefit from the triple-replication capabilities of the Ceph clusters, managed by OVH, ensuring they offer the same reliability.
+                                    <p class="fancy-box-content">Volume snapshots are not backups. However, they still benefit from the triple-replication capabilities of the Ceph clusters, managed by DarkCloud, ensuring they offer the same reliability.
                                     </p>
                                 </div>
 
@@ -177,7 +177,7 @@
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
                                     
-                                    What SLA does OVHcloud offer for accessing the Volume Snapshot service?
+                                    What SLA does DarkCloud offer for accessing the Volume Snapshot service?
 
                     </h5>
                             </div>
@@ -193,7 +193,7 @@
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for data resilience on the service?
+                                    What SLA does DarkCloud offer for data resilience on the service?
                     </h5>
                             </div>
 

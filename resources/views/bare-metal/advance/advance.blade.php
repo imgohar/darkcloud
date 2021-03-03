@@ -117,7 +117,7 @@
                                 <h5 class="icon-box-title"> <a href="javascript:void(0)">Private network - vRack
                                 </a>
           </h5>
-                                <p class="icon-box-desc">A high speed connection is available with all Advance servers, via the OVH vRack private network. With this feature, you can securely interconnect all of your OVH solutions, regardless of which datacentres they are hosted in.</p>
+                                <p class="icon-box-desc">A high speed connection is available with all Advance servers, via the DarkCloud vRack private network. With this feature, you can securely interconnect all of your DarkCloud solutions, regardless of which datacentres they are hosted in.</p>
                             </div>
                         </div>
                     </div>

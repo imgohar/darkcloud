@@ -42,7 +42,7 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         The most popular system images and pre-installed applications</h2>
-                       <p class="iq-title-desc pr-lg-5">In order to get your systems up and running as quickly as possible, OVH offers the industry-standard cloud images, as well as the most popular pre-installed applications. </p></div>
+                       <p class="iq-title-desc pr-lg-5">In order to get your systems up and running as quickly as possible, DarkCloud offers the industry-standard cloud images, as well as the most popular pre-installed applications. </p></div>
                        
                     </div>
                  </div>
@@ -59,12 +59,12 @@
                             <div class="iq-img-area">
                                 <img src="{{URL::asset('images/fancy-list/01.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title">Maintained by OVH
+                                <h4 class="iq-fancy-title">Maintained by DarkCloud
 
 
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">The images are produced and maintained by OVH. You do not have to worry about providing the classic system images, and updates are also provided by us.
+                                    <p class="fancy-box-content">The images are produced and maintained by DarkCloud. You do not have to worry about providing the classic system images, and updates are also provided by us.
                                     </p>
                                 </div>
 
@@ -80,12 +80,12 @@
                             <div class="iq-img-area">
                                 <img src="{{URL::asset('images/fancy-list/01.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title">Optimised for the OVH infrastructure
+                                <h4 class="iq-fancy-title">Optimised for the DarkCloud infrastructure
 
 
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">The system images provided are specifically configured to make the most of the OVH infrastructure. You enjoy the full performance offered by the instance. 
+                                    <p class="fancy-box-content">The system images provided are specifically configured to make the most of the DarkCloud infrastructure. You enjoy the full performance offered by the instance. 
                                     </p>
                                 </div>
 
@@ -300,7 +300,7 @@
                                     <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                     <h5 class="mb-0 accordion-title">
                                         
-                                        What SLA does OVHcloud offer for accessing the Public Image Catalog service?
+                                        What SLA does DarkCloud offer for accessing the Public Image Catalog service?
     
                         </h5>
                                 </div>
@@ -322,7 +322,7 @@
     
                                 <div class="iq-accordion-details">
     
-                                    <p class="iq-content-text">When cloud images are offered by publishers, OVHcloud delivers them as they are. This means you get exactly the same behaviour as you would from other providers who use the same images. When the publisher does not provide a cloud image, we build custom images to work properly in the OVHcloud environment. </p>
+                                    <p class="iq-content-text">When cloud images are offered by publishers, DarkCloud delivers them as they are. This means you get exactly the same behaviour as you would from other providers who use the same images. When the publisher does not provide a cloud image, we build custom images to work properly in the DarkCloud environment. </p>
     
                                 </div>
                             </div>
@@ -372,7 +372,7 @@
     
                                 <div class="iq-accordion-details">
     
-                                    <p class="iq-content-text">Once the instance has been deployed, you are responsible for maintaining your operating system. Even if OVHcloud updates its images, this does not affect instances that have already been deployed. You can use the standard system update channels on your instance.</p>
+                                    <p class="iq-content-text">Once the instance has been deployed, you are responsible for maintaining your operating system. Even if DarkCloud updates its images, this does not affect instances that have already been deployed. You can use the standard system update channels on your instance.</p>
     
                                 </div>
                             </div>
@@ -388,7 +388,7 @@
     
                                 <div class="iq-accordion-details">
     
-                                    <p class="iq-content-text">OVHcloud provides a list of images for the most common uses. You may need something more specific. If this is the case, you can push a system image of your choice into the Private Image Catalog.</p>
+                                    <p class="iq-content-text">DarkCloud provides a list of images for the most common uses. You may need something more specific. If this is the case, you can push a system image of your choice into the Private Image Catalog.</p>
     
                                 </div>
                             </div>
@@ -399,13 +399,13 @@
                                     <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                     <h5 class="mb-0 accordion-title">
                                        
-                                        Will OVHcloud have access to my operating system if I use the images offered?
+                                        Will DarkCloud have access to my operating system if I use the images offered?
                         </h5>
                                 </div>
     
                                 <div class="iq-accordion-details">
     
-                                    <p class="iq-content-text">No, you are the sole administrator of your machine. OVHcloud does not have any access to your operating system.</p>
+                                    <p class="iq-content-text">No, you are the sole administrator of your machine. DarkCloud does not have any access to your operating system.</p>
     
                                 </div>
                             </div>

@@ -44,7 +44,7 @@
                         <h2 class="iq-title">Load Balancers</h2>
                         <p class="iq-title-desc">All our Cloud products can be scaled up or out with no constraints, in all our data centers.
                             <br>
-                            The OVH Load Balancer distributes the workload among your various services across our data centers. It ensures the scaling of your infrastructure in the event of heavy traffic, with optimized fault tolerance and response time. All this with a service level aiming for Zero Downtime.
+                            The DarkCloud Load Balancer distributes the workload among your various services across our data centers. It ensures the scaling of your infrastructure in the event of heavy traffic, with optimized fault tolerance and response time. All this with a service level aiming for Zero Downtime.
                         </p>
                         <ul>
                             <li>Failproof flexibility!</li>
@@ -52,7 +52,7 @@
 <li>Basic and advanced tech support 24/7</li>
 <li>Protection against Anti-DDoS attacks</li>
 <li>Free SSLs included</li>
-<li><a href="">A lot of features</a></li>
+<li><a href="/solutions/load-balancers/features">A lot of features</a></li>
                         </ul>
                        
                         
@@ -68,173 +68,158 @@
     <!-- About Us End -->
 
 
-        <!-- Icon-box Start -->
-        <section class="pt-0 iq-pb-70">
+        <section>
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="text-center iq-title-box iq-title-default iq-title-box-2">
-                            <div class="iq-title-icon">
-                            </div>
-                            {{-- <span class="iq-subtitle">Connectivity</span> --}}
-                            <h2 class="iq-title">Connectivity
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-icon-box iq-icon-box-style-1">
-                           
-                            <div class="icon-box-content">
-                                <img src="{{URL::asset('images/dark-cloud/n-a-s-1.png')}}"  alt="QLOUD">
-                                <h5 class="icon-box-title"> <a>Private network (vRack)
-                                </a>
-          </h5>
-                                <p class="icon-box-desc">Your physical private network will make it possible to securely interconnect and isolate your servers. With the vRack, build a global cloud infrastructure, no matter where your machines are located.
-                                    <br>
-                                    Included with a range of OVH services
-
-                                </p>
-                                <br>
-                                <a href="/solutions/vrack">Discover the vRack solution</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-icon-box iq-icon-box-style-1">
-                            
-                            <div class="icon-box-content">
-                                <img src="{{URL::asset('images/dark-cloud/n-a-s-2.png')}}" alt="QLOUD">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">OVHCloud Connect
-
-                                </a>
-          </h5>
-                                <p class="icon-box-desc"> As a true hybrid solution, OVHCloud Connect allows you to interconnect your own network to your infrastructures hosted in our data centers. Deploy your cloud through a private, secure and high-performance network.
-                                    <br> <br>
-                                    From: $479.00/month
-                                </p>
-                                <br>
-                                <a href="">Discover the OVHCloud Connect solution</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12">
-                        <div class="iq-icon-box iq-icon-box-style-1">
-                            
-                            <div class="icon-box-content">
-                                <img src="{{URL::asset('images/dark-cloud/n-a-s-3.png')}}" alt="QLOUD">
-                                <h5 class="icon-box-title"> <a href="javascript:void(0)">Additional IPs and IP blocks
-                                </a>
-          </h5>
-                                <p class="icon-box-desc">IP addresses and blocks offer you flexibility in the development of your projects. With the fail-over IP, you can switch from one server to another if necessary or expand your business internationally with addresses located in the target country.
-                                <br><br>
-                                From: $3.00 /IP
-                                </p>
-                                <br>
-                                <a href="/bare-metal-ip">Discover additional IPs and IP blocks</a>
-                            </div>
-                        </div>
-                    </div>
-                    
-                                    </div>
+                <h3 class="text-center">Solution comparison table</h3>
+                <table>
+                    <tr>
+                        <td></td>
+                        <td>Pack 1</td>
+                        <td>Pack 2</td>
+                        <td>Pack 3</td>
+                    </tr>
+                    <tr>
+                        <td>Traffic</td>
+                        <td>Unlimited*</td>
+                        <td>Unlimited*</td>
+                        <td>Unlimited*</td>
+                    </tr>
+                    <tr>
+                        <td>Private Network</td>
+                        <td>No</td>
+                        <td>Yes</td>
+                        <td>Yes</td>
+                    </tr>
+                    <tr>
+                        <td>Resources</td>
+                        <td>Distributed across several shared hosting servers</td>
+                        <td>Distributed across several shared hosting servers</td>
+                        <td>Service distributed across two Dedicated Servers</td>
+                    </tr>
+                </table>
             </div>
         </section>
-        <!-- Icon-box End -->
-
-     <!-- Icon-box Start -->
-    <section class="iq-pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="text-center iq-title-box iq-title-default iq-title-box-2">
-                        <div class="iq-title-icon">
-                        </div>
-                        {{-- <span class="iq-subtitle">Features</span> --}}
-                        <h2 class="iq-title">
-                     Traffic Management  </h2>
-
+        <section>
+            <div class="container">
+                <h2 class="text-center"> Product operation</h2>
+                <div class="row">
+                    <div class="col-lg-6 offset-lg-3 col-md-8 offset-md-2">
+                    <img src="{{URL::asset("images/dark-cloud/lb.svg")}}" alt="lb">
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-lg-2"></div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
-                        <div class="iq-fancy-box-content">
-                            <div class="iq-img-area">
-                                <img src="{{URL::asset('images/dark-cloud/n-a-s-4.png')}}" class="img-fluid" alt="QLOUD"> </div>
-                            <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title"> Load balancing</h4>
-                                <div class="special-content">
-                                    <p class="fancy-box-content">Ensure flexibility and high availability for your products with the OVH Load Balancer. The traffic load of your services is distributed among your different IP addresses for optimal response time and performance.
-                                        <br><br>
-                                        From: $22.99/month
+        </section>
 
-                                    </p>
-                                    <br>
-                                    <p><a href="/bare-metal-ip">Discover the OVH Load Balancer</a></p>
-                                </div>
-
-                            </div>
-                        </div>
+         
+ <!-- Faq Start -->
+ <section class="iq-pricing-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="text-center iq-title-box iq-title-default iq-title-box-2">
+                    <div class="iq-title-icon">
                     </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="iq-fancy-box-list iq-fancy-box-list-1  text-left iq-shadow">
-                        <div class="iq-fancy-box-content">
-                            <div class="iq-img-area">
-                                <img src="{{URL::asset('images/dark-cloud/n-a-s-5.png')}}" class="img-fluid" alt="QLOUD"> </div>
-                            <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title"> Anti-DDoS</h4>
-                                <div class="special-content">
-                                    <p class="fancy-box-content"> Included with all our services, the OVH Anti-DDoS offers powerful permanent protection against distributed denial of service attacks. In the event of an attack, your activities won’t be affected.
-                                    <br><br>
-                                    Included with our OVH services
-
-                                    </p>
-                                    <br>
-                                    <p><a href="/anti-ddos">Discover the OVH Anti-DDoS</a></p>
-                                </div>
-
-                                
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-            </div>  
-
-                
-                        </div>
-                    </div>
+                    <span class="iq-subtitle">Faq</span>
+                    <h2 class="iq-title">Frequently Asked Questions</h2>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- Icon-box End -->
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="iq-accordion  iq-accordion-semi-round iq-accordion-classic">
 
-    <section style="background: #0D1F67;color: #fff">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2">
-                    <div class="row">
-                        
-                        <div class="col-lg-5 text-center">
-                            <img src="{{URL::asset('images/dark-cloud/n-a-s-6.png')}}" alt="network security">
-                            <h4 class="text-white">Why securing my infrastructure?</h4>
-                            <p>
-                                Small and large companies may one day find themselves exposed to an attempted attack, whether it is directed against you or not. The most common is the DDoS attack, which consists in making the service unavailable by saturating the server with a barrage of requests. Inadequate support for the security of your infrastructure can also expose you to data leakage or loss. Don’t wait for an incident to occur before taking action.</p>
+                    <div class="iq-accordion-block  1 accordion-active">
+                        <div class="iq-accordion-title" style="">
+                            <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
+                            <h5 class="mb-0 accordion-title">
+                                Which traffic usage is calculated with our offers?
+
+                </h5>
                         </div>
-                        <div class="col-lg-2"></div>
-                        <div class="col-lg-5 text-center">
-                            <img src="{{URL::asset('images/dark-cloud/n-a-s-7.png')}}" alt="network security">
-                            <h4 class="text-white">How can I make my cloud secure?</h4>
-                            <p>
-                                Choosing Secure by design, a cloud designed for security, is the best solution to protect your business from any incident. Training and raising awareness among your teams is also essential in order to be as well prepared for any situation as possible. Our teams are at your disposal to support you in this process.</p>
+
+                        <div class="iq-accordion-details">
+
+                            <p class="iq-content-text">The entire incoming and outgoing traffic is calculated.</p>
+
                         </div>
                     </div>
+
+                    <div class="iq-accordion-block   2">
+                        <div class="iq-accordion-title">
+                            <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
+                            <h5 class="mb-0 accordion-title">
+                                Can I switch from one solution to another?
+
+                </h5>
+                        </div>
+
+                        <div class="iq-accordion-details">
+
+                            <p class="iq-content-text">You can upgrade to a superior offering in your customer control panel or by calling us.</p>
+
+                        </div>
+                    </div>
+
+
+                    <div class="iq-accordion-block   3">
+                        <div class="iq-accordion-title">
+                            <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
+                            <h5 class="mb-0 accordion-title">
+                                Which services are compatible?
+
+                </h5>
+                        </div>
+
+                        <div class="iq-accordion-details">
+
+                            <p class="iq-content-text"> All DarkCloud Cloud services are compatible with your Load Balancer: dedicated servers, Public Cloud, Private Cloud, VPS, etc.</p>
+
+                        </div>
+                    </div>
+
+                    <div class="iq-accordion-block   4">
+                        <div class="iq-accordion-title">
+                            <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
+                            <h5 class="mb-0 accordion-title">
+                                Can I connect my Load Balancer to an IP outside of DarkCloud?
+
+                </h5>
+                        </div>
+
+                        <div class="iq-accordion-details">
+
+                            <p class="iq-content-text"> This feature is not available at the moment. We're considering implementing it.</p>
+
+                        </div>
+                    </div>
+
+    <section class="bg-light">
+        <div class="container text-center">
+            <h3>Why choose DarkCloud?</h3>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb2.svg')}}" alt="lb">
+                    <h5>Failproof flexibility!</h5>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb3.svg')}}" alt="lb">
+                    <h5>Very high availability</h5>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb4.svg')}}" alt="lb">
+                    <h5>Basic and advanced tech support 24/7</h5>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb5.svg')}}" alt="lb">
+                    <h5>Protection against Anti-DDoS attacks</h5>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb6.svg')}}" alt="lb">
+                    <h5>Free SSLs included</h5>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <img src="{{URL::asset('images/dark-cloud/lb7.svg')}}" alt="lb">
+                    <h5><a href="/solutions/load-balancers/features">A lot of features</a></h5>
                 </div>
             </div>
         </div>

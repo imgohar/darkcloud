@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>star_120px-bkg-light@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbole" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star_120px-bkg-light">
+            <g id="Shape">
+                <path d="M60,3 C91.4802307,3 117,28.5197693 117,60 C117,91.4802307 91.4802307,117 60,117 C28.5197693,117 3,91.4802307 3,60 C3.03307047,28.5334777 28.5334777,3.03307047 60,3 M60,-7.10542736e-15 C26.862915,-1.0022667e-14 4.05812251e-15,26.862915 0,60 C-4.05812251e-15,93.137085 26.862915,120 60,120 C93.137085,120 120,93.137085 120,60 C120,44.0870106 113.67859,28.8257758 102.426407,17.5735931 C91.1742242,6.32141042 75.9129894,-3.57878053e-16 60,-1.33226763e-15" fill="#162843" fill-rule="nonzero"></path>
+                <polygon stroke="#162843" stroke-linecap="round" stroke-linejoin="round" points="60 78.85 40.53 89.96 45.08 68.01 28.5 52.93 50.78 50.47 60 30.04 69.22 50.47 91.5 52.93 74.92 68.01 79.47 89.96"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

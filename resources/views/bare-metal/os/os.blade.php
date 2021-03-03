@@ -27,7 +27,7 @@
     <!-- Breadcrumb End -->
   <div class="container">
       <h2 class="m-2">Distributions, operating systems and software available with your dedicated server</h2>
-      <p>Find optimised version that are compatible with your server via the OVHcloud Control Panel.*</p>
+      <p>Find optimised version that are compatible with your server via the DarkCloud Control Panel.*</p>
      
       <h4>Operating Systems</h4>
       <h5 class="mt-5">Linux/Unix</h5>

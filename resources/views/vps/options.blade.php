@@ -62,7 +62,7 @@
                 <p>Guaranteed flexibility</p>
             </div>
             <div class="col-lg-9 mt-5">
-                <p class="mt-5">The OVHcloud Load Balancer balances the load between services spread across multiple datacentres. It ensures that your infrastructure can be scaled to handle high volumes of traffic, boosts fault tolerance, and offers optimal response times. All of this is offered with a zero-downtime service level.</p>
+                <p class="mt-5">The DarkCloud Load Balancer balances the load between services spread across multiple datacentres. It ensures that your infrastructure can be scaled to handle high volumes of traffic, boosts fault tolerance, and offers optimal response times. All of this is offered with a zero-downtime service level.</p>
             </div>
 
         </div>
@@ -109,7 +109,7 @@
                     <p>Keep your data safe and protected</p>
                 </div>
                 <div class="col-lg-9">
-                    <p class="mt-5">The auto-backup option helps you avoid this complexity. A backup of your VPS (excluding your additional disks) is scheduled daily, exported, then replicated three times before it becomes available in the OVHcloud Control Panel.</p>
+                    <p class="mt-5">The auto-backup option helps you avoid this complexity. A backup of your VPS (excluding your additional disks) is scheduled daily, exported, then replicated three times before it becomes available in the DarkCloud Control Panel.</p>
                 </div>
                 
                 <div class="col-lg-3 mt-5 border text-center shadow">
@@ -176,7 +176,7 @@
                         <div class="iq-accordion-details">
 
                             <p class="iq-content-text">Snapshots are instantaneous images of your VPS, taken at a specific time. They can be compared to restore points.
-                                You can create a snapshot via the OVHcloud Control Panel, save it, then use it to restore your VPS. Your VPS will then be restored back to the state it was in when the snapshot was taken.
+                                You can create a snapshot via the DarkCloud Control Panel, save it, then use it to restore your VPS. Your VPS will then be restored back to the state it was in when the snapshot was taken.
                                 Please note that when you restore a VPS from a snapshot, the snapshot is then deleted.</p>
 
                         </div>

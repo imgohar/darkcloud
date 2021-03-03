@@ -42,11 +42,11 @@
                        {{-- <span class="iq-subtitle">About Us</span> --}}
                        <h2 class="iq-title text-capitalize">
                         Deploy your Hadoop big data cluster in just a few clicks</h2>
-                       <p class="iq-title-desc pr-lg-5">Deploying a big data cluster is usually a long, restrictive process. OVHcloud Big Data Cluster is designed to simplify this process for you. In under an hour, we can deliver a preconfigured, ready-to-use Apache Hadoop stack.
+                       <p class="iq-title-desc pr-lg-5">Deploying a big data cluster is usually a long, restrictive process. DarkCloud Big Data Cluster is designed to simplify this process for you. In under an hour, we can deliver a preconfigured, ready-to-use Apache Hadoop stack.
                         <br>
                         Based on a standard open-source Hadoop distribution, we preconfigure all the services you need to process data and secure the flow of data traffic.
                         <br>
-                        Deploy the OVHcloud Big Data Cluster solution for a range of uses, including market analysis, business intelligence, IoT and even preventative maintenance. The power is yours. </p></div>
+                        Deploy the DarkCloud Big Data Cluster solution for a range of uses, including market analysis, business intelligence, IoT and even preventative maintenance. The power is yours. </p></div>
                        
                     </div>
                  </div>
@@ -103,7 +103,7 @@ We base our solutions on the open-source Apache Hadoop operating system, along w
                     <h3>2</h3>
                     <h5>Deploy a cluster</h5>
                     <p>
-                        In just a few clicks, you can deploy a full big data cluster. OVHcloud configures it all for you.</p>
+                        In just a few clicks, you can deploy a full big data cluster. DarkCloud configures it all for you.</p>
                 </div>
                 <div class="col-lg-4">
                     <h3>3</h3>
@@ -163,14 +163,14 @@ We base our solutions on the open-source Apache Hadoop operating system, along w
                                     <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                     <h5 class="mb-0 accordion-title">
                                         
-                                        What SLA does OVHcloud offer for accessing the Big Data Cluster service?
+                                        What SLA does DarkCloud offer for accessing the Big Data Cluster service?
     
                         </h5>
                                 </div>
     
                                 <div class="iq-accordion-details">
     
-                                    <p class="iq-content-text">Although we maintain a high quality of service, this solution is not managed, and OVHcloud does not guarantee availability. For further information, please refer to the Terms & conditions.</p>
+                                    <p class="iq-content-text">Although we maintain a high quality of service, this solution is not managed, and DarkCloud does not guarantee availability. For further information, please refer to the Terms & conditions.</p>
     
                                 </div>
                             </div>

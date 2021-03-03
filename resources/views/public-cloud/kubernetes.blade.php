@@ -44,7 +44,7 @@
                         Free Managed Kubernetes® to orchestrate your containers</h2>
                        <p class="iq-title-desc pr-lg-5">Kubernetes® is one of the most widely-used container orchestration tools on the market. It is used by companies of all sizes. It can be used to deploy applications, scale them up and make them more resilient — even in hybrid or multi-cloud infrastructures.
                         <br>
-                        The Managed Kubernetes® solution is powered by OVHcloud Public Cloud instances. With OVHcloud Load Balancers and additional disks integrated into it, you can host any kind of work load on it with total reversibility.
+                        The Managed Kubernetes® solution is powered by DarkCloud Public Cloud instances. With DarkCloud Load Balancers and additional disks integrated into it, you can host any kind of work load on it with total reversibility.
                         <br>
                         The internal components of the solution are deployed, hosted, monitored and maintained in good condition by our teams. They are also upgraded free of charge. This way, you can focus on the containers and services associated with your core business, while getting the very most out of the Kubernetes® ecosystem.</p></div>
                        
@@ -62,12 +62,12 @@
                             <div class="iq-img-area">
                                 <img src="{{URL::asset('images/fancy-list/01.png')}}" class="img-fluid" alt="QLOUD"> </div>
                             <div class="iq-fancy-details">
-                                <h4 class="iq-fancy-title">Fully managed by OVH
+                                <h4 class="iq-fancy-title">Fully managed by DarkCloud
 
 
                                 </h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">OVH deploys, hosts and maintains all of the components needed for Kubernetes® to work, including updates linked to bugs and security patches. We also maintain the necessary components on your nodes. Once you have downloaded your kubeconfig file, you can use all the features of a certified Kubernetes® service straight away, while maintaining your focus on your business. Our teams manage the software elements and underlying hardware, which also benefits from OVH’s anti-DDoS protection.
+                                    <p class="fancy-box-content">DarkCloud deploys, hosts and maintains all of the components needed for Kubernetes® to work, including updates linked to bugs and security patches. We also maintain the necessary components on your nodes. Once you have downloaded your kubeconfig file, you can use all the features of a certified Kubernetes® service straight away, while maintaining your focus on your business. Our teams manage the software elements and underlying hardware, which also benefits from DarkCloud’s anti-DDoS protection.
                                     </p>
                                 </div>
 
@@ -85,7 +85,7 @@
                             <div class="iq-fancy-details">
                                 <h4 class="iq-fancy-title">Scalability and high availability</h4>
                                 <div class="special-content">
-                                    <p class="fancy-box-content">Exposing a service on multiple worker nodes is easily done, in just a few command lines. Kubernetes® launches containers and configures the Load Balancer for you, and you can instantly add new computing nodes. You can also define the health conditions for each service, after which Kubernetes® will relaunch any pods and containers that do not meet these criteria. Your nodes can be monitored, and your services benefit from the high availability of OVH Infrastructure-as-a-Service (IaaS) solutions.
+                                    <p class="fancy-box-content">Exposing a service on multiple worker nodes is easily done, in just a few command lines. Kubernetes® launches containers and configures the Load Balancer for you, and you can instantly add new computing nodes. You can also define the health conditions for each service, after which Kubernetes® will relaunch any pods and containers that do not meet these criteria. Your nodes can be monitored, and your services benefit from the high availability of DarkCloud Infrastructure-as-a-Service (IaaS) solutions.
                                     </p>
                                 </div>
 
@@ -102,7 +102,7 @@
     <!-- Icon-box End -->
 
    <div class="container">
-       <h3>Full management by OVHcloud</h3>
+       <h3>Full management by DarkCloud</h3>
        <div class="row">
            <div class="col-lg-6">
                <img src="{{URL::asset('images/dark-cloud/kubernetes.png')}}" alt="kuberenets">
@@ -219,10 +219,10 @@
                 
                 <h4>Load Balancer and pod autoscaling
                 </h4>
-                <p>Your Kubernetes® service is delivered to you, then your work nodes are provisioned, in a few minutes. The scheduler displays new services or replicates them on your nodes in a matter of seconds. By integrating the OVH Load Balancer, you can efficiently distribute traffic over multiple nodes. You can set CPU/RAM quotas, health conditions and automatic scaling for your pods.</p>
+                <p>Your Kubernetes® service is delivered to you, then your work nodes are provisioned, in a few minutes. The scheduler displays new services or replicates them on your nodes in a matter of seconds. By integrating the DarkCloud Load Balancer, you can efficiently distribute traffic over multiple nodes. You can set CPU/RAM quotas, health conditions and automatic scaling for your pods.</p>
                 <br>
                 <h4>Basic interface</h4>
-                <p>You can configure, add and delete nodes via the OVH Control Panel. You can also easily install the Kubernetes® Dashboard.</p>
+                <p>You can configure, add and delete nodes via the DarkCloud Control Panel. You can also easily install the Kubernetes® Dashboard.</p>
                 
 
                 </p>
@@ -239,7 +239,7 @@
                 <p>Dynamically add computing resources to your cluster, to fit your nodes' requirements.</p>
                 <br>
                 <h4>Integration with the vRack (soon)</h4>
-                <p>Display your cluster and its services publicly, or solely through your private OVH network.</p>
+                <p>Display your cluster and its services publicly, or solely through your private DarkCloud network.</p>
                 
             </div>
         </div>
@@ -259,7 +259,7 @@
               
               <h2 class="iq-title text-capitalize">
                 Managed Kubernetes® billing</h2>
-                <p class="text-white">The Managed Kubernetes® service is provided free of charge. This includes deployment, hosting and updates for all of the cluster’s master components, as well as the operational maintenance for your nodes (both operating system and Kubernetes® worker node components). You only pay for the computing resources and the storage hosting your containers and their persistent data, all while enjoying the standard OVH Public Cloud tariffs (with no charges for traffic).
+                <p class="text-white">The Managed Kubernetes® service is provided free of charge. This includes deployment, hosting and updates for all of the cluster’s master components, as well as the operational maintenance for your nodes (both operating system and Kubernetes® worker node components). You only pay for the computing resources and the storage hosting your containers and their persistent data, all while enjoying the standard DarkCloud Public Cloud tariffs (with no charges for traffic).
 
 
 
@@ -282,19 +282,19 @@
      
 
         <div class="container">
-            <h4>Also available on the OVHcloud infrastructure</h4>
+            <h4>Also available on the DarkCloud infrastructure</h4>
             <div class="row">
                 <div class="col-lg-6">
                     <img src="{{URL::asset('images/dark-cloud/platform-9.png')}}" alt="platform-9">
-                    <h5>OVHcloud partners with Platform9 to offer Kubernetes on dedicated servers</h5>
-                    <p>For customers wishing to make the most of Kubernetes orchestration on bare metal servers, OVHcloud has partnered with Platform9 to offer Kubernetes on its full range of dedicated servers.
+                    <h5>DarkCloud partners with Platform9 to offer Kubernetes on dedicated servers</h5>
+                    <p>For customers wishing to make the most of Kubernetes orchestration on bare metal servers, DarkCloud has partnered with Platform9 to offer Kubernetes on its full range of dedicated servers.
                         <br>
-                        Users who prefer strong hardware isolation or integration with their enterprise IT systems can now deploy a 100%-dedicated Kubernetes service, managed by Platform9, on all OVHcloud dedicated servers by subscribing to our new partner. Platform9 is a US-based company specialised in automatically deploying solutions like Kubernetes.</p>
+                        Users who prefer strong hardware isolation or integration with their enterprise IT systems can now deploy a 100%-dedicated Kubernetes service, managed by Platform9, on all DarkCloud dedicated servers by subscribing to our new partner. Platform9 is a US-based company specialised in automatically deploying solutions like Kubernetes.</p>
                         <a href="https://platform9.com/managed-kubernetes/"> Click here to find out more.
                         </a>
                 </div>
                 <div class="col-lg-6">
-                    <p>OVHcloud is the only provider that offers a wide range of Kubernetes deployments across all of its services, combining public (OpenStack), private (VMware) and dedicated cloud solutions.</p>
+                    <p>DarkCloud is the only provider that offers a wide range of Kubernetes deployments across all of its services, combining public (OpenStack), private (VMware) and dedicated cloud solutions.</p>
                 </div>
             </div>
         </div>
@@ -328,7 +328,7 @@
                             <div class="iq-accordion-title">
                                 <div class="iq-icon-right"><i aria-hidden="true" class="ion ion-minus-round active"></i><i aria-hidden="true" class="ion ion-plus inactive"></i></div>
                                 <h5 class="mb-0 accordion-title">
-                                    What SLA does OVHcloud offer for the Managed Kubernetes Service API server?
+                                    What SLA does DarkCloud offer for the Managed Kubernetes Service API server?
                     </h5>
                             </div>
 
